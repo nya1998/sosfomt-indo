@@ -1,19 +1,19 @@
 TOTAL_STRING:0136
 *******************************
 [0000]
-Read which entry?
+Muat entri ini?
 <------------------------------------------------------->
 [0001]
-Residents
+Warga
 <------------------------------------------------------->
 [0002]
 Nature Sprites
 <------------------------------------------------------->
 [0003]
-Animals
+Hewan
 <------------------------------------------------------->
 [0004]
-Pets
+Peliharaan
 <------------------------------------------------------->
 [0005]
 -
@@ -34,16 +34,16 @@ Pets
 -
 <------------------------------------------------------->
 [0011]
-View Portrait
+Tampilan Portrait
 <------------------------------------------------------->
 [0012]
-Job Request
+Pekerjaan
 <------------------------------------------------------->
 [0013]
-Days Left: %d 
+Sisa hari: %d 
 <------------------------------------------------------->
 [0014]
-None
+Tidak ada
 <------------------------------------------------------->
 [0015]
 -
@@ -70,10 +70,10 @@ None
 Default
 <------------------------------------------------------->
 [0023]
-By Friendship LV
+Level Pertemanan
 <------------------------------------------------------->
 [0024]
-By Romance LV
+Level Affection
 <------------------------------------------------------->
 [0025]
 -
@@ -100,267 +100,256 @@ By Romance LV
 -
 <------------------------------------------------------->
 [0033]
-My child. I want to give him the best
-life I can here in Mineral Town.
+Anakku. Aku ingin memberi dia kehidupan
+terbaik di Mineral Town.
 <------------------------------------------------------->
 [0034]
-My child. I want to give her the best
-life I can here in Mineral Town.
+Anakku. Aku ingin memberi dia kehidupan
+terbaik di Mineral Town.
 <------------------------------------------------------->
 [0035]
-The owner of the PoPoultry farm,
-and the mother of Rick and Popuri.
-Suffers from chronic poor health and
-can't go out much. Close friends with
-Sasha.
+Pemilik PoPoultry farm, ibunya Rick dan
+Popuri. Menderita penyakit parah dan
+tidak bisa keluar terlalu sering.
+Teman dekatnya Sasha.
 <------------------------------------------------------->
 [0036]
-Lillia's son and Popuri's older brother.
-Since his father left, he's felt
-responsible for his family and the
-farm. Loves his sister, but can be
-overbearing. 
+Anaknya Lillia dan kakaknya Popuri. Sejak
+ayahnya pergi, dia merasa semua hal adalah
+tanggung jawabnya. Sangat sayang pada
+adiknya dan terkadang berlebihan.
 <------------------------------------------------------->
 [0037]
-Lillia's daughter and Rick's younger
-sister. Bright and cheerful. Can act a
-bit childish at times. She often spends
-time playing with Yu and Mei.
+Anaknya Lillia dan adiknya Rick.
+Selalu ceria, namun kadang kekanak-
+kanakan. Dia sering menghabiskan waktunya
+bermain bersama Yu dan Mei.
 <------------------------------------------------------->
 [0038]
-Mei's grandfather and owner of Yodel
-Ranch. Loves to relax in a hot spring.
-He often takes Mei to the Hot Spring
-on the mountain his days off.
+Kakeknya Mei dan pemilik Yodel Ranch.
+Sangat suka bersantai di pemandian
+air panas. Dia kadang mengajak cucunya
+ke pemandian air panas.
 <------------------------------------------------------->
 [0039]
-Mugi's granddaughter. Is currently
-living with her grandfather for
-various reasons. Can be found playing
-at the Church with her friend Yu.
+Cucunya Mugi. Dia tinggal bersama
+Kakeknya karena beberapa alasan. Bisa
+ditemui di depan gereja saat bermain
+dengan temannya Yu.
 <------------------------------------------------------->
 [0040]
-An experienced blacksmith dedicated
-to his craft. Is currently training his
-grandson, Gray, to succeed him. Can be
-a bit of a harsh taskmaster.
+Seorang pandai besi yang sangat mahir.
+Dia sedang melatih cucunya Gray agar bisa
+meneruskannya. Terkadang dia suka
+memberi tugas yang sulit.
 <------------------------------------------------------->
 [0041]
-Saibara's grandson and apprentice
-blacksmith. Saibara's training methods
-have him questioning whether or not
-he really wants to be a blacksmith.
+Cucu Saibara dan seorang pandai besi yang
+sedang berlatih. Metode latihan Saibara
+membuatnya bertanya-tanya apa dia ingin
+menjadi pandai besi atau tidak.
 <------------------------------------------------------->
 [0042]
-Runs Adge Winery with Manna. Is
-short-tempered and quick to argue
-but can't stand up to his wife. His
-daughter's abrupt departure is a
-touchy subject.
+Dia menjalakan Kilang Anggur Adge bersama
+istrinya Manna. Orangnya pemarah dan
+sering berdebat. Tapi dia takut pada
+istrinya. Kepergian anaknya adalah topik
+yang sensitif.
 <------------------------------------------------------->
 [0043]
-Duke's wife who loves nothing more
-than chatting with friends. She can
-often be found at Rose Plaza
-gossiping with Anna and Sasha.
+Istrinya Duke yang sangat suka
+mengobrol dengan temannya. Dia bisa
+ditemui di Rose Plaza bersama temannya
+Anna dan Sasha.
 <------------------------------------------------------->
 [0044]
-An avid botanist who moved to
-Mineral Town with his family to study
-the local plant life. Can often be found
-on the mountain examining the plants
-there.
+Seorang ahli botani yang pindah
+ke Mineral Town untuk mempelajari tanaman
+lokal. Dia biasa ditemui di gunung saat
+meneliti tanaman disana.
 <------------------------------------------------------->
 [0045]
-Marie's mother and an excellent
-baker. Her favorite hobby is gossiping
-with the other ladies in town.
+Ibunya Marie dan seorang ahli pembuat
+roti. Hobinya adalah bergosip bersama
+para ibu-ibu lainnya.
 <------------------------------------------------------->
 [0046]
-Basil and Anna's daughter who heads
-up the town's Library. An avid reader,
-she's currently trying her own hand
-at writing novels.
+Anaknya Basil dan Anna yang menjalankan
+perpustakaan. Sangat suka membaca dan
+sedang mencoba menulis novel.
 <------------------------------------------------------->
 [0047]
-The mayor of Mineral Town. Cares a
-great deal for the local residents,
-often visiting and talking with them.
-Checks in on Ellen every week.
+Walikota Mineral Town. Sangat peduli pada
+penduduk kotanya, seringlah bicara dan
+mengunjunginya. Dia menjenguk Ellen
+seminggu sekali.
 <------------------------------------------------------->
 [0048]
-Thomas' son and dedicated police
-officer. Can often be found patrolling
-Mineral Town and its environs, making
-sure that all is peaceful and safe.
+Anaknya Thomas dan seorang
+petugas polisi. Sering berpatroli di
+Mineral Town dan sekitarnya, untuk
+memastikan semuanya baik-baik saja.
 <------------------------------------------------------->
 [0049]
-Elly and Yu's grandmother. Due to her
-frail legs she can no longer leave the
-house on her own, but she knows
-Mineral Town better than anyone.
+Neneknya Elly dan Yu. Karena kakinya
+sakit, dia tidak bisa keluar rumah
+lagi. Tapi dia tau banyak hal dari
+siapapun tentang Mineral Town.
 <------------------------------------------------------->
 [0050]
-Ellen's granddaughter and Yu's older
-sister. Is a live-in nurse at the Clinic.
-Her brother Yu's penchant for pulling
-pranks gives her no end of headaches.
+Cucunya Ellen dan kakakynya Yu.
+Adalah seorang perawat yang tinggal di
+klinik. Kebiasaan adiknya yang sering
+mengerjainya membuat kepalanya sakit.
 <------------------------------------------------------->
 [0051]
-Ellen's grandson and younger brother
-of town nurse Elly. A cheeky boy
-that's fond of pranks. Is actually a bit
-of a crybaby.
+Cucunya Ellen dan adiknya Elly.
+Dia sangat suka mengerjai orang lain.
+Tapi sebenarnya dia itu cengeng.
 <------------------------------------------------------->
 [0052]
-The mild-mannered owner of the
-General Store who has anxiety-
-induced ulcers. Is currently trying to
-figure out how to get his customers to
-pay their tabs.
+Pemilik General Store, Orangnya ramah.
+Dia menderita penyakit lambung dan
+sedang mencari cara agar pelanggannya
+membayar hutangnya.
 <------------------------------------------------------->
 [0053]
-A strong-minded and confident woman,
-the polar opposite of her husband.
-Nags Jeff for being weak-willed, but
-also supports him in every way she
-can.
+Wanita yang keras kepala dan punya
+percaya diri yang tinggi. Sangat bertolak
+belakang dengan suaminya, Jeff. Sering
+memarahi suaminya karena terlalu lembut.
+Tetapi dia selalu mendukungnya.
 <------------------------------------------------------->
 [0054]
-Jeff and Sasha's daughter. Strong-
-willed and dependable like her mother,
-but can't cook to save her life.
+Anaknya Jeff dan Sasha. Keras kepala dan
+dapat diandalkan seperti ibunya. Tapi dia
+tidak bisa memasak.
 <------------------------------------------------------->
 [0055]
-The town doctor. Has a cool and
-detached demeanor but cares deeply
-for his patients. On off days, he can
-often be found foraging for medicinal
-herbs.
+Sikapnya sangat dingin, tapi dia sangat
+peduli pada pasiennya. Saat libur dia
+sering mencari tanaman obat.
 <------------------------------------------------------->
 [0056]
-The gentle priest of the local parish
-who always has a smile on his face.
-When Mei and Yu come to play at the
-Church, he is happy to watch over
-them.
+Seorang pendeta yang selalu tersenyum.
+Dia selalu mengawasi Mei dan Yu saat
+bermain di Gereja.
 <------------------------------------------------------->
 [0057]
-A young man staying at the Inn who
-frequently visits the Church to
-confess. Apparently, he left his home
-for various reasons and is traveling
-the world.
+Pria muda yang tinggal di Penginapan
+dan sering ke Gereja untuk menebus dosa.
+Ternyata, dia kabur dari rumahnya karena
+beberapa alasan dan pergi berkelana.
 <------------------------------------------------------->
 [0058]
-The owner of the Inn, he's always
-looking out for his only daughter, Ran.
-Keeps the Inn open every day except
-for festival days.
+Pemilik penginapan, dia selalu mengawasi
+putri satu-satunya, Ran. Selalu membuka
+Penginapan setiap hari, kecuali saat ada
+festival.
 <------------------------------------------------------->
 [0059]
-Dudley's daughter. Raised by her dad
-ever since her mother passed away,
-she's grown up to be outspoken and a
-bit of a tomboy.
+Anaknya Dudley. Dirawat oleh ayahnya
+sejak ibunya meninggal. Orangnya sangat
+berterus terang dan sedikit tomboy.
 <------------------------------------------------------->
 [0060]
-A young man who comes to Mineral
-Town in the summer to run the Beach
-Cafe. Spends the rest of the year
-traveling to big cities where summer
-still lingers.
+Dia selalu datang saat musim panas dan
+membuka restoran tepi pantai
+Menghabiskan waktunya berkeliling ke
+kota-kota besar saat disana masih
+musim panas.
 <------------------------------------------------------->
 [0061]
-The town carpenter and resident
-renovator with a big heart. Gave
-Brandon a place to stay after finding
-him collapsed in the woods.
+Tukang kayu yang sangat baik hati.
+Dia memberikan Brandon tempat tinggal
+setelah menemukannya di hutan.
 <------------------------------------------------------->
 [0062]
-Decided to stay in Mineral Town
-after being rescued by Gotts.
-An artistE with a capital E,
-he specializes in sculpture.
+Memutuskan untuk tinggal di
+Mineral Town setelah diselamatkan oleh
+Gotts. Seorang seniman yang ahli dalam
+membuat kerajinan kayu.
 <------------------------------------------------------->
 [0063]
-In love with the unspoiled nature
-surrounding Mineral Town, has
-pitched a tent by the lake. Claims to
-sense the energies both of people and
-nature.
+Dia jatuh cinta pada alam yang
+belum tersentuh di Mineral Town,
+dia memasang sebuah tenda di dekat danau.
+Sering berkata kalau dia bisa merasakan
+energi dari alam dan orang-orang.
 <------------------------------------------------------->
 [0064]
-A boisterous fellow who goes about in
-short sleeves even in winter. Collects
-goods from the Shipping Bin and
-provides payment for them.
+Seorang yang selalu memakai baju
+lengan pendek walaupun musim dingin.
+Selalu mengambil barang di tempat
+pengiriman dan memberikan bayarannya.
 <------------------------------------------------------->
 [0065]
-A traveling merchant with a slightly
-shady air about him. Good friends with
-Zack and rents space in his house to
-sell goods.
+Seorang pedagang keliling dan
+sahabatnya Zack. Dia menyewa beberapa
+petak rumah Zack untuk berdagang.
 <------------------------------------------------------->
 [0066]
-A traveling food critic who comes by
-Mineral Town to judge the annual
-Cooking Exhibition.
+Seorang kritikus masakan dan
+datang ke Mineral Town setahun sekali
+sebagai juri lomba memasak tahunan.
 <------------------------------------------------------->
 [0067]
-The local guardian deity. To summon
-her, simply toss an offering into her
-spring.
+Penjaga Mineral Town, untuk
+memanggilnya, lemparkan barang di air
+terjun.
 <------------------------------------------------------->
 [0068]
-A guardian deity of the lake. To
-summon him, toss a Cucumber into the
-lake. He won't come out in winter,
-though.
+Penjaga danau. Untuk memanggilnya,
+lemparkan mentimun ke danau. Tapi dia
+tidak akan muncul di musim dingin.
 <------------------------------------------------------->
 [0069]
-A traveling merchant with unique
-wares. Give him a present of "his
-favorite thing" and...?
+Seorang pedagang keliling yang
+unik. Beri dia barang "Kesukaannya",
+maka...?
 <------------------------------------------------------->
 [0070]
-She comes to Mineral Town every
-week to buy ingredients. Talk to her
-and she'll teach you all kinds of
-recipes.
+Dia datang ke Mineral Town seminggu
+sekali untuk membeli bahan masakan.
+Bicaralah padanya jika kamu ingi belajar
+memasak.
 <------------------------------------------------------->
 [0071]
-The Nature Sprite who wears blue.
-Diligent and serious. Loves doing
-chores.
+Seorang Nature Sprite yang memakai
+pakaian warna biru. Sangat suka
+membersihkan rumah.
 <------------------------------------------------------->
 [0072]
-The Nature Sprite who wears orange.
-Prefers playing to work.
+Seorang Nature Sprite yang memakai
+pakaian warna orange. Suka bermain dan
+bekerja.
 <------------------------------------------------------->
 [0073]
-The Nature Sprite who wears purple.
-The active sort. Can be a little
-precocious at times.
+Seorang Nature Sprite yang memakai
+pakaian warna ungu. Sangat aktif dan
+kadang bersikap dewasa.
 <------------------------------------------------------->
 [0074]
-The Nature Sprite who wears red.
-Level-headed and responsible.
-Loves to cook.
+Seorang Nature Sprite yang memakai
+pakaian warna merah.  Berkepala dingin
+dan sangat bertanggung
+jawab. Dia suka memasak.
 <------------------------------------------------------->
 [0075]
-The Nature Sprite who wears light
-blue. Fastidious and tidy. Dislikes it
-when his clothes get dirty.
+Seorang Nature Sprite yang memakai
+pakaian warna biru cerah. Orangnya rewel
+dan rapi. Tidak suka saat pakaiannya
+kotor.
 <------------------------------------------------------->
 [0076]
-The Nature Sprite who wears yellow.
-Easygoing and loves eating.
+Seorang Nature Sprite yang memakai
+pakaian warna kuning. Sangat santai dan
+suka makan.
 <------------------------------------------------------->
 [0077]
-The Nature Sprite who wears green.
-Meek and shy. Hates overexerting
-himself.
+Seorang Nature Sprite yang memakai
+pakaian warna hijau. Orangnya lembut
+dan pemalu. Tidak suka memaksakan diri.
 <------------------------------------------------------->
 [0078]
 
@@ -381,132 +370,144 @@ himself.
 
 <------------------------------------------------------->
 [0084]
-A mature cow. The more it likes me,
-the larger size Milk it produces.
+Sapi dewasa. Semakin dia menyukaiku,
+semakin besar susu yang dihasilkannya.
 <------------------------------------------------------->
 [0085]
-A young cow. Once mature, it'll produce
-Milk.
+Sapi muda. saat sudah besar, dia akan
+menghasilkan susu.
 <------------------------------------------------------->
 [0086]
-A baby calf only a few days old. It's too
-young to produce Milk.
+Anak sapi yang baru berumur beberapa
+hari. Masih lama baginya untuk
+menghasilkan susu.
 <------------------------------------------------------->
 [0087]
-A mature cow. The more it likes me,
-the larger size Coffee Milk it produces.
+Sapi dewasa. Semakin dia menyukaiku,
+semakin besar susu yang dihasilkannya.
 <------------------------------------------------------->
 [0088]
-A young cow. Once mature, it'll produce
-Coffee Milk.
+Sapi muda. saat sudah besar, dia akan
+menghasilkan susu.
 <------------------------------------------------------->
 [0089]
-A baby calf only a few days old. It's too
-young to produce Milk.
+Anak sapi yang baru berumur beberapa
+hari. Masih lama baginya untuk
+menghasilkan susu.
 <------------------------------------------------------->
 [0090]
-A mature cow. The more it likes me, the
-larger size Strawberry Milk it produces.
+Sapi dewasa. Semakin dia menyukaiku,
+semakin besar susu yang dihasilkannya.
 <------------------------------------------------------->
 [0091]
-A young cow. Once mature, it'll produce
-Strawberry Milk.
+Sapi muda. saat sudah besar, dia akan
+menghasilkan susu.
 <------------------------------------------------------->
 [0092]
-A baby calf only a few days old.
-It's too young to produce Milk.
+Anak sapi yang baru berumur beberapa
+hari. Masih lama baginya untuk
+menghasilkan susu.
 <------------------------------------------------------->
 [0093]
-A mature cow. The more it likes me,
-the larger size Fruit Milk it produces.
+Sapi dewasa. Semakin dia menyukaiku,
+semakin besar susu yang dihasilkannya.
 <------------------------------------------------------->
 [0094]
-A young cow. Once fully mature,
-it'll produce Fruit Milk.
+Sapi muda. saat sudah besar, dia akan
+menghasilkan susu.
 <------------------------------------------------------->
 [0095]
-A baby calf only a few days old.
-It's too young to produce Milk.
+Anak sapi yang baru berumur beberapa
+hari. Masih lama baginya untuk
+menghasilkan susu.
 <------------------------------------------------------->
 [0096]
-A mature sheep. The more it likes me,
-the larger size Wool it produces.
+Domba dewasa. Semakin dia menyukaiku,
+semakin besar wool yang dihasilkannya.
 <------------------------------------------------------->
 [0097]
-A baby lamb only a few days old.
-It's too young to shear.
+Anak domba yang baru berusia beberapa
+hari. Bulunya belum bisa dipotong.
 <------------------------------------------------------->
 [0098]
-A mature alpaca. The more it likes me,
-the larger size Fleece it produces.
+Alpaca dewasa. Semakin dia menyukaiku,
+semakin besar Fleece yang dihasilkannya.
 <------------------------------------------------------->
 [0099]
-A baby alpaca only a few days old.
-It's too young to shear.
+Anak alpaca yang baru berusia beberapa
+hari. Bulunya belum bisa dipotong.
 <------------------------------------------------------->
 [0100]
-A mature chicken. The more it likes me,
-the bigger the Eggs it lays.
+Ayam dewasa. Semakin dia menyukaiku,
+semakin besar telur yang dihasilkannya.
 <------------------------------------------------------->
 [0101]
-A baby chick only a few days old.
-Once grown, it will lay Eggs.
+Anak ayam yang baru berusia beberapa
+hari. Dia akan menghasilkan telur jika
+sudah besar.
 <------------------------------------------------------->
 [0102]
-A mature brown chicken. The more it likes
-me, the bigger the Eggs it lays.
+Ayam dewasa. Semakin dia menyukaiku,
+semakin besar telur yang dihasilkannya.
 <------------------------------------------------------->
 [0103]
-A baby brown chick only a few days old.
-Once grown, it will lay Eggs.
+Anak ayam yang baru berusia beberapa
+hari. Dia akan menghasilkan telur jika
+sudah besar.
 <------------------------------------------------------->
 [0104]
-A mature Angora rabbit. The more it likes
-me, the larger size Fur it produces.
+Kelinci angora dewasa. Semakin dia
+menyukaiku, semakin besar bulu yang
+dihasilkannya.
 <------------------------------------------------------->
 [0105]
-A baby Angora rabbit only a few days old.
-It's too young to shear.
+Anak kelinci angora yang baru berusia
+beberapa hari. Bulunya belum bisa
+dipotong.
 <------------------------------------------------------->
 [0106]
-The foal Mugi left with me.
-Once fully grown, I can ride it.
+Anak kuda yang dititipkan Mugi padaku.
+Dia bisa ditunggangi jika sudah besar.
 <------------------------------------------------------->
 [0107]
-The horse Mugi left with me. Raised with
-lots of love. Can now be ridden.
+Kuda yang diberikan Mugi padaku.
+Dirawat dengan penuh cinta, bisa
+ditunggangi.
 <------------------------------------------------------->
 [0108]
-A dog unlike any breed ever seen before.
+Anjing yang tidak mirip dengan jenis
+anjing apapun yang pernah kulihat.
 <------------------------------------------------------->
 [0109]
-A sleek Shiba Inu with a black coat.
+Shiba Inu dengan bulu berwarna hitam.
 <------------------------------------------------------->
 [0110]
-An adorable long-haired, fuzzy-eared dog.
+Anjing yang punya bulu sangat panjang
+dan telinga yang halus.
 <------------------------------------------------------->
 [0111]
-A classic tabby, complete with the
-M-shaped pattern on its forehead.
+Kucing betina klasik dengan pola huruf
+M di dahinya.
 <------------------------------------------------------->
 [0112]
-A cat famed for its leopard-like spots.
+Kucing betina yang terkenal karena
+bintik-bintik seperti macan tutul.
 <------------------------------------------------------->
 [0113]
-A cute cat with a coat of mottled white,
-ginger, and black.
+Kucing yang imut dengan 3 belang,
+putih, orange, dan hitam.
 <------------------------------------------------------->
 [0114]
-A light blue penguin.
+Penguin biru cerah.
 <------------------------------------------------------->
 [0115]
-A dark blue penguin.
+Penguin biru gelap.
 <------------------------------------------------------->
 [0116]
-A brown capybara.
+Capybara berwarna coklat.
 <------------------------------------------------------->
 [0117]
-A white capybara.
+Capybara berwarna putih.
 <------------------------------------------------------->
 [0118]
 [UNUSED SKIP]
