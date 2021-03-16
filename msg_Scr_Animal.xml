@@ -1,0 +1,172 @@
+TOTAL_STRING:0043
+*******************************
+[0000]
+Ah ha! It looks like <string0>
+is pregnant.<wait>
+<------------------------------------------------------->
+[0001]
+Huh? Nothing happened.<wait>
+<------------------------------------------------------->
+[0002]
+I don't have a Breeding Bin available.<wait>
+<------------------------------------------------------->
+[0003]
+My Barn is too full. I can't take in any more animals.<wait>
+<------------------------------------------------------->
+[0004]
+<playername>, hello. Do you have a moment?
+I have a favor to ask...<wait>
+<------------------------------------------------------->
+[0005]
+You see, this little foal of mine here isn't feeling too well.
+It needs a little extra care.<wait><page>
+Unfortunately, I don't have the time to give it that care.
+I was hoping you might raise it for me.<wait>
+<------------------------------------------------------->
+[0006]
+Ah, but I would truly appreciate your help with this...<wait>
+<------------------------------------------------------->
+[0007]
+Or...can you not do it?
+<------------------------------------------------------->
+[0008]
+Accept
+<------------------------------------------------------->
+[0009]
+Decline
+<------------------------------------------------------->
+[0010]
+I see. Well, if you can't, then you can't. I won't bother you
+with this again. Good day.<wait>
+<------------------------------------------------------->
+[0011]
+You will? Good, good! I knew I could count on you.<wait><page>
+Well then, why not give this little one a name?<wait>
+<------------------------------------------------------->
+[0012]
+There isn't much to worry yourself over when it comes
+to raising horses.<wait><page>
+Just give ‘em lots of love and care, and that'll be plenty.<wait><page>
+Talk to them every day, yeah? They do love
+hearing your voice.<wait><page>
+Brushing them every day is good for them too.<wait>
+<------------------------------------------------------->
+[0013]
+All right, then. I'll take this little one on over
+to your Stable.<wait>
+<------------------------------------------------------->
+[0014]
+Once it's grown, I'll come back for it.<wait><page>
+Take good care of it for me until then.
+I'm counting on you.<wait>
+<------------------------------------------------------->
+[0015]
+<playername>, hello. I've come to check in on little
+<string0>.<wait><page>
+I'm thinking it should be about grown by now.<wait>
+<------------------------------------------------------->
+[0016]
+Hrm... Mm-hmm... Mm-hmm...<wait>
+<------------------------------------------------------->
+[0017]
+Good, good! I can tell you spent the last 90 days raising
+<string0> with lots of love and care.
+You've done a fine job. You pass.<wait>
+<------------------------------------------------------->
+[0018]
+As thanks for your hard work, I don't mind letting you
+keep <string0> as your own.<wait><page>
+They seem like they're quite fond of you, after all.<wait><page>
+Well then, keep taking excellent care of little...
+Well, big <string0> now.
+I know I can count on you.<wait>
+<------------------------------------------------------->
+[0019]
+Hrm... Mm-hmm... Mm-hmm...<wait>
+<------------------------------------------------------->
+[0020]
+No, no, no. This won't do at all, <playername>.<wait><page>
+It's been an entire year, but you haven't shown
+<string0> enough love.
+I'm afraid I have to fail you.<wait>
+<------------------------------------------------------->
+[0021]
+I'll be taking <string0> back home
+with me, then. Good day.<wait>
+<------------------------------------------------------->
+[0022]
+<playername>, hello. I can't help but notice you don't
+have a single horse on your farm.<wait>
+<------------------------------------------------------->
+[0023]
+This here is one that I raised. I'll let you have it.
+It'll make things seem a bit more farm-y.<wait><page>
+You can give it a name too, if you'd like.<wait>
+<------------------------------------------------------->
+[0024]
+Now then, I'll go take this little one to your barn.<wait><page>
+Show it lots of love every day, y'hear? Don't forget to
+talk to it and give it a good brushing.<wait>
+<------------------------------------------------------->
+[0025]
+I'll leave <myhorsename> in your care, then. Good day.<wait>
+<------------------------------------------------------->
+[0026]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0027]
+<string0> is pregnant. She ought to
+give birth soon.<wait>
+<------------------------------------------------------->
+[0028]
+<string0> is pregnant. I think she has
+at least <string1> days left to go.<wait>
+<------------------------------------------------------->
+[0029]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0030]
+Hey there, <string0>. You're looking
+happy and healthy today.<wait>
+<------------------------------------------------------->
+[0031]
+Hey there, <string0>.
+You want this <string1>?<wait>
+<------------------------------------------------------->
+[0032]
+There's a good little one.
+Hurry and grow up strong, okay?<wait>
+<------------------------------------------------------->
+[0033]
+Uh-oh. It looks like this one is plotting something...<wait>
+<------------------------------------------------------->
+[0034]
+The cows here always look so cute and happy.<wait>
+<------------------------------------------------------->
+[0035]
+Hello there, Hana. You sure are a cheerful pup, huh?<wait>
+<------------------------------------------------------->
+[0036]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0037]
+<string0> is pregnant. She ought to
+give birth any day now.<wait>
+<------------------------------------------------------->
+[0038]
+<string0> is pregnant. I think she has
+at least <string1> days left to go.<wait>
+<------------------------------------------------------->
+[0039]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0040]
+Hey there, <string0>. You look well
+and in good spirits today.<wait>
+<------------------------------------------------------->
+[0041]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0042]
+This animal is pregnant. I should leave her be.
+<------------------------------------------------------->

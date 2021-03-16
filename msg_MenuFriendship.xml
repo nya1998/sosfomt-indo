@@ -1,0 +1,564 @@
+TOTAL_STRING:0136
+*******************************
+[0000]
+Read which entry?
+<------------------------------------------------------->
+[0001]
+Residents
+<------------------------------------------------------->
+[0002]
+Nature Sprites
+<------------------------------------------------------->
+[0003]
+Animals
+<------------------------------------------------------->
+[0004]
+Pets
+<------------------------------------------------------->
+[0005]
+-
+<------------------------------------------------------->
+[0006]
+-
+<------------------------------------------------------->
+[0007]
+-
+<------------------------------------------------------->
+[0008]
+-
+<------------------------------------------------------->
+[0009]
+-
+<------------------------------------------------------->
+[0010]
+-
+<------------------------------------------------------->
+[0011]
+View Portrait
+<------------------------------------------------------->
+[0012]
+Job Request
+<------------------------------------------------------->
+[0013]
+Days Left: %d 
+<------------------------------------------------------->
+[0014]
+None
+<------------------------------------------------------->
+[0015]
+-
+<------------------------------------------------------->
+[0016]
+-
+<------------------------------------------------------->
+[0017]
+-
+<------------------------------------------------------->
+[0018]
+-
+<------------------------------------------------------->
+[0019]
+-
+<------------------------------------------------------->
+[0020]
+-
+<------------------------------------------------------->
+[0021]
+-
+<------------------------------------------------------->
+[0022]
+Default
+<------------------------------------------------------->
+[0023]
+By Friendship LV
+<------------------------------------------------------->
+[0024]
+By Romance LV
+<------------------------------------------------------->
+[0025]
+-
+<------------------------------------------------------->
+[0026]
+-
+<------------------------------------------------------->
+[0027]
+-
+<------------------------------------------------------->
+[0028]
+-
+<------------------------------------------------------->
+[0029]
+-
+<------------------------------------------------------->
+[0030]
+-
+<------------------------------------------------------->
+[0031]
+-
+<------------------------------------------------------->
+[0032]
+-
+<------------------------------------------------------->
+[0033]
+My child. I want to give him the best
+life I can here in Mineral Town.
+<------------------------------------------------------->
+[0034]
+My child. I want to give her the best
+life I can here in Mineral Town.
+<------------------------------------------------------->
+[0035]
+The owner of the PoPoultry farm,
+and the mother of Rick and Popuri.
+Suffers from chronic poor health and
+can't go out much. Close friends with
+Sasha.
+<------------------------------------------------------->
+[0036]
+Lillia's son and Popuri's older brother.
+Since his father left, he's felt
+responsible for his family and the
+farm. Loves his sister, but can be
+overbearing. 
+<------------------------------------------------------->
+[0037]
+Lillia's daughter and Rick's younger
+sister. Bright and cheerful. Can act a
+bit childish at times. She often spends
+time playing with Yu and Mei.
+<------------------------------------------------------->
+[0038]
+Mei's grandfather and owner of Yodel
+Ranch. Loves to relax in a hot spring.
+He often takes Mei to the Hot Spring
+on the mountain his days off.
+<------------------------------------------------------->
+[0039]
+Mugi's granddaughter. Is currently
+living with her grandfather for
+various reasons. Can be found playing
+at the Church with her friend Yu.
+<------------------------------------------------------->
+[0040]
+An experienced blacksmith dedicated
+to his craft. Is currently training his
+grandson, Gray, to succeed him. Can be
+a bit of a harsh taskmaster.
+<------------------------------------------------------->
+[0041]
+Saibara's grandson and apprentice
+blacksmith. Saibara's training methods
+have him questioning whether or not
+he really wants to be a blacksmith.
+<------------------------------------------------------->
+[0042]
+Runs Adge Winery with Manna. Is
+short-tempered and quick to argue
+but can't stand up to his wife. His
+daughter's abrupt departure is a
+touchy subject.
+<------------------------------------------------------->
+[0043]
+Duke's wife who loves nothing more
+than chatting with friends. She can
+often be found at Rose Plaza
+gossiping with Anna and Sasha.
+<------------------------------------------------------->
+[0044]
+An avid botanist who moved to
+Mineral Town with his family to study
+the local plant life. Can often be found
+on the mountain examining the plants
+there.
+<------------------------------------------------------->
+[0045]
+Marie's mother and an excellent
+baker. Her favorite hobby is gossiping
+with the other ladies in town.
+<------------------------------------------------------->
+[0046]
+Basil and Anna's daughter who heads
+up the town's Library. An avid reader,
+she's currently trying her own hand
+at writing novels.
+<------------------------------------------------------->
+[0047]
+The mayor of Mineral Town. Cares a
+great deal for the local residents,
+often visiting and talking with them.
+Checks in on Ellen every week.
+<------------------------------------------------------->
+[0048]
+Thomas' son and dedicated police
+officer. Can often be found patrolling
+Mineral Town and its environs, making
+sure that all is peaceful and safe.
+<------------------------------------------------------->
+[0049]
+Elly and Yu's grandmother. Due to her
+frail legs she can no longer leave the
+house on her own, but she knows
+Mineral Town better than anyone.
+<------------------------------------------------------->
+[0050]
+Ellen's granddaughter and Yu's older
+sister. Is a live-in nurse at the Clinic.
+Her brother Yu's penchant for pulling
+pranks gives her no end of headaches.
+<------------------------------------------------------->
+[0051]
+Ellen's grandson and younger brother
+of town nurse Elly. A cheeky boy
+that's fond of pranks. Is actually a bit
+of a crybaby.
+<------------------------------------------------------->
+[0052]
+The mild-mannered owner of the
+General Store who has anxiety-
+induced ulcers. Is currently trying to
+figure out how to get his customers to
+pay their tabs.
+<------------------------------------------------------->
+[0053]
+A strong-minded and confident woman,
+the polar opposite of her husband.
+Nags Jeff for being weak-willed, but
+also supports him in every way she
+can.
+<------------------------------------------------------->
+[0054]
+Jeff and Sasha's daughter. Strong-
+willed and dependable like her mother,
+but can't cook to save her life.
+<------------------------------------------------------->
+[0055]
+The town doctor. Has a cool and
+detached demeanor but cares deeply
+for his patients. On off days, he can
+often be found foraging for medicinal
+herbs.
+<------------------------------------------------------->
+[0056]
+The gentle priest of the local parish
+who always has a smile on his face.
+When Mei and Yu come to play at the
+Church, he is happy to watch over
+them.
+<------------------------------------------------------->
+[0057]
+A young man staying at the Inn who
+frequently visits the Church to
+confess. Apparently, he left his home
+for various reasons and is traveling
+the world.
+<------------------------------------------------------->
+[0058]
+The owner of the Inn, he's always
+looking out for his only daughter, Ran.
+Keeps the Inn open every day except
+for festival days.
+<------------------------------------------------------->
+[0059]
+Dudley's daughter. Raised by her dad
+ever since her mother passed away,
+she's grown up to be outspoken and a
+bit of a tomboy.
+<------------------------------------------------------->
+[0060]
+A young man who comes to Mineral
+Town in the summer to run the Beach
+Cafe. Spends the rest of the year
+traveling to big cities where summer
+still lingers.
+<------------------------------------------------------->
+[0061]
+The town carpenter and resident
+renovator with a big heart. Gave
+Brandon a place to stay after finding
+him collapsed in the woods.
+<------------------------------------------------------->
+[0062]
+Decided to stay in Mineral Town
+after being rescued by Gotts.
+An artistE with a capital E,
+he specializes in sculpture.
+<------------------------------------------------------->
+[0063]
+In love with the unspoiled nature
+surrounding Mineral Town, has
+pitched a tent by the lake. Claims to
+sense the energies both of people and
+nature.
+<------------------------------------------------------->
+[0064]
+A boisterous fellow who goes about in
+short sleeves even in winter. Collects
+goods from the Shipping Bin and
+provides payment for them.
+<------------------------------------------------------->
+[0065]
+A traveling merchant with a slightly
+shady air about him. Good friends with
+Zack and rents space in his house to
+sell goods.
+<------------------------------------------------------->
+[0066]
+A traveling food critic who comes by
+Mineral Town to judge the annual
+Cooking Exhibition.
+<------------------------------------------------------->
+[0067]
+The local guardian deity. To summon
+her, simply toss an offering into her
+spring.
+<------------------------------------------------------->
+[0068]
+A guardian deity of the lake. To
+summon him, toss a Cucumber into the
+lake. He won't come out in winter,
+though.
+<------------------------------------------------------->
+[0069]
+A traveling merchant with unique
+wares. Give him a present of "his
+favorite thing" and...?
+<------------------------------------------------------->
+[0070]
+She comes to Mineral Town every
+week to buy ingredients. Talk to her
+and she'll teach you all kinds of
+recipes.
+<------------------------------------------------------->
+[0071]
+The Nature Sprite who wears blue.
+Diligent and serious. Loves doing
+chores.
+<------------------------------------------------------->
+[0072]
+The Nature Sprite who wears orange.
+Prefers playing to work.
+<------------------------------------------------------->
+[0073]
+The Nature Sprite who wears purple.
+The active sort. Can be a little
+precocious at times.
+<------------------------------------------------------->
+[0074]
+The Nature Sprite who wears red.
+Level-headed and responsible.
+Loves to cook.
+<------------------------------------------------------->
+[0075]
+The Nature Sprite who wears light
+blue. Fastidious and tidy. Dislikes it
+when his clothes get dirty.
+<------------------------------------------------------->
+[0076]
+The Nature Sprite who wears yellow.
+Easygoing and loves eating.
+<------------------------------------------------------->
+[0077]
+The Nature Sprite who wears green.
+Meek and shy. Hates overexerting
+himself.
+<------------------------------------------------------->
+[0078]
+
+<------------------------------------------------------->
+[0079]
+
+<------------------------------------------------------->
+[0080]
+
+<------------------------------------------------------->
+[0081]
+
+<------------------------------------------------------->
+[0082]
+
+<------------------------------------------------------->
+[0083]
+
+<------------------------------------------------------->
+[0084]
+A mature cow. The more it likes me,
+the larger size Milk it produces.
+<------------------------------------------------------->
+[0085]
+A young cow. Once mature, it'll produce
+Milk.
+<------------------------------------------------------->
+[0086]
+A baby calf only a few days old. It's too
+young to produce Milk.
+<------------------------------------------------------->
+[0087]
+A mature cow. The more it likes me,
+the larger size Coffee Milk it produces.
+<------------------------------------------------------->
+[0088]
+A young cow. Once mature, it'll produce
+Coffee Milk.
+<------------------------------------------------------->
+[0089]
+A baby calf only a few days old. It's too
+young to produce Milk.
+<------------------------------------------------------->
+[0090]
+A mature cow. The more it likes me, the
+larger size Strawberry Milk it produces.
+<------------------------------------------------------->
+[0091]
+A young cow. Once mature, it'll produce
+Strawberry Milk.
+<------------------------------------------------------->
+[0092]
+A baby calf only a few days old.
+It's too young to produce Milk.
+<------------------------------------------------------->
+[0093]
+A mature cow. The more it likes me,
+the larger size Fruit Milk it produces.
+<------------------------------------------------------->
+[0094]
+A young cow. Once fully mature,
+it'll produce Fruit Milk.
+<------------------------------------------------------->
+[0095]
+A baby calf only a few days old.
+It's too young to produce Milk.
+<------------------------------------------------------->
+[0096]
+A mature sheep. The more it likes me,
+the larger size Wool it produces.
+<------------------------------------------------------->
+[0097]
+A baby lamb only a few days old.
+It's too young to shear.
+<------------------------------------------------------->
+[0098]
+A mature alpaca. The more it likes me,
+the larger size Fleece it produces.
+<------------------------------------------------------->
+[0099]
+A baby alpaca only a few days old.
+It's too young to shear.
+<------------------------------------------------------->
+[0100]
+A mature chicken. The more it likes me,
+the bigger the Eggs it lays.
+<------------------------------------------------------->
+[0101]
+A baby chick only a few days old.
+Once grown, it will lay Eggs.
+<------------------------------------------------------->
+[0102]
+A mature brown chicken. The more it likes
+me, the bigger the Eggs it lays.
+<------------------------------------------------------->
+[0103]
+A baby brown chick only a few days old.
+Once grown, it will lay Eggs.
+<------------------------------------------------------->
+[0104]
+A mature Angora rabbit. The more it likes
+me, the larger size Fur it produces.
+<------------------------------------------------------->
+[0105]
+A baby Angora rabbit only a few days old.
+It's too young to shear.
+<------------------------------------------------------->
+[0106]
+The foal Mugi left with me.
+Once fully grown, I can ride it.
+<------------------------------------------------------->
+[0107]
+The horse Mugi left with me. Raised with
+lots of love. Can now be ridden.
+<------------------------------------------------------->
+[0108]
+A dog unlike any breed ever seen before.
+<------------------------------------------------------->
+[0109]
+A sleek Shiba Inu with a black coat.
+<------------------------------------------------------->
+[0110]
+An adorable long-haired, fuzzy-eared dog.
+<------------------------------------------------------->
+[0111]
+A classic tabby, complete with the
+M-shaped pattern on its forehead.
+<------------------------------------------------------->
+[0112]
+A cat famed for its leopard-like spots.
+<------------------------------------------------------->
+[0113]
+A cute cat with a coat of mottled white,
+ginger, and black.
+<------------------------------------------------------->
+[0114]
+A light blue penguin.
+<------------------------------------------------------->
+[0115]
+A dark blue penguin.
+<------------------------------------------------------->
+[0116]
+A brown capybara.
+<------------------------------------------------------->
+[0117]
+A white capybara.
+<------------------------------------------------------->
+[0118]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0119]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0120]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0121]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0122]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0123]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0124]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0125]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0126]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0127]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0128]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0129]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0130]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0131]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0132]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0133]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0134]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0135]
+[UNUSED SKIP]
+<------------------------------------------------------->

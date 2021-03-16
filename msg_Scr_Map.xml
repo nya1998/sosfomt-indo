@@ -1,0 +1,4433 @@
+TOTAL_STRING:1291
+*******************************
+[0000]
+Oops! I'm headed into the Hot Spring.
+I can't go in if I'm holding something.<wait>
+<------------------------------------------------------->
+[0001]
+Aha! I found a Power Berry!<wait>
+<------------------------------------------------------->
+[0002]
+...But I'm already holding something, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0003]
+There's nothing there now.<wait>
+<------------------------------------------------------->
+[0004]
+Bucket<wait>
+<------------------------------------------------------->
+[0005]
+Straw<wait>
+<------------------------------------------------------->
+[0006]
+Tool<wait>
+<------------------------------------------------------->
+[0007]
+Water Trough<wait>
+<------------------------------------------------------->
+[0008]
+Aha! There's a Truth Jewel at the bottom of this water
+trough.<wait>
+<------------------------------------------------------->
+[0009]
+Aha! There's a Truth Jewel at the bottom of this
+water trough.<wait><page>
+...But I'm already holding something, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0010]
+Aha! There's a Truth Jewel at the bottom of this water
+trough.<wait><page>
+...But my Bag is full, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0011]
+Wooden Box<wait>
+<------------------------------------------------------->
+[0012]
+Bench<wait>
+<------------------------------------------------------->
+[0013]
+Parasol<wait>
+<------------------------------------------------------->
+[0014]
+Potted Plant<wait>
+<------------------------------------------------------->
+[0015]
+Snowman<wait>
+<------------------------------------------------------->
+[0016]
+Boat<wait>
+<------------------------------------------------------->
+[0017]
+Ya ready t'kick off the Fetch Fest?<wait>
+<------------------------------------------------------->
+[0018]
+Yeah! Let's do it!
+<------------------------------------------------------->
+[0019]
+Hang on a sec...
+<------------------------------------------------------->
+[0020]
+All right! Then let's get this show on the road!<wait>
+<------------------------------------------------------->
+[0021]
+Sure thing. Just come talk to me when you're ready
+t'get started.<wait>
+<------------------------------------------------------->
+[0022]
+Counter<wait>
+<------------------------------------------------------->
+[0023]
+It's locked...<wait>
+<------------------------------------------------------->
+[0024]
+The Fireworks Festival is just about to start.
+Where are you going?<wait>
+<------------------------------------------------------->
+[0025]
+Whoa, whoa! Where're ya goin'? We're just about t'start
+the Fetch Fest.<wait>
+<------------------------------------------------------->
+[0026]
+Ahhh, that was fun. Welp, back to work...<wait>
+<------------------------------------------------------->
+[0027]
+Log Pile<wait>
+<------------------------------------------------------->
+[0028]
+Chair<wait>
+<------------------------------------------------------->
+[0029]
+Kitchen<wait>
+<------------------------------------------------------->
+[0030]
+Fridge<wait>
+<------------------------------------------------------->
+[0031]
+Shelves<wait>
+<------------------------------------------------------->
+[0032]
+Sofa<wait>
+<------------------------------------------------------->
+[0033]
+Stove<wait>
+<------------------------------------------------------->
+[0034]
+Table<wait>
+<------------------------------------------------------->
+[0035]
+Where do you think you're going?<wait>
+<------------------------------------------------------->
+[0036]
+Oh, that area's off limits right now, sweetie. The second
+floor is just a terrible mess at the moment.<wait>
+<------------------------------------------------------->
+[0037]
+Ah, could you stay down here, please? The second floor is
+pretty messy right now.<wait>
+<------------------------------------------------------->
+[0038]
+Could you not go upstairs, please?<wait>
+<------------------------------------------------------->
+[0039]
+I'm sorry, sweetie, but please don't go up there. Okay?<wait>
+<------------------------------------------------------->
+[0040]
+It's just too embarrassing to let people see a room I'm in
+the middle of cleaning. Please don't go up there.<wait>
+<------------------------------------------------------->
+[0041]
+Hey! No going upstairs, okay?<wait>
+<------------------------------------------------------->
+[0042]
+Bed<wait>
+<------------------------------------------------------->
+[0043]
+Bookshelf<wait>
+<------------------------------------------------------->
+[0044]
+Flower Painting<wait>
+<------------------------------------------------------->
+[0045]
+Lamp<wait>
+<------------------------------------------------------->
+[0046]
+Mountain Painting<wait>
+<------------------------------------------------------->
+[0047]
+Photograph<wait>
+<------------------------------------------------------->
+[0048]
+Dresser<wait>
+<------------------------------------------------------->
+[0049]
+Candlestick<wait>
+<------------------------------------------------------->
+[0050]
+Is something the matter?<wait>
+<------------------------------------------------------->
+[0051]
+Is there anything else I can help you with?<wait>
+<------------------------------------------------------->
+[0052]
+Unequip a cursed tool.
+<------------------------------------------------------->
+[0053]
+Make a confession.
+<------------------------------------------------------->
+[0054]
+Just saying hi.
+<------------------------------------------------------->
+[0055]
+I'm afraid I must ask for a donation of 1,000G before
+I can do that. Is that agreeable?<wait>
+<------------------------------------------------------->
+[0056]
+Sure
+<------------------------------------------------------->
+[0057]
+No thanks
+<------------------------------------------------------->
+[0058]
+Now then, let us pray. Goddess above...<wait><page>
+This poor lamb has met with misfortune and fallen under
+a curse. Please bless them and free them from this evil.<wait>
+<------------------------------------------------------->
+[0059]
+Unfortunately, it seems like you're a bit low on funds.
+I'm afraid I can't perform the necessary blessing.<wait>
+<------------------------------------------------------->
+[0060]
+Oh? You don't mind?<wait>
+<------------------------------------------------------->
+[0061]
+Please be careful when equipping tools. Evil can take
+many forms.<wait>
+<------------------------------------------------------->
+[0062]
+I'm afraid I can only hear one confession a day.<wait>
+<------------------------------------------------------->
+[0063]
+Now, pray tell me, what is it that weighs upon your mind?<wait>
+<------------------------------------------------------->
+[0064]
+I hardly sleep.
+<------------------------------------------------------->
+[0065]
+I overwork the Nature Sprites.
+<------------------------------------------------------->
+[0066]
+I want to marry Kappa.
+<------------------------------------------------------->
+[0067]
+Getting a proper amount of sleep is very important for
+your health.<wait><page>
+I understand you're busy, but I highly recommend taking
+some time to recharge physically and mentally.<wait><page>
+Be at ease. All has been forgiven. The divine bless you.<wait>
+<------------------------------------------------------->
+[0068]
+What do you mean you hardly sleep?! The rhythms of
+waking and resting are a natural process set by the
+heavens!<wait><page>
+Do you mean to desecrate that holy order by refusing to
+partake in it?! Blasphemy, I say! Blasphemy!<wait><page>
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!<wait>
+<------------------------------------------------------->
+[0069]
+The Nature Sprites are benevolent creatures that give
+help out of the goodness of their hearts.<wait><page>
+Perhaps you ought to return the favor with a thank-you
+gift to show your appreciation for all that they do.<wait><page>
+Be at ease. All has been forgiven. The divine bless you.<wait>
+<------------------------------------------------------->
+[0070]
+What? You're ABUSING the good will of the Nature
+Sprites and overworking them?! How dare you!<wait><page>
+"We help you out of the goodness of our hearts," I can
+hear them say. "Making us work without saying thank
+you is mean!"<wait><page>
+I would be utterly unsurprised if they are absolutely
+furious.<wait><page>
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!<wait><page>
+Hrm! Ahem! ...Goodness, their high voices are quite the
+workout for one's vocal cords.<wait>
+<------------------------------------------------------->
+[0071]
+You want to marry Kappa...? My, I wasn't aware you had
+such strong feelings for it.<wait><page>
+I'm sure that Kappa is aware of how powerfully you care
+for it as well.<wait><page>
+Be at ease. All has been forgiven. The divine bless you.<wait>
+<------------------------------------------------------->
+[0072]
+Wh-What...? You want to marry Kappa?! What in
+Heaven's name are you saying?!<wait><page>
+Kappa is not human! It is a guardian spirit of the lake,
+nearly divine in its own right!<wait><page>
+Why, I've lamented many a time over my inability to
+marry the Harvest Goddess, but--<wait><page>
+AHEM! Erm! Yes! Please forget I said that. Anyway!<wait><page>
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!<wait>
+<------------------------------------------------------->
+[0073]
+I don't care for my animals.
+<------------------------------------------------------->
+[0074]
+I worked myself to collapse.
+<------------------------------------------------------->
+[0075]
+The townsfolk don't like me.
+<------------------------------------------------------->
+[0076]
+The animals you keep provide you with that which you
+can eat, drink, and sell from their own bodies because
+they care for you.<wait><page>
+Please consider their care as well, if only to repay them
+for all that they freely give to you.<wait><page>
+Be at ease. All has been forgiven. The divine bless you.<wait>
+<------------------------------------------------------->
+[0077]
+What on earth do you think your animals are? Machines?<wait><page>
+They are giving their Milk and their Wool--parts of
+themselves--to you out of care and love for you!<wait><page>
+Don't you feel the least desire to show any love and care
+to them in return?<wait><page>
+I must say, I have nothing but pity for the poor creatures
+kept by someone so heartless and cruel.<wait><page>
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!<wait>
+<------------------------------------------------------->
+[0078]
+That is quite the work ethic you have if you are toiling
+until collapse. But please, you must think of your health.<wait><page>
+If you fainted, that means you have pushed your body far
+beyond the limits of what is good and healthy.<wait><page>
+Next time you tire, I highly recommend you re-energize
+yourself with food and rest before working again.<wait><page>
+Be at ease. All has been forgiven. The divine bless you.<wait>
+<------------------------------------------------------->
+[0079]
+My word! Have you no respect at all for the body that
+your parents gifted you with?<wait><page>
+Do you enjoy torturing yourself? Is ruining your health
+fun? Take better care of your sacred vessel!<wait><page>
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!<wait>
+<------------------------------------------------------->
+[0080]
+The people of this town would not turn against you for no
+good reason. There must be a cause.<wait><page>
+Look deep within your heart and see if you have an idea
+what it may be. If you do, repent and apologize.<wait><page>
+Be at ease. All has been forgiven. The divine bless you.<wait>
+<------------------------------------------------------->
+[0081]
+How funny. I find that I dislike being around you as well.
+Let's wrap this up quickly, shall we?<wait><page>
+The divine have no forgiveness for sinners like you.
+Heavenly retribution will surely rain down from above!<wait>
+<------------------------------------------------------->
+[0082]
+I picked on an animal.
+<------------------------------------------------------->
+[0083]
+I overslept.
+<------------------------------------------------------->
+[0084]
+I littered on the road.
+<------------------------------------------------------->
+[0085]
+The human heart is a fragile thing. Thus, at times, we are
+seized with a need to put down others to feel better
+about ourselves.<wait><page>
+But such actions are proof of our weakness. Those who
+can't realize that will forever be a slave to insecurity.<wait><page>
+Be at ease. All has been forgiven. The divine bless you.<wait>
+<------------------------------------------------------->
+[0086]
+H-How could you...?! I did not take you for such a cruel
+and cold individual.<wait><page>
+Did you enjoy tormenting that poor creature?
+Was it fun to lord it over them?<wait><page>
+If you did feel that way, then I am afraid there is no hope
+of salvation for you.<wait><page>
+The divine have no forgiveness for sinners like you.
+Heavenly retribution will surely rain down from above!<wait>
+<------------------------------------------------------->
+[0087]
+Unlike the human heart, the human body is very
+forthright. Oversleeping is not a sin in and of itself.<wait><page>
+Be at ease. All has been forgiven. The divine bless you.<wait>
+<------------------------------------------------------->
+[0088]
+Oversleeping is a sign of poor discipline and lack of
+devotion to your daily responsibilities.<wait><page>
+There are those whose schedules may be disrupted when
+you oversleep. No one likes a person who isn't punctual.<wait><page>
+The divine have no forgiveness for sinners like you.
+Heavenly retribution will surely rain down from above!<wait>
+<------------------------------------------------------->
+[0089]
+If you have generated some sort of waste, it is only
+natural that you put that garbage in a proper
+receptacle.<wait><page>
+If it is garbage generated by someone else, it is a kindness
+to put it in a bin for them.<wait><page>
+Be at ease. All has been forgiven. The divine bless you.<wait>
+<------------------------------------------------------->
+[0090]
+...<wait><page>
+I am so flabbergasted I don't know what to say.
+What would you think if someone littered in
+your home?<wait><page>
+You would be upset, would you not? This is the same thing.<wait><page>
+The divine have no forgiveness for sinners like you.
+Heavenly retribution will surely rain down from above!<wait>
+<------------------------------------------------------->
+[0091]
+I think that will be enough for today.<wait>
+<------------------------------------------------------->
+[0092]
+Ah, hello.<wait>
+<------------------------------------------------------->
+[0093]
+Please feel free to come again whenever you like.<wait>
+<------------------------------------------------------->
+[0094]
+It's locked...<wait>
+<------------------------------------------------------->
+[0095]
+Yay! The hex on the Cursed Hoe has been dispelled!<wait>
+<------------------------------------------------------->
+[0096]
+Yay! The hex on the Cursed Watering Can has been
+dispelled!<wait>
+<------------------------------------------------------->
+[0097]
+Organ<wait>
+<------------------------------------------------------->
+[0098]
+<playername>, no. You mustn't go outside now.<wait>
+<------------------------------------------------------->
+[0099]
+Window<wait>
+<------------------------------------------------------->
+[0100]
+Barrel<wait>
+<------------------------------------------------------->
+[0101]
+Basket<wait>
+<------------------------------------------------------->
+[0102]
+I wonder who the person in this one photograph is...<wait>
+<------------------------------------------------------->
+[0103]
+There's a photograph of Lillia.<wait>
+<------------------------------------------------------->
+[0104]
+[Fruit Tree]
+Collect fruit from this tree during certain seasons.
+Honey can be harvested all year round.<wait>
+<------------------------------------------------------->
+[0105]
+<mydogname>'s house.
+<------------------------------------------------------->
+[0106]
+Aha! There's a Truth Jewel behind the statue of the
+Harvest Goddess.<wait>
+<------------------------------------------------------->
+[0107]
+Aha! There's a Truth Jewel behind the statue of the
+Harvest Goddess.<wait><page>
+...But I'm already holding something, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0108]
+Aha! There's a Truth Jewel behind the statue of the
+Harvest Goddess.<wait><page>
+...But my Bag is full, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0109]
+Material Storage<wait>
+<------------------------------------------------------->
+[0110]
+There isn't anything in here.<wait>
+<------------------------------------------------------->
+[0111]
+Choose fish to take out.
+<------------------------------------------------------->
+[0112]
+<string0> Large Fish.<wait>
+<------------------------------------------------------->
+[0113]
+<string0> Medium Fish.<wait>
+<------------------------------------------------------->
+[0114]
+<string0> Small Fish.<wait>
+<------------------------------------------------------->
+[0115]
+Quit
+<------------------------------------------------------->
+[0116]
+It's empty.<wait>
+<------------------------------------------------------->
+[0117]
+Oops! Looks like the pond is full.<wait>
+<------------------------------------------------------->
+[0118]
+Huh...? There's a ring hidden in the back of my Mailbox.<wait>
+<------------------------------------------------------->
+[0119]
+Yay! I got a ring!<wait>
+<------------------------------------------------------->
+[0120]
+Pan paka paaan!<wait><page>
+You've collected all seven rings! Congratulations!!!<wait><page>
+...What? Yes, that's it. No, there isn't any special prize.
+That's really all you get. Be grateful I did my special
+cheer for you. Bye!<wait>
+<------------------------------------------------------->
+[0121]
+Hmm... Nope. There's no new mail today.<wait>
+<------------------------------------------------------->
+[0122]
+Aha! There's a ring in here too.<wait>
+<------------------------------------------------------->
+[0123]
+Ooh! It looks like my package has arrived.<wait>
+<------------------------------------------------------->
+[0124]
+Fish Food Storage Sign<wait>
+<------------------------------------------------------->
+[0125]
+Stable<wait>
+<------------------------------------------------------->
+[0126]
+Materials
+<string0> Pieces<wait>
+<------------------------------------------------------->
+[0127]
+Fish Pond<wait>
+<------------------------------------------------------->
+[0128]
+Shipping Bin<wait>
+<------------------------------------------------------->
+[0129]
+[Silo]
+Store Fodder here.
+Total Bushels: <string0><wait>
+<------------------------------------------------------->
+[0130]
+[Water Mill]
+Put Corn in here to grind up to 30 bags of Feed.
+Total Bags: <string0><wait>
+<------------------------------------------------------->
+[0131]
+You can't leave while still mounted on your horse.<wait>
+<------------------------------------------------------->
+[0132]
+You can't leave while holding a chicken.<wait>
+<------------------------------------------------------->
+[0133]
+You can't go in there while still mounted on your horse.<wait>
+<------------------------------------------------------->
+[0134]
+Log Pile<wait>
+<------------------------------------------------------->
+[0135]
+Vase<wait>
+<------------------------------------------------------->
+[0136]
+Dustbin<wait>
+<------------------------------------------------------->
+[0137]
+Painting of Kappa<wait>
+<------------------------------------------------------->
+[0138]
+Why am I looking over here? I have to check where the
+products are shelved if I want to buy anything.<wait>
+<------------------------------------------------------->
+[0139]
+Shelves<wait>
+<------------------------------------------------------->
+[0140]
+Pamphlets<wait>
+<------------------------------------------------------->
+[0141]
+Poster<wait>
+<------------------------------------------------------->
+[0142]
+Feeding Bin<wait>
+<------------------------------------------------------->
+[0143]
+This Bin is completely empty.<wait>
+<------------------------------------------------------->
+[0144]
+There's already an Egg incubating in here. I can't wait
+until it hatches!<wait>
+<------------------------------------------------------->
+[0145]
+[Incubator]
+Put an Egg in here and in a few days a new baby chick
+will be born.<wait>
+<------------------------------------------------------->
+[0146]
+I don't have space for any more animals...<wait>
+<------------------------------------------------------->
+[0147]
+[Mayonnaise Maker]
+Put Eggs in here to make Mayonnaise.<wait>
+<------------------------------------------------------->
+[0148]
+Chicken/Rabbit Feed
+Total Bags: <string0><wait>
+<------------------------------------------------------->
+[0149]
+Should I call it a night?
+<------------------------------------------------------->
+[0150]
+Yes
+<------------------------------------------------------->
+[0151]
+No
+<------------------------------------------------------->
+[0152]
+[Bed]
+Examine it on the left side when you want to go to sleep.<wait>
+<------------------------------------------------------->
+[0153]
+Aha! There's a Truth Jewel behind the Calendar.<wait>
+<------------------------------------------------------->
+[0154]
+Aha! There's a Truth Jewel behind the Calendar.<wait><page>
+...But I'm already holding something, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0155]
+Aha! There's a Truth Jewel behind the Calendar.<wait><page>
+...But my Bag is full, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0156]
+Spring
+<------------------------------------------------------->
+[0157]
+Summer
+<------------------------------------------------------->
+[0158]
+Autumn
+<------------------------------------------------------->
+[0159]
+Winter
+<------------------------------------------------------->
+[0160]
+Sunday
+<------------------------------------------------------->
+[0161]
+Monday
+<------------------------------------------------------->
+[0162]
+Tuesday
+<------------------------------------------------------->
+[0163]
+Wednesday
+<------------------------------------------------------->
+[0164]
+Thursday
+<------------------------------------------------------->
+[0165]
+Friday
+<------------------------------------------------------->
+[0166]
+Saturday
+<------------------------------------------------------->
+[0167]
+Year <string0>
+<string1> <string2>, <string3><wait>
+<------------------------------------------------------->
+[0168]
+<string0>:0<string1> AM<wait>
+<------------------------------------------------------->
+[0169]
+<string0>:<string1> AM<wait>
+<------------------------------------------------------->
+[0170]
+<string0>:0<string1> AM<wait>
+<------------------------------------------------------->
+[0171]
+<string0>:<string1> AM<wait>
+<------------------------------------------------------->
+[0172]
+<string0>:0<string1> PM<wait>
+<------------------------------------------------------->
+[0173]
+<string0>:<string1> PM<wait>
+<------------------------------------------------------->
+[0174]
+<string0>:0<string1> PM<wait>
+<------------------------------------------------------->
+[0175]
+<string0>:<string1> PM<wait>
+<------------------------------------------------------->
+[0176]
+The wind is way too strong to go outside today...<wait>
+<------------------------------------------------------->
+[0177]
+It's snowing way too much to go outside today...<wait>
+<------------------------------------------------------->
+[0178]
+This photo! Where did you find it?!<wait>
+<------------------------------------------------------->
+[0179]
+Oh... Huh. So you told Ran and the others.<wait><page>
+The people in this picture are my mother and little sister.<wait>
+<------------------------------------------------------->
+[0180]
+I...hated the town where I grew up, so I left. I ran away
+and abandoned my mother and sister.<wait><page>
+When I came back, they were gone. My mother had
+passed away, and my sister had disappeared.<wait><page>
+It felt like I'd completely lost myself...<wait><page>
+So I wandered around on my own with nowhere to go
+until I arrived here.<wait><page>
+It's...a lot like my hometown.<wait>
+<------------------------------------------------------->
+[0181]
+Ah! Sorry! I'm sure you don't want to hear about all that.<wait><page>
+Thank you...for finding this picture.<wait>
+<------------------------------------------------------->
+[0182]
+Cliff is sleeping soundly.<wait>
+<------------------------------------------------------->
+[0183]
+Please don't go upstairs.<wait>
+<------------------------------------------------------->
+[0184]
+Desk<wait>
+<------------------------------------------------------->
+[0185]
+Liquor Shelf<wait>
+<------------------------------------------------------->
+[0186]
+Large Kitchen<wait>
+<------------------------------------------------------->
+[0187]
+Microwave<wait>
+<------------------------------------------------------->
+[0188]
+Where are you off to? Aren't you going to have a bite to
+eat before you go?<wait>
+<------------------------------------------------------->
+[0189]
+Sorry! I haven't finished cleaning up there yet.
+Couldja stay down here for now?<wait>
+<------------------------------------------------------->
+[0190]
+Sorry, but that area is off-limits at the moment.<wait>
+<------------------------------------------------------->
+[0191]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0192]
+Telephone<wait>
+<------------------------------------------------------->
+[0193]
+I can pay 10G to make a phone call here.
+<------------------------------------------------------->
+[0194]
+Make a call.
+<------------------------------------------------------->
+[0195]
+Don't make a call.
+<------------------------------------------------------->
+[0196]
+I need to have 10G before I can make a call.<wait>
+<------------------------------------------------------->
+[0197]
+Hello! Thank you for calling TV Shopping!<wait>
+<------------------------------------------------------->
+[0198]
+The Clock is 2,000G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0199]
+☆Clock: 2,000G
+<------------------------------------------------------->
+[0200]
+Buy
+<------------------------------------------------------->
+[0201]
+Don't buy
+<------------------------------------------------------->
+[0202]
+The Mirror is 1,000G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0203]
+☆Mirror: 1,000G
+<------------------------------------------------------->
+[0204]
+The Fridge is 2,500G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0205]
+☆Fridge: 2,500G
+<------------------------------------------------------->
+[0206]
+The Cabinet is 2,500G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0207]
+☆Cabinet: 2,500G
+<------------------------------------------------------->
+[0208]
+The Kitchen is 4,000G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0209]
+☆Kitchen: 4,000G
+<------------------------------------------------------->
+[0210]
+The Rug is 5,000G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0211]
+☆Rug: 5,000G
+<------------------------------------------------------->
+[0212]
+The Big Bed is 10,000G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0213]
+☆Big Bed: 10,000G
+<------------------------------------------------------->
+[0214]
+The Knife is 1,500G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0215]
+☆Knife: 1,500G
+<------------------------------------------------------->
+[0216]
+The Frying Pan is 1,200G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0217]
+☆Frying Pan: 1,200G
+<------------------------------------------------------->
+[0218]
+The Pot is 1,000G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0219]
+☆Pot: 1,000G
+<------------------------------------------------------->
+[0220]
+The Mixer is 1,200G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0221]
+☆Mixer: 1,200G
+<------------------------------------------------------->
+[0222]
+The Whisk is 500G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0223]
+☆Whisk: 500G
+<------------------------------------------------------->
+[0224]
+The Rolling Pin is 750G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0225]
+☆Rolling Pin: 750G
+<------------------------------------------------------->
+[0226]
+The Oven is 2,500G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0227]
+☆Oven: 2,500G
+<------------------------------------------------------->
+[0228]
+The Seasoning Set is 2,500G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0229]
+☆Seasoning Set: 2,500G
+<------------------------------------------------------->
+[0230]
+The Power Berry is 10,000G. Would you like to purchase it?<wait>
+<------------------------------------------------------->
+[0231]
+☆Power Berry: 10,000G
+<------------------------------------------------------->
+[0232]
+But I'm afraid we don't have anything for sale right now. Please call again later!<wait>
+<------------------------------------------------------->
+[0233]
+Thank you for your business! Your product should arrive in two to three days.<wait>
+<------------------------------------------------------->
+[0234]
+...Oops, wait a minute. It looks like I don't have enough money. I'll have to hold off on buying that.<wait>
+<------------------------------------------------------->
+[0235]
+We always have a selection of useful and convenient items for sale. Please call again! Have a nice day.<wait>
+<------------------------------------------------------->
+[0236]
+Ladder<wait>
+<------------------------------------------------------->
+[0237]
+I'm still organizing the books on the second floor.
+Please don't go up there right now.<wait>
+<------------------------------------------------------->
+[0238]
+I haven't finished cleaning the second floor.
+Could you please not go up there?<wait>
+<------------------------------------------------------->
+[0239]
+Ah-aah. No going up to the second floor, please.<wait>
+<------------------------------------------------------->
+[0240]
+   １／２８
+<------------------------------------------------------->
+[0241]
+←
+<------------------------------------------------------->
+[0242]
+Card: Cliff 1
+<------------------------------------------------------->
+[0243]
+Card: Cliff 2
+<------------------------------------------------------->
+[0244]
+→
+<------------------------------------------------------->
+[0245]
+Card: Cliff & Ran
+<------------------------------------------------------->
+[0246]
+Quit
+<------------------------------------------------------->
+[0247]
+   ２／２８
+<------------------------------------------------------->
+[0248]
+Card: Doctor & Elly
+<------------------------------------------------------->
+[0249]
+Card: Doctor 1
+<------------------------------------------------------->
+[0250]
+Card: Doctor 1
+<------------------------------------------------------->
+[0251]
+Card: PoPoultry 1
+<------------------------------------------------------->
+[0252]
+   ３／２８
+<------------------------------------------------------->
+[0253]
+Card: PoPoultry 2
+<------------------------------------------------------->
+[0254]
+Card: PoPoultry 3
+<------------------------------------------------------->
+[0255]
+Card: PoPoultry 4
+<------------------------------------------------------->
+[0256]
+Card: PoPoultry 5
+<------------------------------------------------------->
+[0257]
+   ４／２８
+<------------------------------------------------------->
+[0258]
+Card: Gray 1
+<------------------------------------------------------->
+[0259]
+Card: Gray 2
+<------------------------------------------------------->
+[0260]
+Card: Kai
+<------------------------------------------------------->
+[0261]
+Card: Kai & Popuri
+<------------------------------------------------------->
+[0262]
+   ５／２８
+<------------------------------------------------------->
+[0263]
+Card: Jeff
+<------------------------------------------------------->
+[0264]
+Card: Sasha
+<------------------------------------------------------->
+[0265]
+Card: Dudley 1
+<------------------------------------------------------->
+[0266]
+Card: Dudley 2
+<------------------------------------------------------->
+[0267]
+   ６／２８
+<------------------------------------------------------->
+[0268]
+Card: Kai
+<------------------------------------------------------->
+[0269]
+Card: Basil & Anna
+<------------------------------------------------------->
+[0270]
+Card: Mei & Mugi
+<------------------------------------------------------->
+[0271]
+Card: Thomas & Harris 1
+<------------------------------------------------------->
+[0272]
+   ７／２８
+<------------------------------------------------------->
+[0273]
+Card: Thomas & Harris 2
+<------------------------------------------------------->
+[0274]
+Card: Duke & Manna
+<------------------------------------------------------->
+[0275]
+Card: Ellen
+<------------------------------------------------------->
+[0276]
+Card: Nature Sprites
+<------------------------------------------------------->
+[0277]
+   ８／２８
+<------------------------------------------------------->
+[0278]
+Card: Popuri
+<------------------------------------------------------->
+[0279]
+Card: Ran
+<------------------------------------------------------->
+[0280]
+Card: Karen
+<------------------------------------------------------->
+[0281]
+Card: Elly
+<------------------------------------------------------->
+[0282]
+   ９／２８
+<------------------------------------------------------->
+[0283]
+Card: Marie
+<------------------------------------------------------->
+[0284]
+Change in Hours
+<------------------------------------------------------->
+[0285]
+Birthday: Popuri
+<------------------------------------------------------->
+[0286]
+Birthday: Ran
+<------------------------------------------------------->
+[0287]
+   10／２８
+<------------------------------------------------------->
+[0288]
+Birthday: Karen
+<------------------------------------------------------->
+[0289]
+Birthday: Elly
+<------------------------------------------------------->
+[0290]
+Birthday: Marie
+<------------------------------------------------------->
+[0291]
+Birthday: Kai
+<------------------------------------------------------->
+[0292]
+   11／２８
+<------------------------------------------------------->
+[0293]
+Birthday: Cliff
+<------------------------------------------------------->
+[0294]
+Birthday: Doctor
+<------------------------------------------------------->
+[0295]
+Birthday: Kai & Popuri
+<------------------------------------------------------->
+[0296]
+Birthday: Cliff & Ran
+<------------------------------------------------------->
+[0297]
+   12／２８
+<------------------------------------------------------->
+[0298]
+Birthday: Rick & Karen
+<------------------------------------------------------->
+[0299]
+Birthday: Doctor & Elly
+<------------------------------------------------------->
+[0300]
+Birthday: Gray & Marie
+<------------------------------------------------------->
+[0301]
+Birthday: Thomas & Harris
+<------------------------------------------------------->
+[0302]
+１３／２８
+<------------------------------------------------------->
+[0303]
+Strawberry Seeds
+<------------------------------------------------------->
+[0304]
+Pumpkin Seeds
+<------------------------------------------------------->
+[0305]
+Spinach
+<------------------------------------------------------->
+[0306]
+Blue Feather
+<------------------------------------------------------->
+[0307]
+１４／２８
+<------------------------------------------------------->
+[0308]
+Big Bag
+<------------------------------------------------------->
+[0309]
+Stamina Booster XL
+<------------------------------------------------------->
+[0310]
+Super Caffeine
+<------------------------------------------------------->
+[0311]
+Brush
+<------------------------------------------------------->
+[0312]
+１５／２８
+<------------------------------------------------------->
+[0313]
+Milker
+<------------------------------------------------------->
+[0314]
+Clippers
+<------------------------------------------------------->
+[0315]
+Change in Hours
+<------------------------------------------------------->
+[0316]
+From Harvest Goddess
+<------------------------------------------------------->
+[0317]
+１６／２８
+<------------------------------------------------------->
+[0318]
+1 Billion Steps
+<------------------------------------------------------->
+[0319]
+All Items Shipped
+<------------------------------------------------------->
+[0320]
+All Fish Caught
+<------------------------------------------------------->
+[0321]
+Ore Items
+<------------------------------------------------------->
+[0322]
+１７／２８
+<------------------------------------------------------->
+[0323]
+BF255
+<------------------------------------------------------->
+[0324]
+TV Programs
+<------------------------------------------------------->
+[0325]
+Rock-Paper-Scissors
+<------------------------------------------------------->
+[0326]
+Next Number
+<------------------------------------------------------->
+[0327]
+１８／２８
+<------------------------------------------------------->
+[0328]
+1 Billion Shipped
+<------------------------------------------------------->
+[0329]
+1 Billion Fish Caught
+<------------------------------------------------------->
+[0330]
+1 Billion Gold
+<------------------------------------------------------->
+[0331]
+Year 200
+<------------------------------------------------------->
+[0332]
+１９／２８ 
+<------------------------------------------------------->
+[0333]
+Cooking
+<------------------------------------------------------->
+[0334]
+Fetch Fest
+<------------------------------------------------------->
+[0335]
+Cluck-Cluck Clash
+<------------------------------------------------------->
+[0336]
+Moo-Moo Festival
+<------------------------------------------------------->
+[0337]
+２０／２８
+<------------------------------------------------------->
+[0338]
+Fluffy Festival
+<------------------------------------------------------->
+[0339]
+Derbies
+<------------------------------------------------------->
+[0340]
+Cooking Exhibition
+<------------------------------------------------------->
+[0341]
+1st Anniversary
+<------------------------------------------------------->
+[0342]
+２１／２８
+<------------------------------------------------------->
+[0343]
+2nd Anniversary
+<------------------------------------------------------->
+[0344]
+3rd Anniversary
+<------------------------------------------------------->
+[0345]
+4th Anniversary
+<------------------------------------------------------->
+[0346]
+5th Anniversary
+<------------------------------------------------------->
+[0347]
+２２／２８
+<------------------------------------------------------->
+[0348]
+6th Anniversary
+<------------------------------------------------------->
+[0349]
+7th Anniversary
+<------------------------------------------------------->
+[0350]
+8th Anniversary
+<------------------------------------------------------->
+[0351]
+9th Anniversary
+<------------------------------------------------------->
+[0352]
+２３／２８
+<------------------------------------------------------->
+[0353]
+10th Anniversary
+<------------------------------------------------------->
+[0354]
+11th Anniversary
+<------------------------------------------------------->
+[0355]
+12th Anniversary
+<------------------------------------------------------->
+[0356]
+13th Anniversary
+<------------------------------------------------------->
+[0357]
+２４／２８
+<------------------------------------------------------->
+[0358]
+14th Anniversary
+<------------------------------------------------------->
+[0359]
+15th Anniversary
+<------------------------------------------------------->
+[0360]
+20th Anniversary
+<------------------------------------------------------->
+[0361]
+25th Anniversary
+<------------------------------------------------------->
+[0362]
+２５／２８ 
+<------------------------------------------------------->
+[0363]
+30th Anniversary
+<------------------------------------------------------->
+[0364]
+35th Anniversary
+<------------------------------------------------------->
+[0365]
+40th Anniversary
+<------------------------------------------------------->
+[0366]
+45th Anniversary
+<------------------------------------------------------->
+[0367]
+２６／２８
+<------------------------------------------------------->
+[0368]
+50th Anniversary
+<------------------------------------------------------->
+[0369]
+55th Anniversary
+<------------------------------------------------------->
+[0370]
+60th Anniversary
+<------------------------------------------------------->
+[0371]
+75th Anniversary
+<------------------------------------------------------->
+[0372]
+２７／２８
+<------------------------------------------------------->
+[0373]
+Present
+<------------------------------------------------------->
+[0374]
+Starlight Night Rick
+<------------------------------------------------------->
+[0375]
+Starlight Night Cliff
+<------------------------------------------------------->
+[0376]
+Starlight Night Doctor
+<------------------------------------------------------->
+[0377]
+２８／２８
+<------------------------------------------------------->
+[0378]
+White Day Kai
+<------------------------------------------------------->
+[0379]
+Starlight Night Gray
+<------------------------------------------------------->
+[0380]
+Sprite Invitations
+<------------------------------------------------------->
+[0381]
+   １／２０
+<------------------------------------------------------->
+[0382]
+Mini-game 1
+<------------------------------------------------------->
+[0383]
+Mini-game 2
+<------------------------------------------------------->
+[0384]
+Controls
+<------------------------------------------------------->
+[0385]
+Quit
+<------------------------------------------------------->
+[0386]
+   ２／２０
+<------------------------------------------------------->
+[0387]
+TV
+<------------------------------------------------------->
+[0388]
+Messages
+<------------------------------------------------------->
+[0389]
+Account Book
+<------------------------------------------------------->
+[0390]
+Town Map
+<------------------------------------------------------->
+[0391]
+   ３／２０
+<------------------------------------------------------->
+[0392]
+Farm Map
+<------------------------------------------------------->
+[0393]
+Equipment & Items
+<------------------------------------------------------->
+[0394]
+Raising Crops
+<------------------------------------------------------->
+[0395]
+How Crops Grow
+<------------------------------------------------------->
+[0396]
+   ４／２０
+<------------------------------------------------------->
+[0397]
+The Mines
+<------------------------------------------------------->
+[0398]
+Cooking
+<------------------------------------------------------->
+[0399]
+Stamina & Fatigue
+<------------------------------------------------------->
+[0400]
+Shipping Value
+<------------------------------------------------------->
+[0401]
+   ５／２０
+<------------------------------------------------------->
+[0402]
+Tool Uses
+<------------------------------------------------------->
+[0403]
+Fishing
+<------------------------------------------------------->
+[0404]
+Livestock 101
+<------------------------------------------------------->
+[0405]
+Takakura
+<------------------------------------------------------->
+[0406]
+   ６／２０
+<------------------------------------------------------->
+[0407]
+Romana
+<------------------------------------------------------->
+[0408]
+Lumina
+<------------------------------------------------------->
+[0409]
+Sebastian
+<------------------------------------------------------->
+[0410]
+Sully
+<------------------------------------------------------->
+[0411]
+   ７／２０
+<------------------------------------------------------->
+[0412]
+Chris
+<------------------------------------------------------->
+[0413]
+Hugh
+<------------------------------------------------------->
+[0414]
+Grat
+<------------------------------------------------------->
+[0415]
+Sam
+<------------------------------------------------------->
+[0416]
+   ８／２０
+<------------------------------------------------------->
+[0417]
+Kate
+<------------------------------------------------------->
+[0418]
+Gary
+<------------------------------------------------------->
+[0419]
+Nina
+<------------------------------------------------------->
+[0420]
+Daryl
+<------------------------------------------------------->
+[0421]
+   ９／２０
+<------------------------------------------------------->
+[0422]
+Gustafa
+<------------------------------------------------------->
+[0423]
+Gordy
+<------------------------------------------------------->
+[0424]
+Kesaran
+<------------------------------------------------------->
+[0425]
+Basaran
+<------------------------------------------------------->
+[0426]
+   10／２０
+<------------------------------------------------------->
+[0427]
+Moe
+<------------------------------------------------------->
+[0428]
+Ty
+<------------------------------------------------------->
+[0429]
+Lou
+<------------------------------------------------------->
+[0430]
+Nami
+<------------------------------------------------------->
+[0431]
+   11／２０
+<------------------------------------------------------->
+[0432]
+Rock
+<------------------------------------------------------->
+[0433]
+Griff
+<------------------------------------------------------->
+[0434]
+MuuMuu
+<------------------------------------------------------->
+[0435]
+Carter
+<------------------------------------------------------->
+[0436]
+   12／２０
+<------------------------------------------------------->
+[0437]
+Flora
+<------------------------------------------------------->
+[0438]
+Vesta
+<------------------------------------------------------->
+[0439]
+Matthew
+<------------------------------------------------------->
+[0440]
+Sabrina
+<------------------------------------------------------->
+[0441]
+１３／２０
+<------------------------------------------------------->
+[0442]
+Barding
+<------------------------------------------------------->
+[0443]
+Van
+<------------------------------------------------------->
+[0444]
+MukuMuku
+<------------------------------------------------------->
+[0445]
+Son
+<------------------------------------------------------->
+[0446]
+１４／２０
+<------------------------------------------------------->
+[0447]
+David
+<------------------------------------------------------->
+[0448]
+Ebony
+<------------------------------------------------------->
+[0449]
+Furatto
+<------------------------------------------------------->
+[0450]
+Main Character
+<------------------------------------------------------->
+[0451]
+１５／２０
+<------------------------------------------------------->
+[0452]
+Recipe Book 1
+<------------------------------------------------------->
+[0453]
+Recipe Book 2
+<------------------------------------------------------->
+[0454]
+Recipe Book 3
+<------------------------------------------------------->
+[0455]
+Recipe Book 4
+<------------------------------------------------------->
+[0456]
+１６／２０
+<------------------------------------------------------->
+[0457]
+Kitchen How-to
+<------------------------------------------------------->
+[0458]
+Sprite Service
+<------------------------------------------------------->
+[0459]
+The Forge
+<------------------------------------------------------->
+[0460]
+The General Store
+<------------------------------------------------------->
+[0461]
+１７／２０
+<------------------------------------------------------->
+[0462]
+The Workshop
+<------------------------------------------------------->
+[0463]
+The Clinic
+<------------------------------------------------------->
+[0464]
+The Vineyard
+<------------------------------------------------------->
+[0465]
+The Inn
+<------------------------------------------------------->
+[0466]
+１８／２０
+<------------------------------------------------------->
+[0467]
+The Beach Cafe
+<------------------------------------------------------->
+[0468]
+PoPoultry Farm
+<------------------------------------------------------->
+[0469]
+Yodel Ranch
+<------------------------------------------------------->
+[0470]
+Huang
+<------------------------------------------------------->
+[0471]
+１９／２０
+<------------------------------------------------------->
+[0472]
+Van
+<------------------------------------------------------->
+[0473]
+Records
+<------------------------------------------------------->
+[0474]
+Baths
+<------------------------------------------------------->
+[0475]
+Vases
+<------------------------------------------------------->
+[0476]
+２０／２０
+<------------------------------------------------------->
+[0477]
+Fridge
+<------------------------------------------------------->
+[0478]
+Cabinet
+<------------------------------------------------------->
+[0479]
+Staff
+<------------------------------------------------------->
+[0480]
+Handy Controls
+<------------------------------------------------------->
+[0481]
+There are no books of interest here.<wait>
+<------------------------------------------------------->
+[0482]
+Previous Page
+<------------------------------------------------------->
+[0483]
+Next Page
+<------------------------------------------------------->
+[0484]
+I can't find it...<wait>
+<------------------------------------------------------->
+[0485]
+Forge
+<------------------------------------------------------->
+[0486]
+General Store
+<------------------------------------------------------->
+[0487]
+Workshop
+<------------------------------------------------------->
+[0488]
+Clinic
+<------------------------------------------------------->
+[0489]
+Vineyard
+<------------------------------------------------------->
+[0490]
+Other
+<------------------------------------------------------->
+[0491]
+Inn
+<------------------------------------------------------->
+[0492]
+Beach Cafe
+<------------------------------------------------------->
+[0493]
+PoPoultry
+<------------------------------------------------------->
+[0494]
+Yodel Ranch
+<------------------------------------------------------->
+[0495]
+Merchant
+<------------------------------------------------------->
+[0496]
+Quit
+<------------------------------------------------------->
+[0497]
+Bookshelf<wait>
+<------------------------------------------------------->
+[0498]
+Aha! There's a Truth Jewel hiding at the back of this
+shelf.<wait>
+<------------------------------------------------------->
+[0499]
+Aha! There's a Truth Jewel hiding at the back of this
+shelf.<wait><page>
+...But I'm already holding something, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0500]
+Aha! There's a Truth Jewel hiding at the back of this
+shelf.<wait><page>
+...But my Bag is full, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0501]
+Clock<wait>
+<------------------------------------------------------->
+[0502]
+Fridge<wait>
+<------------------------------------------------------->
+[0503]
+Aha! There's a Truth Jewel hiding inside this fridge.<wait>
+<------------------------------------------------------->
+[0504]
+Aha! There's a Truth Jewel hiding inside the fridge.<wait><page>
+...But I'm already holding something, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0505]
+Aha! There's a Truth Jewel hiding inside the fridge.<wait><page>
+...But my Bag is full, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0506]
+Basement Stairs<wait>
+<------------------------------------------------------->
+[0507]
+Huh? <nickname>, where are you going? Are you
+leaving? I wanna give you your present first.<wait>
+<------------------------------------------------------->
+[0508]
+<nickname>, are you going somewhere? Couldja
+take your present before you go?<wait>
+<------------------------------------------------------->
+[0509]
+<nickname>, where are you going? Aren't you going
+to take your present?<wait>
+<------------------------------------------------------->
+[0510]
+Huh? You going somewhere, <nickname>? Could you
+take your present first, at least?<wait>
+<------------------------------------------------------->
+[0511]
+Hm? <nickname>, are you leaving? If you don't mind,
+could take your present first?<wait>
+<------------------------------------------------------->
+[0512]
+<playername>? Where are you going? Don't you
+want your present?<wait>
+<------------------------------------------------------->
+[0513]
+Whoa! <nickname>, where're you off to? Couldja
+take your present first?<wait>
+<------------------------------------------------------->
+[0514]
+<nickname>, where are you going? Don't you want
+your present?<wait>
+<------------------------------------------------------->
+[0515]
+Hm? <nickname>, are you going somewhere?
+Could you please take your present?<wait>
+<------------------------------------------------------->
+[0516]
+Where are you going, <nickname>? Aren't you
+going to take your present?<wait>
+<------------------------------------------------------->
+[0517]
+What, got somewhere to be? I kinda want you to take
+this before you go.<wait>
+<------------------------------------------------------->
+[0518]
+<nickname>, where are you off to?<wait>
+<------------------------------------------------------->
+[0519]
+<playername>, where are you going?<wait>
+<------------------------------------------------------->
+[0520]
+...Where go?<wait>
+<------------------------------------------------------->
+[0521]
+Where are you going, leaving poor <childname>
+behind?<wait>
+<------------------------------------------------------->
+[0522]
+<nickname>, where're you off to?<wait>
+<------------------------------------------------------->
+[0523]
+<nickname>, where are you going?<wait>
+<------------------------------------------------------->
+[0524]
+What are you doing?<wait>
+<------------------------------------------------------->
+[0525]
+Take a bath?
+<------------------------------------------------------->
+[0526]
+Heavenly Voice
+<------------------------------------------------------->
+[0527]
+Go through the door.<wait>
+<------------------------------------------------------->
+[0528]
+Come back through the door.<wait>
+<------------------------------------------------------->
+[0529]
+Not right now...<wait>
+<------------------------------------------------------->
+[0530]
+Sorry. I'm not in the mood to chat.<wait>
+<------------------------------------------------------->
+[0531]
+Sorry. I'm beat right now.<wait>
+<------------------------------------------------------->
+[0532]
+...I'm sleepy.<wait>
+<------------------------------------------------------->
+[0533]
+I'm trying to sleep. Stop buggin' me.<wait>
+<------------------------------------------------------->
+[0534]
+I'm sorry, but I need to sleep now.<wait>
+<------------------------------------------------------->
+[0535]
+Time for sleep now, yes?<wait>
+<------------------------------------------------------->
+[0536]
+I would like to sleep, thank you. Please do not disturb me.<wait>
+<------------------------------------------------------->
+[0537]
+C'mon. Let me sleep.<wait>
+<------------------------------------------------------->
+[0538]
+Ugh. What?<wait>
+<------------------------------------------------------->
+[0539]
+What do you want?<wait>
+<------------------------------------------------------->
+[0540]
+C'mon, I'm tired. Knock it off.<wait>
+<------------------------------------------------------->
+[0541]
+A proper night's sleep is vital to good health.
+Please don't disturb me.<wait>
+<------------------------------------------------------->
+[0542]
+What is it? You need something?<wait>
+<------------------------------------------------------->
+[0543]
+...<wait>
+<------------------------------------------------------->
+[0544]
+Welp, if I'm going to be rested for tomorrow, I'd better
+get to bed.<wait>
+<------------------------------------------------------->
+[0545]
+Phew! I sure wore myself out today. I'm gonna
+hit the sack.<wait>
+<------------------------------------------------------->
+[0546]
+Tomorrow's right around the corner. I'm going to go to
+sleep, okay?<wait>
+<------------------------------------------------------->
+[0547]
+I'm tired, so I'm gonna hit the hay. G'night. See ya in the
+morning.<wait>
+<------------------------------------------------------->
+[0548]
+One needs sleep to rest and recover from the day's
+exertions. I recommend getting at least several hours.<wait>
+<------------------------------------------------------->
+[0549]
+I am very tired, yes? Good night.<wait>
+<------------------------------------------------------->
+[0550]
+Good night.<wait>
+<------------------------------------------------------->
+[0551]
+I'm tired. Save it for tomorrow, okay?<wait>
+<------------------------------------------------------->
+[0552]
+Ugh. What? I'm tired!<wait>
+<------------------------------------------------------->
+[0553]
+Can it wait for tomorrow?<wait>
+<------------------------------------------------------->
+[0554]
+I wanna go to sleep, y'know.<wait>
+<------------------------------------------------------->
+[0555]
+If you have work to do, I won't force you, but I really do
+recommend it.<wait>
+<------------------------------------------------------->
+[0556]
+<nickname>, will you not sleep?<wait>
+<------------------------------------------------------->
+[0557]
+I said good night. That was a hint.<wait>
+<------------------------------------------------------->
+[0558]
+<nickname>, aren't you going to sleep? It's not
+good to stay up too late and all.<wait>
+<------------------------------------------------------->
+[0559]
+<nickname>, aren't you going to sleep? It's not
+good to stay up too late and all.<wait>
+<------------------------------------------------------->
+[0560]
+G'night, <nickname>. I'd better get to bed, too.<wait>
+<------------------------------------------------------->
+[0561]
+Good night, <nickname>. Work really takes it out
+of you, huh?<wait>
+<------------------------------------------------------->
+[0562]
+Night. Today sure was busy, huh?<wait>
+<------------------------------------------------------->
+[0563]
+Good night. I'm off to bed.<wait>
+<------------------------------------------------------->
+[0564]
+Good night, <nickname>.<wait>
+<------------------------------------------------------->
+[0565]
+Good night and fair dreams to end another
+productive day.<wait>
+<------------------------------------------------------->
+[0566]
+I hope it's a nice day tomorrow. See you in the morning.<wait>
+<------------------------------------------------------->
+[0567]
+C'mon, <nickname>. Don't let work keep you up so
+late. It can wait. Get some sleep.<wait>
+<------------------------------------------------------->
+[0568]
+Being tired after a hard day of work isn't a bad thing,
+you know.<wait>
+<------------------------------------------------------->
+[0569]
+Tomorrow'll come earlier than you think. Better get
+some sleep.<wait>
+<------------------------------------------------------->
+[0570]
+Don't stay up too late, all right?<wait>
+<------------------------------------------------------->
+[0571]
+I am going to sleep.<wait><page>
+<nickname>, you go to sleep soon too, yes?<wait>
+<------------------------------------------------------->
+[0572]
+Let us save our discussion for tomorrow. Delicious sleep
+awaits.<wait>
+<------------------------------------------------------->
+[0573]
+G'night, <nickname>.<wait>
+<------------------------------------------------------->
+[0574]
+Night, <nickname>.<wait>
+<------------------------------------------------------->
+[0575]
+Good night, <nickname>.<wait>
+<------------------------------------------------------->
+[0576]
+Night, <nickname>. See you in the morn.<wait>
+<------------------------------------------------------->
+[0577]
+Good night, <nickname>.<wait>
+<------------------------------------------------------->
+[0578]
+Good night, <nickname>.<wait>
+<------------------------------------------------------->
+[0579]
+Good night and restful slumber after another day well
+done.<wait>
+<------------------------------------------------------->
+[0580]
+You really burn the midnight oil, don't you,
+<nickname>?<wait>
+<------------------------------------------------------->
+[0581]
+Y'know, waking up next to you is something real special,
+<nickname>.<wait>
+<------------------------------------------------------->
+[0582]
+Do you always work this late, <nickname>?
+That's impressive.<wait>
+<------------------------------------------------------->
+[0583]
+Y'know, it's a nice feeling being married. Knowing you'll
+always be there just makes me so happy.<wait>
+<------------------------------------------------------->
+[0584]
+Y'know, it's a nice feeling being married. Knowing you'll
+always be there just makes me so happy.<wait>
+<------------------------------------------------------->
+[0585]
+Getting plenty of sleep is the key to lasting health.
+Be sure not to stay up too late, all right?<wait>
+<------------------------------------------------------->
+[0586]
+Getting plenty of sleep is the key to lasting health.
+Be sure not to stay up too late, all right?<wait>
+<------------------------------------------------------->
+[0587]
+<nickname>, you are a hard worker. That is a good
+thing.<wait>
+<------------------------------------------------------->
+[0588]
+Tomorrow we shall once again look to the delicious and
+the delectable.<wait>
+<------------------------------------------------------->
+[0589]
+G'night, <nickname>. ∀ I'm off to bed.<wait>
+<------------------------------------------------------->
+[0590]
+G'night, <nickname>. ∀ I'm off to bed.<wait>
+<------------------------------------------------------->
+[0591]
+Night, <nickname>. See you in the morn.<wait>
+<------------------------------------------------------->
+[0592]
+Good night, <nickname>. Let's give it our all
+tomorrow too, okay?<wait>
+<------------------------------------------------------->
+[0593]
+Night, <nickname>.<wait>
+<------------------------------------------------------->
+[0594]
+Good night, <nickname>. Don't work too late,
+all right?<wait>
+<------------------------------------------------------->
+[0595]
+<nickname>, good night.<wait>
+<------------------------------------------------------->
+[0596]
+Good night and delicious dreams, <nickname>!<wait>
+<------------------------------------------------------->
+[0597]
+<nickname>, hanging out with you is so fun that
+the day just zooms by.<wait>
+<------------------------------------------------------->
+[0598]
+Man, this farm life stuff is relaxing. Taking in that crisp
+morning air is real nice. Calming, y'know?<wait>
+<------------------------------------------------------->
+[0599]
+Just having you here with me makes every day more fun
+than I thought possible.<wait>
+<------------------------------------------------------->
+[0600]
+Y'know, there's a lot more to farming than
+I thought. I had no idea you could do half
+this stuff, <nickname>.<wait>
+<------------------------------------------------------->
+[0601]
+Please make sure you get plenty of sleep. I don't want to
+see you carted into my Clinic because you collapsed.<wait>
+<------------------------------------------------------->
+[0602]
+<nickname>, you lived in this big house all alone?
+Such waste. So much space you could sell, yes?<wait>
+<------------------------------------------------------->
+[0603]
+<nickname>, are you off to work again?
+Give it your best.<wait>
+<------------------------------------------------------->
+[0604]
+Big Bed<wait>
+<------------------------------------------------------->
+[0605]
+Sorry. I'm not in the mood to talk any more tonight.<wait>
+<------------------------------------------------------->
+[0606]
+Ugh. Leave me alone already!<wait>
+<------------------------------------------------------->
+[0607]
+G'night. See ya in the morning.<wait>
+<------------------------------------------------------->
+[0608]
+Oh geez, I'm such a night owl. When the sun goes down
+I just wanna head out and have some fun.<wait>
+<------------------------------------------------------->
+[0609]
+G'night.<wait>
+<------------------------------------------------------->
+[0610]
+I'd get to sleep soon if I were you. If you don't,
+you're gonna regret it in the morning!<wait>
+<------------------------------------------------------->
+[0611]
+Night. See you in the morning.<wait>
+<------------------------------------------------------->
+[0612]
+Let's give it our all tomorrow, ‘kay?<wait>
+<------------------------------------------------------->
+[0613]
+<nickname>! G'night!<wait>
+<------------------------------------------------------->
+[0614]
+It stinks how much time we waste sleeping. It would be so
+cool if tomorrow could get here sooner.<wait>
+<------------------------------------------------------->
+[0615]
+...<wait>
+<------------------------------------------------------->
+[0616]
+...<wait>
+<------------------------------------------------------->
+[0617]
+<nickname>, guess what? I stayed up juuust
+so I could be awake when you got home!<wait>
+<------------------------------------------------------->
+[0618]
+But I'm sleepy now. I'm gonna go to bed.<wait>
+<------------------------------------------------------->
+[0619]
+*yawn* I get sooo sleepy sooo fast.<wait>
+<------------------------------------------------------->
+[0620]
+See? My hands are nice and toasty warm already.<wait>
+<------------------------------------------------------->
+[0621]
+<nickname>, I betcha you're worn out after all
+that work you did today.<wait>
+<------------------------------------------------------->
+[0622]
+When you work really hard, you sleep like a log.
+I love that feeling. ∀<wait>
+<------------------------------------------------------->
+[0623]
+When you work really hard, you sleep like a log.
+I love that feeling. ∀<wait>
+<------------------------------------------------------->
+[0624]
+G'night! Time for lotsa good sleep after a long day
+of work!<wait>
+<------------------------------------------------------->
+[0625]
+C'mon, why are you still up? I wanna go to sleep.
+You come to bed soon too, 'kay? ∀<wait>
+<------------------------------------------------------->
+[0626]
+C'mon, why are you still up? I wanna go to sleep.
+You come to bed soon too, 'kay? ∀<wait>
+<------------------------------------------------------->
+[0627]
+Ugh. I'm so beat.<wait>
+<------------------------------------------------------->
+[0628]
+Go away!<wait>
+<------------------------------------------------------->
+[0629]
+*yaaaaawn* So tired. I think I'm gonna go to bed early
+tonight.<wait>
+<------------------------------------------------------->
+[0630]
+<nickname>, shouldn't you go to bed soon too?<wait><page>
+You don't wanna oversleep again, do you?<wait>
+<------------------------------------------------------->
+[0631]
+G'niiiight...<wait>
+<------------------------------------------------------->
+[0632]
+Okay! Time to get some sleep and recharge for
+tomorrow!<wait>
+<------------------------------------------------------->
+[0633]
+G'night! Let's both work real hard again tomorrow, 'kay?<wait>
+<------------------------------------------------------->
+[0634]
+May tomorrow be an awesome day for everybody!<wait>
+<------------------------------------------------------->
+[0635]
+...<wait>
+<------------------------------------------------------->
+[0636]
+Aaaaand...g'night! ∀ Boy, today went by in the blink of an
+eye, didn't it?<wait>
+<------------------------------------------------------->
+[0637]
+Aaaaand...g'night! ∀ Boy, today went by in the blink of an
+eye, didn't it?<wait>
+<------------------------------------------------------->
+[0638]
+...Is it me, or have you been a little distant lately?<wait>
+<------------------------------------------------------->
+[0639]
+Dedicating time to your work is all well and good, but I'd
+like you to dedicate at least a little time to me, too.<wait>
+<------------------------------------------------------->
+[0640]
+Good night.<wait>
+<------------------------------------------------------->
+[0641]
+You go on to bed. I'm not particularly sleepy yet.<wait>
+<------------------------------------------------------->
+[0642]
+Good night.<wait>
+<------------------------------------------------------->
+[0643]
+Don't worry, <nickname>. I won't mysteriously
+vanish while you're asleep.<wait>
+<------------------------------------------------------->
+[0644]
+You're pretty tired after today, aren't you? Why don't
+you go to sleep? Good night.<wait>
+<------------------------------------------------------->
+[0645]
+Oh, if you have any interesting dreams, tell me.
+Make sure to remember them when you wake up.<wait>
+<------------------------------------------------------->
+[0646]
+I love it when evening falls. It's such a quiet, peaceful
+time. Before I know it, it's nearly dawn.<wait><page>
+So many times I've stayed late in the Library reading,
+only to fall asleep right in my book.<wait>
+<------------------------------------------------------->
+[0647]
+I'd love it if you could stay up with me, but...<wait><page>
+Well, you have a lot of work to do every day.<wait>
+<------------------------------------------------------->
+[0648]
+Sorry. I'm too tired right now. Can you save it until
+morning?<wait>
+<------------------------------------------------------->
+[0649]
+...<wait>
+<------------------------------------------------------->
+[0650]
+Boy, today sure was tiring.<wait>
+<------------------------------------------------------->
+[0651]
+*yawn* I'm sleepy.<wait>
+<------------------------------------------------------->
+[0652]
+Good night.<wait>
+<------------------------------------------------------->
+[0653]
+Don't stay up too late, okay? Come to bed soon.<wait>
+<------------------------------------------------------->
+[0654]
+Good night. Make sure you get enough sleep to fully
+refresh yourself.<wait>
+<------------------------------------------------------->
+[0655]
+Oh, come now. Hurry and get in bed already.<wait>
+<------------------------------------------------------->
+[0656]
+Good night, <nickname>. I'll see you in the morning.<wait>
+<------------------------------------------------------->
+[0657]
+Never you mind me. Go on to bed.<wait>
+<------------------------------------------------------->
+[0658]
+I am sleepy.<wait>
+<------------------------------------------------------->
+[0659]
+I am sleeping now, yes?<wait>
+<------------------------------------------------------->
+[0660]
+Sleep well. Many good dreams.<wait>
+<------------------------------------------------------->
+[0661]
+Good night.<wait>
+<------------------------------------------------------->
+[0662]
+Go to bed soon. Without sleep, morning will come like an
+angry dragon, yes?<wait>
+<------------------------------------------------------->
+[0663]
+Good night. See you in the morning.<wait>
+<------------------------------------------------------->
+[0664]
+Let's both work hard and bring in the money tomorrow.<wait>
+<------------------------------------------------------->
+[0665]
+Good night, <nickname>.<wait>
+<------------------------------------------------------->
+[0666]
+I am most tired.<wait>
+<------------------------------------------------------->
+[0667]
+Please, my pillow calls to me.<wait>
+<------------------------------------------------------->
+[0668]
+Good night.<wait>
+<------------------------------------------------------->
+[0669]
+Good night. May your dreams be as light and airy as the
+finest of meringues.<wait>
+<------------------------------------------------------->
+[0670]
+The dough will not rise if you do not let it rest.
+Understand?<wait>
+<------------------------------------------------------->
+[0671]
+Good night. I will see you in the morning.<wait>
+<------------------------------------------------------->
+[0672]
+Let us both give the new day our very best.<wait>
+<------------------------------------------------------->
+[0673]
+Good night, <nickname>.<wait>
+<------------------------------------------------------->
+[0674]
+I do not wish to talk right now.<wait>
+<------------------------------------------------------->
+[0675]
+Leave me to my dreams.<wait>
+<------------------------------------------------------->
+[0676]
+I am going to sleep early. A weary mind produces
+no masterpieces.<wait>
+<------------------------------------------------------->
+[0677]
+It is well past the time for sleep.<wait>
+<------------------------------------------------------->
+[0678]
+What keeps you from your pillow, <nickname>?
+A beautiful tomorrow can only be created with
+a good night's sleep, you know.<wait>
+<------------------------------------------------------->
+[0679]
+I do so hope it's sunny tomorrow.<wait>
+<------------------------------------------------------->
+[0680]
+Fair dreams, <nickname>.<wait>
+<------------------------------------------------------->
+[0681]
+Are you sure you're getting enough rest?<wait>
+<------------------------------------------------------->
+[0682]
+I'm off to bed. Until the morrow, <nickname>.<wait>
+<------------------------------------------------------->
+[0683]
+Now that we're together, the rhythm of my daily life has
+changed. In a good way, of course.<wait>
+<------------------------------------------------------->
+[0684]
+Sorry, but I don't feel like talking right now.<wait>
+<------------------------------------------------------->
+[0685]
+I'm off to sleep.<wait>
+<------------------------------------------------------->
+[0686]
+I didn't feel any energy today. On days when Mother
+Nature's power is at an ebb, it's important to get to
+sleep early.<wait>
+<------------------------------------------------------->
+[0687]
+You go to sleep soon too, <nickname>.<wait>
+<------------------------------------------------------->
+[0688]
+See you tomorrow.<wait>
+<------------------------------------------------------->
+[0689]
+Let's get some rest. We have to be at our best for
+tomorrow.<wait>
+<------------------------------------------------------->
+[0690]
+Good night. May tomorrow be full of energy.<wait>
+<------------------------------------------------------->
+[0691]
+May tomorrow be overflowing with the earth's energy.<wait>
+<------------------------------------------------------->
+[0692]
+...<wait>
+<------------------------------------------------------->
+[0693]
+Looking back, each day flies by so quickly!<wait>
+<------------------------------------------------------->
+[0694]
+Books
+<------------------------------------------------------->
+[0695]
+Letters
+<------------------------------------------------------->
+[0696]
+Quit
+<------------------------------------------------------->
+[0697]
+I don't have any mail in here yet.<wait>
+<------------------------------------------------------->
+[0698]
+Current Farm Points...
+<string0>pts<wait>
+<------------------------------------------------------->
+[0699]
+Cook
+<------------------------------------------------------->
+[0700]
+View Recipes
+<------------------------------------------------------->
+[0701]
+Quit
+<------------------------------------------------------->
+[0702]
+I haven't made anything yet.<wait>
+<------------------------------------------------------->
+[0703]
+I can use this to cook as long as I don't have my hands full
+with anything else.<wait>
+<------------------------------------------------------->
+[0704]
+Change clothes?
+<------------------------------------------------------->
+[0705]
+Yes
+<------------------------------------------------------->
+[0706]
+No
+<------------------------------------------------------->
+[0707]
+It's kinda hard to get changed when my hands are full...<wait>
+<------------------------------------------------------->
+[0708]
+What do I want to wear?<wait>
+<------------------------------------------------------->
+[0709]
+Blue
+<------------------------------------------------------->
+[0710]
+Pink
+<------------------------------------------------------->
+[0711]
+Green
+<------------------------------------------------------->
+[0712]
+Orange
+<------------------------------------------------------->
+[0713]
+White
+<------------------------------------------------------->
+[0714]
+Red
+<------------------------------------------------------->
+[0715]
+That's what I was wearing before.<wait>
+<------------------------------------------------------->
+[0716]
+There! All changed!<wait>
+<------------------------------------------------------->
+[0717]
+Copper Sickle
+<------------------------------------------------------->
+[0718]
+Silver Sickle
+<------------------------------------------------------->
+[0719]
+Golden Sickle
+<------------------------------------------------------->
+[0720]
+Mithril Sickle
+<------------------------------------------------------->
+[0721]
+Mythic Sickle
+<------------------------------------------------------->
+[0722]
+Copper Hoe
+<------------------------------------------------------->
+[0723]
+Silver Hoe
+<------------------------------------------------------->
+[0724]
+Golden Hoe
+<------------------------------------------------------->
+[0725]
+Mithril Hoe
+<------------------------------------------------------->
+[0726]
+Mythic Hoe
+<------------------------------------------------------->
+[0727]
+Copper Axe
+<------------------------------------------------------->
+[0728]
+Silver Axe
+<------------------------------------------------------->
+[0729]
+Golden Axe
+<------------------------------------------------------->
+[0730]
+Mithril Axe
+<------------------------------------------------------->
+[0731]
+Mythic Axe
+<------------------------------------------------------->
+[0732]
+Copper Hammer
+<------------------------------------------------------->
+[0733]
+Silver Hammer
+<------------------------------------------------------->
+[0734]
+Golden Hammer
+<------------------------------------------------------->
+[0735]
+Mithril Hammer
+<------------------------------------------------------->
+[0736]
+Mythic Hammer
+<------------------------------------------------------->
+[0737]
+Copper Watering Can
+<------------------------------------------------------->
+[0738]
+Silver Watering Can
+<------------------------------------------------------->
+[0739]
+Golden Watering Can
+<------------------------------------------------------->
+[0740]
+Mithril Watering Can
+<------------------------------------------------------->
+[0741]
+Mythic Watering Can
+<------------------------------------------------------->
+[0742]
+Copper Fishing Rod
+<------------------------------------------------------->
+[0743]
+Silver Fishing Rod
+<------------------------------------------------------->
+[0744]
+Golden Fishing Rod
+<------------------------------------------------------->
+[0745]
+Mithril Fishing Rod
+<------------------------------------------------------->
+[0746]
+Mythic Fishing Rod
+<------------------------------------------------------->
+[0747]
+Bracelet
+<------------------------------------------------------->
+[0748]
+Necklace
+<------------------------------------------------------->
+[0749]
+Earrings
+<------------------------------------------------------->
+[0750]
+Brooch
+<------------------------------------------------------->
+[0751]
+Mayonnaise Maker
+<------------------------------------------------------->
+[0752]
+Cheese Maker
+<------------------------------------------------------->
+[0753]
+Yarn Maker (Coop)
+<------------------------------------------------------->
+[0754]
+The <string0> is finished. Go on and
+take it home with you.<wait>
+<------------------------------------------------------->
+[0755]
+The <string0> you ordered is ready.<wait>
+<------------------------------------------------------->
+[0756]
+I installed it on your farm.<wait>
+<------------------------------------------------------->
+[0757]
+The <string0> you ordered is ready.<wait><page>
+Looks like you can't carry any more equipment, though.<wait><page>
+I'll have Gray take it to your farm.<wait>
+<------------------------------------------------------->
+[0758]
+It looks like you can't carry any more equipment.<wait><page>
+I'll have Gray take the <string0> to
+your farm.<wait>
+<------------------------------------------------------->
+[0759]
+The <string0> is finished, but...hrm.<wait><page>
+You don't have any space to hold it. Come see me again
+when you have an empty slot.<wait>
+<------------------------------------------------------->
+[0760]
+The <string0> you ordered is
+finished, but it looks like you can't carry anything else.<wait><page>
+I'll hold on to it until you've made some space.<wait>
+<------------------------------------------------------->
+[0761]
+I'm not finished with your order yet.<wait>
+<------------------------------------------------------->
+[0762]
+Seeds
+<------------------------------------------------------->
+[0763]
+Onigiri
+<------------------------------------------------------->
+[0764]
+Bread
+<------------------------------------------------------->
+[0765]
+Wrapping
+<------------------------------------------------------->
+[0766]
+Chocolate
+<------------------------------------------------------->
+[0767]
+Other
+<------------------------------------------------------->
+[0768]
+...Oh yeah, that's right. Seeds aren't sold in winter.<wait>
+<------------------------------------------------------->
+[0769]
+Oops! I don't have enough gold.<wait>
+<------------------------------------------------------->
+[0770]
+Curry Powder
+<------------------------------------------------------->
+[0771]
+Dango Flour
+<------------------------------------------------------->
+[0772]
+Back
+<------------------------------------------------------->
+[0773]
+Wheat Flour
+<------------------------------------------------------->
+[0774]
+Oil
+<------------------------------------------------------->
+[0775]
+Quit
+<------------------------------------------------------->
+[0776]
+Van's Store
+<------------------------------------------------------->
+[0777]
+Ugh, I don't feel so good... I think I should skip work for
+today and just go to bed.<wait>
+<------------------------------------------------------->
+[0778]
+Ugh, I don't feel so good... Maybe I should have something
+that'll help with Fatigue before doing anything else.<wait>
+<------------------------------------------------------->
+[0779]
+It's awfully late. I should probably hit the hay.<wait>
+<------------------------------------------------------->
+[0780]
+It's almost dawn. I should probably get at least a few
+hours of sleep.<wait>
+<------------------------------------------------------->
+[0781]
+It's night.<wait>
+<------------------------------------------------------->
+[0782]
+It's really late at night.<wait>
+<------------------------------------------------------->
+[0783]
+I'm gonna give today my best!<wait>
+<------------------------------------------------------->
+[0784]
+It's morning.<wait>
+<------------------------------------------------------->
+[0785]
+It's still only midday. I should probably get some more
+work done before I call it a day.<wait>
+<------------------------------------------------------->
+[0786]
+It's midday.<wait>
+<------------------------------------------------------->
+[0787]
+It's still only late afternoon. I should probably go get some
+more work done.<wait>
+<------------------------------------------------------->
+[0788]
+It's late afternoon.<wait>
+<------------------------------------------------------->
+[0789]
+It's starting to get dark. I should probably wrap up my
+chores for today.<wait>
+<------------------------------------------------------->
+[0790]
+It's evening.<wait>
+<------------------------------------------------------->
+[0791]
+It's pretty dark out now. I should probably wrap up my
+chores for today.<wait>
+<------------------------------------------------------->
+[0792]
+It's night.<wait>
+<------------------------------------------------------->
+[0793]
+Working in bad weather is stressful enough. If I keep
+working this late, I'll really wear myself out.<wait>
+<------------------------------------------------------->
+[0794]
+Trying to use tools in this terrible weather is gonna take
+some work. I'd better be careful and not push myself too
+much.<wait>
+<------------------------------------------------------->
+[0795]
+I can't go outside in this typhoon anyway. Might as well
+just go to sleep.<wait>
+<------------------------------------------------------->
+[0796]
+Boy, that wind is really blowing out there. My house will
+stay up, though...right?<wait>
+<------------------------------------------------------->
+[0797]
+I can't go outside in this blizzard anyway. Might as well
+catch some shuteye.<wait>
+<------------------------------------------------------->
+[0798]
+Boy, it sure is snowing like crazy. My house will stay up,
+though...right?<wait>
+<------------------------------------------------------->
+[0799]
+Yarn Maker (Barn)
+<------------------------------------------------------->
+[0800]
+Jam Maker
+<------------------------------------------------------->
+[0801]
+Butter Maker
+<------------------------------------------------------->
+[0802]
+Record Player<wait>
+<------------------------------------------------------->
+[0803]
+   １／１０
+<------------------------------------------------------->
+[0804]
+Opening
+<------------------------------------------------------->
+[0805]
+Title Screen
+<------------------------------------------------------->
+[0806]
+Mute
+<------------------------------------------------------->
+[0807]
+Quit
+<------------------------------------------------------->
+[0808]
+   ２／１０
+<------------------------------------------------------->
+[0809]
+Spring
+<------------------------------------------------------->
+[0810]
+Summer
+<------------------------------------------------------->
+[0811]
+Autumn
+<------------------------------------------------------->
+[0812]
+Winter
+<------------------------------------------------------->
+[0813]
+   ３／１０
+<------------------------------------------------------->
+[0814]
+Rain
+<------------------------------------------------------->
+[0815]
+Typhoon
+<------------------------------------------------------->
+[0816]
+Town
+<------------------------------------------------------->
+[0817]
+Beach
+<------------------------------------------------------->
+[0818]
+   ４／１０
+<------------------------------------------------------->
+[0819]
+Evening
+<------------------------------------------------------->
+[0820]
+Animal Death
+<------------------------------------------------------->
+[0821]
+Rivals
+<------------------------------------------------------->
+[0822]
+Romance
+<------------------------------------------------------->
+[0823]
+   ５／１０
+<------------------------------------------------------->
+[0824]
+Yearly Events 1
+<------------------------------------------------------->
+[0825]
+Yearly Events 2
+<------------------------------------------------------->
+[0826]
+Yearly Events 3
+<------------------------------------------------------->
+[0827]
+Annual Concert
+<------------------------------------------------------->
+[0828]
+   ６／１０
+<------------------------------------------------------->
+[0829]
+Wedding Ceremony
+<------------------------------------------------------->
+[0830]
+Mini-games
+<------------------------------------------------------->
+[0831]
+Nature Sprites
+<------------------------------------------------------->
+[0832]
+Record 1
+<------------------------------------------------------->
+[0833]
+   ７／１０
+<------------------------------------------------------->
+[0834]
+Record 2
+<------------------------------------------------------->
+[0835]
+Record 3
+<------------------------------------------------------->
+[0836]
+Record 4
+<------------------------------------------------------->
+[0837]
+Record 5
+<------------------------------------------------------->
+[0838]
+   ８／１０
+<------------------------------------------------------->
+[0839]
+Record 6
+<------------------------------------------------------->
+[0840]
+Record 7
+<------------------------------------------------------->
+[0841]
+Record 8
+<------------------------------------------------------->
+[0842]
+Record 9
+<------------------------------------------------------->
+[0843]
+   ９／１０
+<------------------------------------------------------->
+[0844]
+Record 10
+<------------------------------------------------------->
+[0845]
+New Record 1
+<------------------------------------------------------->
+[0846]
+New Record 2
+<------------------------------------------------------->
+[0847]
+New Record 3
+<------------------------------------------------------->
+[0848]
+   10／１０
+<------------------------------------------------------->
+[0849]
+New Record 4
+<------------------------------------------------------->
+[0850]
+New Record 5
+<------------------------------------------------------->
+[0851]
+Ending
+<------------------------------------------------------->
+[0852]
+Table<wait>
+<------------------------------------------------------->
+[0853]
+Aww. My Stocking is empty.<wait>
+<------------------------------------------------------->
+[0854]
+Yay! There's a present in my Stocking!<wait>
+<------------------------------------------------------->
+[0855]
+It's a piece of Mithril!<wait>
+<------------------------------------------------------->
+[0856]
+But I can't pick it up if I'm already holding something...<wait>
+<------------------------------------------------------->
+[0857]
+It's a piece of Orichalcum!<wait>
+<------------------------------------------------------->
+[0858]
+It's a Moonstone!<wait>
+<------------------------------------------------------->
+[0859]
+It's a Sandrose!<wait>
+<------------------------------------------------------->
+[0860]
+It's a piece of Alexandrite!<wait>
+<------------------------------------------------------->
+[0861]
+Stocking Hook<wait>
+<------------------------------------------------------->
+[0862]
+...
+<------------------------------------------------------->
+[0863]
+－－－－－－－
+<------------------------------------------------------->
+[0864]
+........................................................................................................................<wait>
+<------------------------------------------------------->
+[0865]
+............................................................
+..AH.....................................................
+...........................................................<wait>
+<------------------------------------------------------->
+[0866]
+............................................................
+............................................................
+............................................................<wait>
+<------------------------------------------------------->
+[0867]
+ZA........................................................
+............................................................
+............................................................<wait>
+<------------------------------------------------------->
+[0868]
+........................................................................................................................<wait>
+<------------------------------------------------------->
+[0869]
+............................................................
+............................................................
+..............................Master...................<wait>
+<------------------------------------------------------->
+[0870]
+........................................................................................................................<wait>
+<------------------------------------------------------->
+[0871]
+BEEEEEEEEEEEEEEEEEEEEEEEE............................................................
+...................................<wait>
+<------------------------------------------------------->
+[0872]
+Dear Princess
+Part <string0>
+<------------------------------------------------------->
+[0873]
++1
+<------------------------------------------------------->
+[0874]
+-1
+<------------------------------------------------------->
+[0875]
+Watch Episode
+<------------------------------------------------------->
+[0876]
+Turn TV off
+<------------------------------------------------------->
+[0877]
+Fish or Be Fished
+<string1> <string0>
+<------------------------------------------------------->
+[0878]
+Stew
+<------------------------------------------------------->
+[0879]
+Fried Rice
+<------------------------------------------------------->
+[0880]
+Fruit Juice
+<------------------------------------------------------->
+[0881]
+Mayonnaise
+<------------------------------------------------------->
+[0882]
+Baked Yam
+<------------------------------------------------------->
+[0883]
+Raisin Bread
+<------------------------------------------------------->
+[0884]
+Churros
+<------------------------------------------------------->
+[0885]
+Udon
+<------------------------------------------------------->
+[0886]
+Baumkuchen
+<------------------------------------------------------->
+[0887]
+Matsutake
+<------------------------------------------------------->
+[0888]
+Dumplings
+<------------------------------------------------------->
+[0889]
+Stamina Booster XL
+<------------------------------------------------------->
+[0890]
+Tasty Time: <string0>
+<------------------------------------------------------->
+[0891]
+Going to School 1
+<------------------------------------------------------->
+[0892]
+Going to School 2
+<------------------------------------------------------->
+[0893]
+Going to School 3
+<------------------------------------------------------->
+[0894]
+Going to School 4
+<------------------------------------------------------->
+[0895]
+Going to School 5
+<------------------------------------------------------->
+[0896]
+Going to School 6
+<------------------------------------------------------->
+[0897]
+Going to School 7
+<------------------------------------------------------->
+[0898]
+Going to School 8
+<------------------------------------------------------->
+[0899]
+Going to School 9
+<------------------------------------------------------->
+[0900]
+Going to School 10
+<------------------------------------------------------->
+[0901]
+Social Studies 1
+<------------------------------------------------------->
+[0902]
+Social Studies 2
+<------------------------------------------------------->
+[0903]
+Music
+<------------------------------------------------------->
+[0904]
+Phys Ed. 1
+<------------------------------------------------------->
+[0905]
+Phys Ed. 2
+<------------------------------------------------------->
+[0906]
+Phys Ed. 3
+<------------------------------------------------------->
+[0907]
+Phys Ed. 4
+<------------------------------------------------------->
+[0908]
+Phys Ed. 5
+<------------------------------------------------------->
+[0909]
+Phys Ed. 6
+<------------------------------------------------------->
+[0910]
+Phys Ed. 7
+<------------------------------------------------------->
+[0911]
+Phys Ed. 8
+<------------------------------------------------------->
+[0912]
+Math 1
+<------------------------------------------------------->
+[0913]
+Math 2
+<------------------------------------------------------->
+[0914]
+Math 3
+<------------------------------------------------------->
+[0915]
+Math 4
+<------------------------------------------------------->
+[0916]
+Math 5
+<------------------------------------------------------->
+[0917]
+Math 6
+<------------------------------------------------------->
+[0918]
+Lunch Recess 1
+<------------------------------------------------------->
+[0919]
+Lunch Recess 2
+<------------------------------------------------------->
+[0920]
+Lunch Recess 3
+<------------------------------------------------------->
+[0921]
+Lunch Recess 4
+<------------------------------------------------------->
+[0922]
+Language 1
+<------------------------------------------------------->
+[0923]
+Language 2
+<------------------------------------------------------->
+[0924]
+Language 3
+<------------------------------------------------------->
+[0925]
+After School 1
+<------------------------------------------------------->
+[0926]
+After School 2
+<------------------------------------------------------->
+[0927]
+After School 3
+<------------------------------------------------------->
+[0928]
+After School 4
+<------------------------------------------------------->
+[0929]
+After School 5
+<------------------------------------------------------->
+[0930]
+Swip-Swap: <string0>
+<------------------------------------------------------->
+[0931]
+Star Lily, Heart Snatcher☆
+Episode <string0>
+<------------------------------------------------------->
+[0932]
+Mechabot Ultror: Autumn Breeze
+Episode <string0>
+<------------------------------------------------------->
+[0933]
+Ow!<wait>
+<------------------------------------------------------->
+[0934]
+[Vase]
+You can put flowers in this.<wait>
+<------------------------------------------------------->
+[0935]
+Do I want to throw out this flower?
+<------------------------------------------------------->
+[0936]
+Grape Vine<wait>
+<------------------------------------------------------->
+[0937]
+Mailbox<wait>
+<------------------------------------------------------->
+[0938]
+Streetlight<wait>
+<------------------------------------------------------->
+[0939]
+Aha! There's a Truth Jewel hiding under this streetlight.<wait>
+<------------------------------------------------------->
+[0940]
+Aha! There's a Truth Jewel hiding under this streetlight.<wait><page>
+...But I'm already holding something, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0941]
+Aha! There's a Truth Jewel hiding under this streetlight.<wait><page>
+...But my Bag is full, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[0942]
+A statue of the Harvest Goddess. She's beautiful...<wait>
+<------------------------------------------------------->
+[0943]
+I haven't finished tidying the upstairs, you know.
+Could you not go up there right now, please?<wait>
+<------------------------------------------------------->
+[0944]
+Park Bench<wait>
+<------------------------------------------------------->
+[0945]
+Hey, <playername>! Just what do you think you're doing putting up that tacky gold fence on your farm?!<wait>
+<------------------------------------------------------->
+[0946]
+☆The MOCHI BONANZA is coming!
+When: Spring 1st, 6:00 PM~
+Where: Rose Plaza<wait><page>
+Everyone, come join us in enjoying some
+fresh and tasty mochi! All are welcome.
+-The Mayor<wait>
+<------------------------------------------------------->
+[0947]
+☆The SPRING DERBY is coming!
+When: Spring 18th, 10:00 AM~
+Where: Rose Plaza<wait><page>
+Wonderful prizes await the winners!
+Sign up at the Plaza to participate.
+-The Mayor<wait>
+<------------------------------------------------------->
+[0948]
+☆The COOKING EXHIBITION is coming!
+When: Spring 22nd, 10:00 AM~
+Where: Rose Plaza<wait><page>
+Are you confident in your cooking?
+Come display your skills!
+-The Mayor<wait>
+<------------------------------------------------------->
+[0949]
+☆The FETCH FEST is coming!
+When: Summer 1st, 10:00 AM~
+Where: Mineral Beach<wait><page>
+Kick off summer with a fun contest! Bring your pets!
+-The Mayor<wait>
+<------------------------------------------------------->
+[0950]
+☆The CLUCK-CLUCK CLASH is coming!
+When: Summer 7th, 10:00 AM~
+Where: Rose Plaza<wait><page>
+Can your chicken claim the crown?
+Which bird will crow their way to victory?!
+-The Mayor<wait>
+<------------------------------------------------------->
+[0951]
+☆The MOO-MOO FESTIVAL is coming!
+When: Summer 20th, 10:00 AM~
+Where: Rose Plaza<wait><page>
+MOOsey on down with your best cow and show everyone
+just how wonderful they are!
+-The Mayor<wait>
+<------------------------------------------------------->
+[0952]
+☆The FIREWORKS DISPLAY is coming!
+When: Summer 24th, 6:00 PM~
+Where: Mineral Beach<wait><page>
+Come join us and say goodbye to summer with a bang!
+-The Mayor<wait>
+<------------------------------------------------------->
+[0953]
+☆The CONCERT is coming!
+When: Autumn 3rd, 6:00 PM~
+Where: Church<wait><page>
+Come and let some wonderful music liven up
+the long autumn evening!
+-The Mayor<wait>
+<------------------------------------------------------->
+[0954]
+☆The HARVEST FESTIVAL is coming!
+When: Autumn 9th, 10:00 AM~
+Where: Rose Plaza<wait><page>
+Come and join in this community event and celebrate the
+delicious foods of the season!
+-The Mayor<wait>
+<------------------------------------------------------->
+[0955]
+☆The AUTUMN DERBY is coming!
+When: Autumn 18th, 10:00 AM~
+Where: Rose Plaza<wait><page>
+Ride to victory and win a prize!
+Sign up at Rose Plaza to participate.
+-The Mayor<wait>
+<------------------------------------------------------->
+[0956]
+☆The FLUFFY FESTIVAL is coming!
+When: Autumn 21st, 10:00 AM~
+Where: Rose Plaza<wait><page>
+All participants should ensure their animals are at their
+fluffiest before joining!
+-The Mayor<wait>
+<------------------------------------------------------->
+[0957]
+☆NEW YEAR'S PARTY and NEW YEAR'S SOBA
+are coming! Join us in celebrating the new year.<wait><page>
+☆NEW YEAR'S PARTY
+When: Winter 30th, Midnight~
+Where: Mother's Hill Summit<wait><page>
+☆NEW YEAR'S SOBA
+When: Winter 30th, 6:00 PM~
+Where: Rose Plaza<wait><page>
+We look forward to seeing everyone there!
+-The Mayor<wait>
+<------------------------------------------------------->
+[0958]
+☆NEW YEAR'S PARTY, NEW YEAR'S SOBA, and the
+MOCHI BONANZA are coming!<wait><page>
+Usher out the old year and in the new with fabulous food!<wait><page>
+☆NEW YEAR'S PARTY
+When: Winter 30th, Midnight~
+Where: Mother's Hill Summit<wait><page>
+☆NEW YEAR'S SOBA
+When: Winter 30th, 6:00 PM~
+Where: Rose Plaza<wait><page>
+☆MOCHI BONANZA
+When: Spring 1st, 6:00 PM~
+Where: Rose Plaza<wait><page>
+We look forward to seeing everyone there!
+-The Mayor<wait>
+<------------------------------------------------------->
+[0959]
+Good day! Are you ready to start the race?
+Or perhaps you'd like to purchase a ticket?
+I will trade for prizes as well.<wait>
+<------------------------------------------------------->
+[0960]
+Start race
+<------------------------------------------------------->
+[0961]
+Purchase tickets and start race
+<------------------------------------------------------->
+[0962]
+Prize exchange
+<------------------------------------------------------->
+[0963]
+Never mind
+<------------------------------------------------------->
+[0964]
+You'd like to start the race, then?<wait>
+<------------------------------------------------------->
+[0965]
+Excellent! Without further ado... Everyone, please get on
+your marks.<wait>
+<------------------------------------------------------->
+[0966]
+All right. Please come speak to me when you're ready.<wait>
+<------------------------------------------------------->
+[0967]
+You'd like a ticket? Excellent! Just be aware that
+once you buy it, the race will begin.
+<------------------------------------------------------->
+[0968]
+You'd like to trade medals for prizes, then?<wait>
+<------------------------------------------------------->
+[0969]
+I'm afraid I'll have to ask you to put away what you're
+carrying before I can trade anything with you.<wait>
+<------------------------------------------------------->
+[0970]
+Trade for prizes
+<------------------------------------------------------->
+[0971]
+Mind if we get on with the judging? I'd like to pick the
+winning cow sometime soon, but here's a reminder before
+we do...<wait><page>
+Be sure to leave some space in your Bag in case you win!
+We can't give you a trophy if your Bag's full.<wait><page>
+Now, then, are you ready?<wait>
+<------------------------------------------------------->
+[0972]
+Begin
+<------------------------------------------------------->
+[0973]
+Wait
+<------------------------------------------------------->
+[0974]
+Good, good. Let's be on with it, then.<wait>
+<------------------------------------------------------->
+[0975]
+All right. Whenever you're ready, come let me know.<wait>
+<------------------------------------------------------->
+[0976]
+Table<wait>
+<------------------------------------------------------->
+[0977]
+Mind if we get on with the judging? I'd like to pick the
+winning animal sometime soon, but here's a reminder
+before we do...<wait><page>
+Be sure to leave some space in your Bag in case you win!
+We can't give you a trophy if your Bag's full.<wait><page> 
+Now, then, are you ready?<wait>
+<------------------------------------------------------->
+[0978]
+[Plaza Garbage Bin]
+I can toss my trash in here.<wait>
+<------------------------------------------------------->
+[0979]
+Now then, are we ready to begin the Mochi Bonanza?<wait>
+<------------------------------------------------------->
+[0980]
+Though, if your hands are already full, we won't be able
+to give you any mochi cakes. Do you mind?<wait>
+<------------------------------------------------------->
+[0981]
+Begin
+<------------------------------------------------------->
+[0982]
+Wait
+<------------------------------------------------------->
+[0983]
+Well then, without further ado...<wait>
+<------------------------------------------------------->
+[0984]
+Oh? All right. Please come speak to me whenever you're
+ready, then.<wait>
+<------------------------------------------------------->
+[0985]
+Now then, are we ready to begin the New Year's Soba?<wait>
+<------------------------------------------------------->
+[0986]
+If your hands are already full, we won't be able to give
+you any soba, though. Do you mind?<wait>
+<------------------------------------------------------->
+[0987]
+Well then, without further ado, let's dig in!<wait>
+<------------------------------------------------------->
+[0988]
+All right. Please come speak to me when you're
+ready to eat.<wait>
+<------------------------------------------------------->
+[0989]
+Long Table<wait>
+<------------------------------------------------------->
+[0990]
+Hammer & Mortar<wait>
+<------------------------------------------------------->
+[0991]
+Streetlight<wait>
+<------------------------------------------------------->
+[0992]
+<playername>, where are you going?<wait><page>
+Sir Bon Vivant has yet to announce what the theme of
+this year's exhibition is.<wait>
+<------------------------------------------------------->
+[0993]
+Hmm, now what should I cook? I'll bring whatever I make
+to the Plaza!<wait>
+<------------------------------------------------------->
+[0994]
+<playername>, where are you going? The judging has
+yet to begin.<wait>
+<------------------------------------------------------->
+[0995]
+Ahhh, that was fun. Welp, time to get back to work.<wait>
+<------------------------------------------------------->
+[0996]
+Where are you going? The Mochi Bonanza is just getting
+started.<wait>
+<------------------------------------------------------->
+[0997]
+Is something the matter? Our New Year's Soba feast is
+just getting started.<wait>
+<------------------------------------------------------->
+[0998]
+Erm, you are aware the races have yet to be run,
+correct?<wait>
+<------------------------------------------------------->
+[0999]
+Where are you going? This festival is just getting started.<wait>
+<------------------------------------------------------->
+[1000]
+Where are you off to in such a hurry?<wait>
+<------------------------------------------------------->
+[1001]
+Where are you off to so suddenly? The Fluffy Festival
+isn't over yet.<wait>
+<------------------------------------------------------->
+[1002]
+Hey. I'm still organizing the barrels down there.
+Stay up here, yeah?<wait>
+<------------------------------------------------------->
+[1003]
+Giant Barrel<wait>
+<------------------------------------------------------->
+[1004]
+Barrel Rack<wait>
+<------------------------------------------------------->
+[1005]
+Liquor Shelf<wait>
+<------------------------------------------------------->
+[1006]
+Painting<wait>
+<------------------------------------------------------->
+[1007]
+[Cheese Maker]
+Put Milk in here to make Cheese.<wait>
+<------------------------------------------------------->
+[1008]
+There is no Fodder in the Silo.<wait>
+<------------------------------------------------------->
+[1009]
+[Breeding Bin]
+Food for pregnant animals goes in here.<wait>
+<------------------------------------------------------->
+[1010]
+Fodder
+Total Bushels: <string0><wait>
+<------------------------------------------------------->
+[1011]
+[Yarn Maker]
+Put Wool, Fur, or Fleece in here to make balls of Yarn.<wait>
+<------------------------------------------------------->
+[1012]
+[Shipping Bin]
+Put items in here to be shipped. Payment will be tallied
+every evening.<wait>
+<------------------------------------------------------->
+[1013]
+[Butter Maker]
+Add Milk to make Butter.<wait>
+<------------------------------------------------------->
+[1014]
+Welcome.<wait>
+<------------------------------------------------------->
+[1015]
+Orange Bin<wait>
+<------------------------------------------------------->
+[1016]
+My, my! Is there something I can help you with?<wait>
+<------------------------------------------------------->
+[1017]
+Welcome, dear customer! You wish to use that ticket,
+yes?<wait>
+<------------------------------------------------------->
+[1018]
+Use ticket
+<------------------------------------------------------->
+[1019]
+Not today
+<------------------------------------------------------->
+[1020]
+Okay. Here we go, then.<wait><page>
+Match three numbers, and I will give you a nice prize.
+Say a prayer to Lady Luck that they match.<wait><page>
+Ready? Now we begin.<wait>
+<------------------------------------------------------->
+[1021]
+I see. You come to me when you want to use that ticket.
+Any time is good. Understand? Good.<wait>
+<------------------------------------------------------->
+[1022]
+Welcome, dear customer. How may I serve you?<wait>
+<------------------------------------------------------->
+[1023]
+I want to buy stuff.
+<------------------------------------------------------->
+[1024]
+I want to sell stuff.
+<------------------------------------------------------->
+[1025]
+I came to challenge you!
+<------------------------------------------------------->
+[1026]
+Not while your hands are full, yes? Put away what you're
+carrying and come again.<wait>
+<------------------------------------------------------->
+[1027]
+One try costs 100G. Is this acceptable?<wait>
+<------------------------------------------------------->
+[1028]
+Sure
+<------------------------------------------------------->
+[1029]
+Nah
+<------------------------------------------------------->
+[1030]
+Okay. We begin now.<wait>
+<------------------------------------------------------->
+[1031]
+I see. Come challenge me whenever you want.<wait>
+<------------------------------------------------------->
+[1032]
+One try costs 100G, but you do not seem to have
+sufficient funds, <playername>.<wait><page>
+Come again when you have money, okay?<wait>
+<------------------------------------------------------->
+[1033]
+Welcome, dear customer.<wait>
+<------------------------------------------------------->
+[1034]
+Welcome.<wait>
+<------------------------------------------------------->
+[1035]
+Welcome. Do you want to buy a Basket?<wait>
+<------------------------------------------------------->
+[1036]
+One Basket is 5,000G.
+<------------------------------------------------------->
+[1037]
+Buy
+<------------------------------------------------------->
+[1038]
+Don't buy
+<------------------------------------------------------->
+[1039]
+Thank you. Please come again.<wait>
+<------------------------------------------------------->
+[1040]
+Oops! I can't pick up anything to buy if my hands are
+already full.<wait>
+<------------------------------------------------------->
+[1041]
+Oh? Are you sure?<wait>
+<------------------------------------------------------->
+[1042]
+Um...s-sorry for the trouble, but it looks like you don't
+have enough money. A Basket costs 5,000G.<wait>
+<------------------------------------------------------->
+[1043]
+Oh? I thought you already owned a Basket.<wait>
+<------------------------------------------------------->
+[1044]
+Welcome. Are you looking to buy a Blue Feather?<wait>
+<------------------------------------------------------->
+[1045]
+A Blue Feather is 1,000G.<wait>
+<------------------------------------------------------->
+[1046]
+Thank you. Please come again.<wait>
+<------------------------------------------------------->
+[1047]
+Thank you. Please come again.<wait><page>
+Hm? Uh-oh. It looks like your Bag is full. I'll just have
+these delivered to your house later, then.<wait>
+<------------------------------------------------------->
+[1048]
+I wanted to buy some stuff, but I forgot that I don't have
+any room...<wait>
+<------------------------------------------------------->
+[1049]
+Oh? Are you sure?<wait>
+<------------------------------------------------------->
+[1050]
+Um...s-sorry, but it looks like you don't have enough money.
+A Blue Feather costs 1,000G.<wait>
+<------------------------------------------------------->
+[1051]
+I thought you already owned a Blue Feather.<wait>
+<------------------------------------------------------->
+[1052]
+Welcome. Are you looking to buy some Bread?
+It costs 100G per loaf. How many do you want?<wait>
+<------------------------------------------------------->
+[1053]
+I wanted to buy some stuff, but I forgot that I don't have
+any room...<wait>
+<------------------------------------------------------->
+[1054]
+I wanted to buy some stuff, but I forgot that I don't have
+enough money.<wait>
+<------------------------------------------------------->
+[1055]
+Welcome. Are you looking to buy some Chocolate?
+It costs 100G per bar. How many would you like?<wait>
+<------------------------------------------------------->
+[1056]
+Welcome. Are you looking to buy some Curry Powder?
+It costs 50G per bottle. How many do you want?<wait>
+<------------------------------------------------------->
+[1057]
+Welcome. Are you looking to buy some Dango Flour?
+It costs 100G per sack. How many would you like?<wait>
+<------------------------------------------------------->
+[1058]
+Welcome. Are you looking to buy some Wheat Flour?
+It costs 50G per sack. How many do you want?<wait>
+<------------------------------------------------------->
+[1059]
+Welcome. Are you looking to buy some Oil?
+It costs 50G per bottle. How many would you like?<wait>
+<------------------------------------------------------->
+[1060]
+Welcome. Wrapping will cost 100G. Unwrapping is free
+of charge, though. Would you like me to wrap something
+for you?<wait>
+<------------------------------------------------------->
+[1061]
+Oops! I don't have an item to wrap.<wait>
+<------------------------------------------------------->
+[1062]
+Which do you want wrapped?<wait>
+<------------------------------------------------------->
+[1063]
+I highly recommend wrapping any presents.
+Please come again.<wait>
+<------------------------------------------------------->
+[1064]
+Um...s-sorry, but it looks like you don't have enough money.<wait>
+<------------------------------------------------------->
+[1065]
+Welcome. If you'd like to have an item wrapped as a
+present, it will cost 100G. Would you like to do that?<wait>
+<------------------------------------------------------->
+[1066]
+Oops! I don't have an item to wrap.<wait>
+<------------------------------------------------------->
+[1067]
+Which do you want wrapped?<wait>
+<------------------------------------------------------->
+[1068]
+You switched to the screen where you choose which item to wrap.<wait>
+<------------------------------------------------------->
+[1069]
+You'd rather not wrap anything? All right.<wait>
+<------------------------------------------------------->
+[1070]
+Oops! I forgot I don't have enough money.<wait>
+<------------------------------------------------------->
+[1071]
+Welcome. Are you looking to buy some Onigiri?
+They cost 100G each. How many do you want?<wait>
+<------------------------------------------------------->
+[1072]
+Welcome. Are you looking to buy a Basic Bag?<wait>
+<------------------------------------------------------->
+[1073]
+A Basic Bag is 3,000G.<wait>
+<------------------------------------------------------->
+[1074]
+Um...s-sorry, but it looks like you don't have enough money.
+A Basic Bag costs 3,000G.<wait>
+<------------------------------------------------------->
+[1075]
+A Big Bag is 5,000G.<wait>
+<------------------------------------------------------->
+[1076]
+Oh? Are you sure?<wait>
+<------------------------------------------------------->
+[1077]
+Um...s-sorry, but it looks like you don't have enough money.
+A Big Bag costs 5,000G.<wait>
+<------------------------------------------------------->
+[1078]
+I'm sorry. I don't have any more Bags for sale.<wait>
+<------------------------------------------------------->
+[1079]
+What seems to be bothering you today? I presume you
+need some medicine. Which would you like?<wait>
+<------------------------------------------------------->
+[1080]
+I can give you an examination, but it will cost 10G.<wait>
+<------------------------------------------------------->
+[1081]
+All right, let's have a look at you.<wait><page>
+Please open your mouth wide and say "aah."<wait>
+<------------------------------------------------------->
+[1082]
+Mm-hmm, mm-hmm...<wait><page>
+Yes...very good... Hm?<wait><page>
+Oh right, right... Hmm...<wait>
+<------------------------------------------------------->
+[1083]
+There, that ought to do it. Now let me give you the
+results.<wait>
+<------------------------------------------------------->
+[1084]
+Your baby is just about ready to be born. I would expect
+the labor to start sometime tomorrow.<wait>
+<------------------------------------------------------->
+[1085]
+It won't be long now. Your baby will be born soon.<wait>
+<------------------------------------------------------->
+[1086]
+A little baby bump is to be expected at this stage,
+but it will be some time yet before the baby is ready
+to be born.<wait>
+<------------------------------------------------------->
+[1087]
+At this early stage of pregnancy, I'm not seeing any
+issues either of you need to worry about.<wait>
+<------------------------------------------------------->
+[1088]
+There is no problem with your Stamina and your Fatigue
+level is reasonable. You're perfectly healthy.<wait>
+<------------------------------------------------------->
+[1089]
+There is no problem with your Stamina, but your level of
+Fatigue is starting to rise.<wait>
+<------------------------------------------------------->
+[1090]
+There is no problem with your Stamina, but your Fatigue
+level is a bit concerning.<wait>
+<------------------------------------------------------->
+[1091]
+There is no problem with your Stamina, but your level of
+Fatigue is entirely too high. You could collapse at any
+time.<wait>
+<------------------------------------------------------->
+[1092]
+You've lost a little Stamina, but you haven't built up any
+Fatigue. I think you ought to be fine.<wait>
+<------------------------------------------------------->
+[1093]
+You've lost a little Stamina, and you've built up a bit of
+Fatigue.<wait>
+<------------------------------------------------------->
+[1094]
+You've lost a little Stamina, but you've built up quite a bit
+of Fatigue.<wait>
+<------------------------------------------------------->
+[1095]
+You've lost a little Stamina, and you've built up much too
+much Fatigue. You could collapse at any time.<wait>
+<------------------------------------------------------->
+[1096]
+You've lost quite a bit of Stamina, but you haven't built up
+any Fatigue, so you ought to be all right.<wait>
+<------------------------------------------------------->
+[1097]
+You've lost quite a bit of Stamina, and you've built up
+a little Fatigue.<wait>
+<------------------------------------------------------->
+[1098]
+You've lost quite a bit of Stamina, and you've built up
+quite a bit of Fatigue.<wait>
+<------------------------------------------------------->
+[1099]
+You've lost quite a bit of Stamina, and you've built up
+much too much Fatigue. You could collapse at any time.<wait>
+<------------------------------------------------------->
+[1100]
+You've lost a lot of Stamina, but you haven't built up any
+Fatigue, so you ought to be all right.<wait>
+<------------------------------------------------------->
+[1101]
+You've lost a lot of Stamina, and you've built up a bit of
+Fatigue.<wait>
+<------------------------------------------------------->
+[1102]
+You've lost a lot of Stamina, and you've built up quite
+a bit of Fatigue.<wait>
+<------------------------------------------------------->
+[1103]
+You've lost a lot of Stamina, and you've built up much too
+much Fatigue. You could collapse at any time.<wait>
+<------------------------------------------------------->
+[1104]
+You have barely any Stamina, but you haven't built up any
+Fatigue, so you ought to be all right.<wait>
+<------------------------------------------------------->
+[1105]
+You have barely any Stamina, and you've built up a bit of
+Fatigue.<wait>
+<------------------------------------------------------->
+[1106]
+You have barely any Stamina, and you've built up quite
+a bit of Fatigue.<wait>
+<------------------------------------------------------->
+[1107]
+You have barely any Stamina, and you've built up much
+too much Fatigue. You could collapse at any time.<wait>
+<------------------------------------------------------->
+[1108]
+You look the picture of perfect health.<wait>
+<------------------------------------------------------->
+[1109]
+Taking one bottle of Caffeine will clear things right up...<wait><page>
+But you needn't resort to that. Eat a full dinner and get
+to bed early, and you'll be right as rain in the morning.<wait>
+<------------------------------------------------------->
+[1110]
+I'd recommend taking one bottle of Caffeine.<wait><page>
+If you can't afford one, I suggest not doing any more
+work today and going straight to bed.<wait>
+<------------------------------------------------------->
+[1111]
+Taking one bottle of Stamina Booster will clear things
+right up...<wait><page>
+But you needn't bother. A full dinner and early bed time
+will do the trick just as well.<wait>
+<------------------------------------------------------->
+[1112]
+One bottle of Caffeine and one bottle of Stamina
+Booster. I recommend taking those.<wait><page>
+If you can't afford them, I suggest not doing any more
+work today and going straight to bed.<wait>
+<------------------------------------------------------->
+[1113]
+Oops! I forgot I don't have enough money.<wait>
+<------------------------------------------------------->
+[1114]
+Mmm? You'd rather not? I suppose if you feel well enough,
+you don't need one.<wait><page>
+Well then, stay healthy and take care.<wait>
+<------------------------------------------------------->
+[1115]
+Welcome. Sorry, but just so you know, we don't have
+a carry-out menu.<wait>
+<------------------------------------------------------->
+[1116]
+Welcome. Uh, just so you know, it's hard to eat when your
+hands are already full.<wait>
+<------------------------------------------------------->
+[1117]
+Welcome! Come to do a little shopping? Anything catch
+your eye?<wait>
+<------------------------------------------------------->
+[1118]
+Yo! Looking for something to eat?<wait>
+<------------------------------------------------------->
+[1119]
+Yo! Looking for something to eat?<wait><page>
+But, uh, you can't use your hands to eat when they're
+already holding something, y'know.<wait>
+<------------------------------------------------------->
+[1120]
+What can I do for you today? If I'm not working on a
+project, I'm always open to requests for new ones.<wait>
+<------------------------------------------------------->
+[1121]
+Sorry. I just ain't got it in me to work today. Come back
+some other time.<wait>
+<------------------------------------------------------->
+[1122]
+Yo! What can I do for ya?<wait>
+<------------------------------------------------------->
+[1123]
+There somethin' you want?<wait>
+<------------------------------------------------------->
+[1124]
+[Hot Spring]
+Effect: Recover Stamina & Relieve Fatigue
+Please wear a swimsuit when bathing.<wait>
+<------------------------------------------------------->
+[1125]
+If you throw an Egg in here, you will get
+a Hot Spring Egg.
+*Egg quality will have no effect.<wait>
+<------------------------------------------------------->
+[1126]
+◆BEACH RULES◆<wait><page>
+To play fetch, you will need: 
+- Your own Disc
+- An adult pet<wait><page>
+The beach is open to the public from 6:00 AM
+to 5:00 PM on any sunny day in spring, summer,
+or autumn.<wait><page>
+Mind the rules and have fun!<wait>
+<------------------------------------------------------->
+[1127]
+DEBUG - No dog <wait>
+<------------------------------------------------------->
+[1128]
+DEBUG - No disc <wait>
+<------------------------------------------------------->
+[1129]
+DEBUG - Weather doesn't match, OR dog too small. <wait>
+<------------------------------------------------------->
+[1130]
+Play fetch?
+<------------------------------------------------------->
+[1131]
+Yes
+<------------------------------------------------------->
+[1132]
+No
+<------------------------------------------------------->
+[1133]
+◆BEACH NOTICE◆<wait><page>
+Due to preparations for tomorrow's Fetch Fest,
+Mineral Beach is closed to the public today.<wait>
+<------------------------------------------------------->
+[1134]
+[KAI'S BEACH CAFE]
+Open summer only!
+Closed Sundays<wait><page>
+Hours: 11:00 AM - 1:00 PM
+             5:00 PM - 7:00 PM<wait>
+<------------------------------------------------------->
+[1135]
+[KAI'S BEACH CAFE]
+Open every day except Sunday!<wait><page>
+Hours: 11:00 AM - 1:00 PM
+             5:00 PM - 7:00 PM<wait>
+<------------------------------------------------------->
+[1136]
+[WORKSHOP]
+Open every day but Saturday<wait><page>
+Hours: 11:00 AM - 4:00 PM
+I'll be in and out of the shop. -G<wait>
+<------------------------------------------------------->
+[1137]
+[CHURCH]<wait>
+<------------------------------------------------------->
+[1138]
+[GENERAL STORE]
+Closed Tuesdays and Sundays<wait><page>
+Hours: 9:00 AM - 5:00 PM<wait>
+<------------------------------------------------------->
+[1139]
+Church ↑
+← Northside
+Rose Plaza ↓<wait>
+<------------------------------------------------------->
+[1140]
+↑ Northside
+Town Center →
+↓ Southside<wait>
+<------------------------------------------------------->
+[1141]
+Northside →
+↓ Town Center<wait>
+<------------------------------------------------------->
+[1142]
+[MINERAL CLINIC]
+Closed Wednesdays<wait><page>
+Hours: 9:00 AM - 4:00 PM<wait>
+<------------------------------------------------------->
+[1143]
+[INN]<wait><page>
+Hours: 8:00 AM - 9:00 PM
+Occasionally closed during business hours.<wait>
+<------------------------------------------------------->
+[1144]
+[LIBRARY]
+Closed Thursdays<wait><page>
+Hours: 10:00 AM - 4:00 PM<wait>
+<------------------------------------------------------->
+[1145]
+[LIBRARY]
+Closed Mondays<wait><page>
+Hours: 10:00 AM - 4:00 PM<wait>
+<------------------------------------------------------->
+[1146]
+[ADGE WINERY]
+Closed Saturdays<wait><page>
+Hours: 10:00 AM - 12:00 PM
+Goods available for sale.<wait>
+<------------------------------------------------------->
+[1147]
+[POPOULTRY]
+Closed Sundays<wait><page>
+Hours: 11:00 AM - 4:00 PM<wait>
+<------------------------------------------------------->
+[1148]
+↑ Northside
+Southside →
+↓ <myfarmname> Farm<wait>
+<------------------------------------------------------->
+[1149]
+← PoPoultry
+Yodel Ranch →
+↓ Forest<wait>
+<------------------------------------------------------->
+[1150]
+↑ Rose Plaza
+← Southside<wait>
+<------------------------------------------------------->
+[1151]
+[FORGE]
+Closed Thursdays<wait><page>
+Hours: 10:00 AM - 4:00 PM<wait>
+<------------------------------------------------------->
+[1152]
+<playername>'s Second House
+<------------------------------------------------------->
+[1153]
+<playername>'s Second House Plot
+<------------------------------------------------------->
+[1154]
+Empty Plot<wait>
+<------------------------------------------------------->
+[1155]
+[YODEL RANCH]
+Closed Mondays<wait><page>
+Hours: 10:00 AM - 3:00 PM<wait>
+<------------------------------------------------------->
+[1156]
+Bed<wait>
+<------------------------------------------------------->
+[1157]
+Hey now! What in tarnation do you think you're doing?
+Don't go in my room!<wait>
+<------------------------------------------------------->
+[1158]
+Forge Fire<wait>
+<------------------------------------------------------->
+[1159]
+Hammer<wait>
+<------------------------------------------------------->
+[1160]
+Shovel<wait>
+<------------------------------------------------------->
+[1161]
+Furnace<wait>
+<------------------------------------------------------->
+[1162]
+Anvil<wait>
+<------------------------------------------------------->
+[1163]
+Slack Tub<wait>
+<------------------------------------------------------->
+[1164]
+Ouch! Hot! Hot! Hot!<wait>
+<------------------------------------------------------->
+[1165]
+Fireplace<wait>
+<------------------------------------------------------->
+[1166]
+Hrm? You've come this far. Why go home now?<wait>
+<------------------------------------------------------->
+[1167]
+Mirror<wait>
+<------------------------------------------------------->
+[1168]
+What happens?
+<------------------------------------------------------->
+[1169]
+Try
+<------------------------------------------------------->
+[1170]
+Huang
+<------------------------------------------------------->
+[1171]
+Wait 1 second
+<------------------------------------------------------->
+[1172]
+1 second after tone
+<------------------------------------------------------->
+[1173]
+Next
+<------------------------------------------------------->
+[1174]
+1111111111111111111111111111111111111111
+2222222222222222222222222222222222222222
+3333333333333333333333333333333333333333
+<------------------------------------------------------->
+[1175]
+→White Mosaic
+<------------------------------------------------------->
+[1176]
+→Black Mosaic
+<------------------------------------------------------->
+[1177]
+→Normal Mosaic
+<------------------------------------------------------->
+[1178]
+White Mosaic→Black
+<------------------------------------------------------->
+[1179]
+Reverse of above
+<------------------------------------------------------->
+[1180]
+Kappa's Misfortune
+<------------------------------------------------------->
+[1181]
+............................................................
+............................................................<wait>
+<------------------------------------------------------->
+[1182]
+－－－－－－－－－－－－－－－－－－－
+－－－－－－－－－－－－－－－－－－－
+－－－－－－－－－－－－－－－－－－－<wait>
+<------------------------------------------------------->
+[1183]
+☆Professor Ore
+Episode <string0>
+<------------------------------------------------------->
+[1184]
+Fairy and Me
+Epilogue
+<------------------------------------------------------->
+[1185]
+Fairy and Me
+Episode <string0>
+<------------------------------------------------------->
+[1186]
+Rick
+<------------------------------------------------------->
+[1187]
+Popuri
+<------------------------------------------------------->
+[1188]
+Lillia
+<------------------------------------------------------->
+[1189]
+Cliff
+<------------------------------------------------------->
+[1190]
+Zack
+<------------------------------------------------------->
+[1191]
+Doctor
+<------------------------------------------------------->
+[1192]
+Blueberry
+<------------------------------------------------------->
+[1193]
+Pumpkin
+<------------------------------------------------------->
+[1194]
+Plum
+<------------------------------------------------------->
+[1195]
+Cherry
+<------------------------------------------------------->
+[1196]
+Aqua
+<------------------------------------------------------->
+[1197]
+Sunny
+<------------------------------------------------------->
+[1198]
+Mint
+<------------------------------------------------------->
+[1199]
+Harvest Goddess
+<------------------------------------------------------->
+[1200]
+Bon Vivant
+<------------------------------------------------------->
+[1201]
+Ellen
+<------------------------------------------------------->
+[1202]
+Elly
+<------------------------------------------------------->
+[1203]
+Yu
+<------------------------------------------------------->
+[1204]
+Jeff
+<------------------------------------------------------->
+[1205]
+Karen
+<------------------------------------------------------->
+[1206]
+Sasha
+<------------------------------------------------------->
+[1207]
+Dudley
+<------------------------------------------------------->
+[1208]
+Ran
+<------------------------------------------------------->
+[1209]
+Kappa
+<------------------------------------------------------->
+[1210]
+Basil
+<------------------------------------------------------->
+[1211]
+Marie
+<------------------------------------------------------->
+[1212]
+Anna
+<------------------------------------------------------->
+[1213]
+Huang
+<------------------------------------------------------->
+[1214]
+Thomas
+<------------------------------------------------------->
+[1215]
+Harris
+<------------------------------------------------------->
+[1216]
+Duke
+<------------------------------------------------------->
+[1217]
+Manna
+<------------------------------------------------------->
+[1218]
+Carter
+<------------------------------------------------------->
+[1219]
+Kai
+<------------------------------------------------------->
+[1220]
+Gray
+<------------------------------------------------------->
+[1221]
+Saibara
+<------------------------------------------------------->
+[1222]
+Gotts
+<------------------------------------------------------->
+[1223]
+Mei
+<------------------------------------------------------->
+[1224]
+Mugi
+<------------------------------------------------------->
+[1225]
+Other
+<------------------------------------------------------->
+[1226]
+Mineral Town:
+<string0>
+<------------------------------------------------------->
+[1227]
+Card Collector Chisato
+Episode <string0>
+<------------------------------------------------------->
+[1228]
+Mechabot Ultror Zero
+Episode <string0>
+<------------------------------------------------------->
+[1229]
+Ground<wait>
+<------------------------------------------------------->
+[1230]
+Shelves<wait>
+<------------------------------------------------------->
+[1231]
+I shouldn't go upstairs. That would be rude.<wait>
+<------------------------------------------------------->
+[1232]
+Rrrrrrr! Woof! Woof! Woof!<wait><page>
+Hana sounds really worked up...<wait>
+<------------------------------------------------------->
+[1233]
+Now, now. No going up there, please.<wait>
+<------------------------------------------------------->
+[1234]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1235]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1236]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1237]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1238]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1239]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1240]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1241]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1242]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1243]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1244]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1245]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1246]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1247]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1248]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1249]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1250]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1251]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1252]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1253]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1254]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1255]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1256]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1257]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1258]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1259]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1260]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1261]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1262]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1263]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1264]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1265]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1266]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1267]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1268]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1269]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[1270]
+The door is locked. There's a sign hanging on it that says,
+"Working."<wait>
+<------------------------------------------------------->
+[1271]
+The door is locked. There's a sign hanging on it that says,
+"Working."<wait>
+<------------------------------------------------------->
+[1272]
+The door is locked. There's a sign hanging on it that says,
+"Off at festival."<wait>
+<------------------------------------------------------->
+[1273]
+Is that a...statue of a cat?<wait>
+<------------------------------------------------------->
+[1274]
+Is that a...statue of a chicken?<wait>
+<------------------------------------------------------->
+[1275]
+Work Tools<wait>
+<------------------------------------------------------->
+[1276]
+Tent<wait>
+<------------------------------------------------------->
+[1277]
+Portable Stove<wait>
+<------------------------------------------------------->
+[1278]
+I want to marry the Harvest Goddess.
+<------------------------------------------------------->
+[1279]
+You wish to marry the Harvest Goddess? Goodness, your
+feelings for her must be very strong indeed.<wait><page>
+I'm certain the Harvest Goddess knows of your
+passionate devotion to her.<wait><page>
+Be at ease. All has been forgiven. The divine bless you.<wait>
+<------------------------------------------------------->
+[1280]
+Wh-What...? You want to marry the Harvest Goddess?!
+Have you lost your mind?!<wait><page>
+The Harvest Goddess is a divine being far above us mere
+mortals! Why, if anyone could marry her, I would wish it
+to be me!<wait><page>
+AHEM! Erm! Yes! Please forget I said that. Anyway!<wait><page>
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!<wait>
+<------------------------------------------------------->
+[1281]
+Mother's Hill Summit<wait>
+<------------------------------------------------------->
+[1282]
+Oh dear, your Bag is full. I'm afraid I can't trade with
+you until you've made some space.<wait>
+<------------------------------------------------------->
+[1283]
+Oops! My Bag is full. I can't cook until I make some space.<wait>
+<------------------------------------------------------->
+[1284]
+...But my Bag is full, so I can't pick it up.<wait>
+<------------------------------------------------------->
+[1285]
+Ah. How unfortunate. Your Bag is full, yes? That is no
+good. No good at all. Go tidy your things and come again.<wait>
+<------------------------------------------------------->
+[1286]
+Picture
+<------------------------------------------------------->
+[1287]
+Ah, sorry. The back's off-limits.<wait>
+<------------------------------------------------------->
+[1288]
+Where are you going, <nickname>? Here, I want
+you to take this.<wait>
+<------------------------------------------------------->
+[1289]
+Are you going out, <nickname>? Before you do,
+I have a present for you. Do you want it?<wait>
+<------------------------------------------------------->
+[1290]
+A place to store important items.<wait>
+<------------------------------------------------------->

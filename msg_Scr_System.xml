@@ -1,0 +1,275 @@
+TOTAL_STRING:0073
+*******************************
+[0000]
+[Giant Boulder]
+At least a LV 5 Hammer charge is needed to break this.<wait>
+<------------------------------------------------------->
+[0001]
+[Big Rock]
+At least a LV 2 Hammer charge is needed to break this.<wait>
+<------------------------------------------------------->
+[0002]
+[Boulder]
+At least a LV 3 Hammer charge is needed to break this.<wait>
+<------------------------------------------------------->
+[0003]
+[Stump]
+At least a LV 2 Axe charge is needed to chop this up.<wait>
+<------------------------------------------------------->
+[0004]
+[Stubborn Stump]
+At least a LV 4 Axe charge is needed to chop this up.<wait>
+<------------------------------------------------------->
+[0005]
+Uh-oh. My Basket is full...<wait>
+<------------------------------------------------------->
+[0006]
+Fished up <string0>!<wait>
+<------------------------------------------------------->
+[0007]
+Fished up <string0>!
+It's <string1>cm long.<wait>
+<------------------------------------------------------->
+[0008]
+Fished up <string0>!
+It's <string1>m long.<wait>
+<------------------------------------------------------->
+[0009]
+Fished up <string0>!
+It's <string1>m <string2>cm long.<wait>
+<------------------------------------------------------->
+[0010]
+Oh wow! A Guardian-class fish!!!<wait>
+<------------------------------------------------------->
+[0011]
+Wow! This is the biggest <string0>
+I've caught yet!<wait>
+<------------------------------------------------------->
+[0012]
+Aww... It got away.<wait>
+<------------------------------------------------------->
+[0013]
+There's a recipe written on the letter!<wait>
+<------------------------------------------------------->
+[0014]
+Pan paka paaan! You've just caught your 10,000th fish!<wait><page>
+Congratulations!!! ...What? Yes, that's it.<wait><page>
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!<wait>
+<------------------------------------------------------->
+[0015]
+Pan paka paaan! You've just caught your 100,000th fish!<wait><page>
+Congratulations!!! ...What? Yes, that's it.<wait><page>
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!<wait>
+<------------------------------------------------------->
+[0016]
+Pan paka paaan! You've just caught your 1,000,000th fish!<wait><page>
+Congratulations!!! ...What? Yes, that's it.<wait><page>
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!<wait>
+<------------------------------------------------------->
+[0017]
+Pan paka paaan! You've just caught your 10,000,000th
+fish!<wait><page>
+Congratulations!!! ...What? Yes, that's it.<wait><page>
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!<wait>
+<------------------------------------------------------->
+[0018]
+Pan paka paaan! You've just caught your 100,000,000th
+fish!<wait><page>
+Congratulations!!! ...What? Yes, that's it.<wait><page>
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!<wait>
+<------------------------------------------------------->
+[0019]
+Pan paka paaan! You've just caught your 1,000,000,000th
+fish!<wait><page>
+Congratulations!!! ...What? Yes, that's it.<wait><page>
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!<wait>
+<------------------------------------------------------->
+[0020]
+Pan paka paaan! As of right now, you've caught at least
+one of every kind of fish there is!<wait><page>
+Congratulations!!! ...What? Yes, that's it.<wait><page>
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!<wait>
+<------------------------------------------------------->
+[0021]
+If you're here, that means you aren't on
+Spring Mine BF1 or Lake Mine BF1!<wait>
+<------------------------------------------------------->
+[0022]
+Go down?
+<------------------------------------------------------->
+[0023]
+Yes
+<------------------------------------------------------->
+[0024]
+No
+<------------------------------------------------------->
+[0025]
+Oops... It's morning now.<wait>
+<------------------------------------------------------->
+[0026]
+Spring Mine BF<string0><wait>
+<------------------------------------------------------->
+[0027]
+Lake Mine BF<string0><wait>
+<------------------------------------------------------->
+[0028]
+Return to the surface?
+<------------------------------------------------------->
+[0029]
+I think it's time for the birth!<wait>
+<------------------------------------------------------->
+[0030]
+A chick has hatched! I'd better give it a name.<wait>
+<------------------------------------------------------->
+[0031]
+A calf was born! I'd better give it a name.<wait>
+<------------------------------------------------------->
+[0032]
+A lamb was born! I'd better give it a name.<wait>
+<------------------------------------------------------->
+[0033]
+A kit was born! I'd better give it a name.<wait>
+<------------------------------------------------------->
+[0034]
+A cria was born! I'd better give it a name.<wait>
+<------------------------------------------------------->
+[0035]
+My family just got a little bit bigger. I have to keep
+working hard to take good care of everyone.<wait>
+<------------------------------------------------------->
+[0036]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0037]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0038]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0039]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0040]
+[UNUSED SKIP]
+<------------------------------------------------------->
+[0041]
+Oops...! I overslept.<wait>
+<------------------------------------------------------->
+[0042]
+Yay! The hex on the Cursed Hammer has been dispelled!<wait>
+<------------------------------------------------------->
+[0043]
+Yay! The hex on the Cursed Sickle has been dispelled!<wait>
+<------------------------------------------------------->
+[0044]
+Yo! I'm here t'pick up the stuff in your Shipping Bin.<wait>
+<------------------------------------------------------->
+[0045]
+Whoa! Shippin' a lot today, eh? Good, good! Keep it up!<wait>
+<------------------------------------------------------->
+[0046]
+What, don't got nothin' for me today?<wait>
+<------------------------------------------------------->
+[0047]
+How 'bout ya try raisin' some chickens? Treat 'em right
+an' they'll give ya fresh Eggs every day!<wait>
+<------------------------------------------------------->
+[0048]
+How 'bout ya try raisin' some cows? Treat 'em right an'
+when they're grown, they'll give ya fresh Milk!<wait>
+<------------------------------------------------------->
+[0049]
+How 'bout ya try raisin' some sheep? Treat 'em right an'
+when they're grown, they'll give ya good Wool!<wait>
+<------------------------------------------------------->
+[0050]
+Didja know ya can sell ores an' jewels? How 'bout ya try
+diggin' for some in the mines sometime?<wait>
+<------------------------------------------------------->
+[0051]
+Y'know ya can reach the Lake Mine in winter, right?
+I hear there's some rare stuff down there. Give it
+a look, yeah?<wait>
+<------------------------------------------------------->
+[0052]
+Ya know ya can find stuff just lyin' on the ground in the
+woods, right? How 'bout ya try foragin' sometime?<wait>
+<------------------------------------------------------->
+[0053]
+Ever think of raisin' some crops? The General Store has
+all kinds of seeds for sale.<wait>
+<------------------------------------------------------->
+[0054]
+Ever think of goin' fishin' sometime? Fish can be shipped
+for good money, y'know.<wait>
+<------------------------------------------------------->
+[0055]
+Yay! The hex on the Cursed Hoe has been dispelled!<wait>
+<------------------------------------------------------->
+[0056]
+Yay! The hex on the Cursed Watering Can has been
+dispelled!<wait>
+<------------------------------------------------------->
+[0057]
+Yay! The hex on the Cursed Axe has been dispelled!<wait>
+<------------------------------------------------------->
+[0058]
+Yay! The hex on the Cursed Fishing Rod has been
+dispelled!<wait>
+<------------------------------------------------------->
+[0059]
+Currently have <string0>.
+Submit bug report.
+<------------------------------------------------------->
+[0060]
+It doesn't look like I can use the Travel Stone here...<wait>
+<------------------------------------------------------->
+[0061]
+It doesn't look like I can go outside right now...<wait>
+<------------------------------------------------------->
+[0062]
+Woo-hoo! My Sickle went up a level!
+Now I can upgrade it at the Forge!
+<------------------------------------------------------->
+[0063]
+Woo-hoo! My Hoe went up a level!
+Now I can upgrade it at the Forge!
+<------------------------------------------------------->
+[0064]
+Woo-hoo! My Axe went up a level!
+Now I can upgrade it at the Forge!
+<------------------------------------------------------->
+[0065]
+Woo-hoo! My Hammer went up a level!
+Now I can upgrade it at the Forge!
+<------------------------------------------------------->
+[0066]
+Woo-hoo! My Watering Can went up a level!
+Now I can upgrade it at the Forge!
+<------------------------------------------------------->
+[0067]
+Woo-hoo! My Fishing Rod went up a level!
+Now I can upgrade it at the Forge!
+<------------------------------------------------------->
+[0068]
+
+<------------------------------------------------------->
+[0069]
+
+<------------------------------------------------------->
+[0070]
+
+<------------------------------------------------------->
+[0071]
+
+<------------------------------------------------------->
+[0072]
+
+<------------------------------------------------------->

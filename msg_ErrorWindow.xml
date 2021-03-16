@@ -1,0 +1,35 @@
+TOTAL_STRING:0010
+*******************************
+[0000]
+Uh-oh! My Bag is full. There's no space left
+for me to put this in.
+<------------------------------------------------------->
+[0001]
+Uh-oh! The Tool Pocket in my Bag is full.
+There isn't any space for me to put this in.
+<------------------------------------------------------->
+[0002]
+Whoa, Nelly! I can't go inside while I'm still on my horse.
+<------------------------------------------------------->
+[0003]
+This must be something that my pet brought in.
+<------------------------------------------------------->
+[0004]
+I can't ship this.
+<------------------------------------------------------->
+[0005]
+Found %ls!
+<------------------------------------------------------->
+[0006]
+Uh-oh! My Bag is full. Since there's no space
+for fish, I can't go fishing.
+<------------------------------------------------------->
+[0007]
+Uh-oh! It looks like I can't dismount here.
+<------------------------------------------------------->
+[0008]
+I can't eat now.
+<------------------------------------------------------->
+[0009]
+I can't place more than this.
+<------------------------------------------------------->
