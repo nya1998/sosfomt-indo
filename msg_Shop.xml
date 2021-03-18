@@ -13,276 +13,268 @@ TOTAL_STRING:0896
 
 <------------------------------------------------------->
 [0004]
-Oh dear. You don't seem to have enough gold.<wait>
+Maaf, uangmu tidak cukup.<wait>
 <------------------------------------------------------->
 [0005]
-Hmmm? You aren't buying?<wait>
+Hmmm? Tidak jadi, ya?<wait>
 <------------------------------------------------------->
 [0006]
-You don't need that?<wait>
+Kamu tidak membutuhkannya?<wait>
 <------------------------------------------------------->
 [0007]
-Will you be buying anything else?<wait>
+Apa Kamu ingin beli yang lain?<wait>
 <------------------------------------------------------->
 [0008]
-Thank you! Come again!<wait><page>
-I'll tell Rick to put the Feed you bought
-in the Feeding Bin on your farm.<wait>
+Terima kasih! Datang lagi, ya!<wait><page>
+Aku akan menyuruh rick untuk menaruhnya di
+Feeding Bin kebunmu.<wait>
 <------------------------------------------------------->
 [0009]
-This much won't fit in the Feeding Bin.<wait>
+Ini melebihi kapasitas Feeding Bin mu.<wait>
 <------------------------------------------------------->
 [0010]
-Thank you! Come again!<wait>
+Terima kasih! Datang lagi, ya!<wait>
 <------------------------------------------------------->
 [0011]
 
 <------------------------------------------------------->
 [0012]
-Thank you! Come again! Hm? It looks like you've got your
-hands full with other stuff.<wait><page>
-I'll tell Rick to deliver your purchase to you later.<wait>
+Terima kasih! Datang lagi, ya! Sepertinya bawaanmu
+terlalu banyak.<wait><page>
+Aku akan menyuruh Rick mengantarkan ini nanti.<wait>
 <------------------------------------------------------->
 [0013]
-Oh dear. It doesn't look like you can hold any more.<wait>
+Sayang sekali, sepertinya kamu sudah punya banyak.<wait>
 <------------------------------------------------------->
 [0014]
-The Coop on your farm is already full.<wait>
+Kandangmu sudah penuh.<wait>
 <------------------------------------------------------->
 [0015]
 
 <------------------------------------------------------->
 [0016]
-I'll tell Rick to bring the chicken you bought to the Coop
-on your farm.<wait>
+Aku akan menyuruh Rick mengantarkannya ke kandang yang
+ada di kebunmu.<wait>
 <------------------------------------------------------->
 [0017]
-I'll tell Rick to collect the chicken you sold us from the
-Coop on your farm.<wait>
+Aku akan menyuruh Rick mengambilnya ke kandangmu.<wait>
 <------------------------------------------------------->
 [0018]
 
 <------------------------------------------------------->
 [0019]
-Um... You, uh, don't have enough gold.<wait>
+Um... Maaf, uangmu tidak cukup.<wait>
 <------------------------------------------------------->
 [0020]
-You can't hold anything else.<wait>
+Bawaanmu terlalu banyak.<wait>
 <------------------------------------------------------->
 [0021]
-You can't hold any more equipment, I'm afraid.<wait>
+Bawaanmu terlalu banyak, Aku khawatir.<wait>
 <------------------------------------------------------->
 [0022]
-Thank you very much.<wait>
+Terima kasih banyak.<wait>
 <------------------------------------------------------->
 [0023]
-Huh? You're sure?<wait>
+Kamu yakin?<wait>
 <------------------------------------------------------->
 [0024]
-Buying anything else?<wait>
+Ingin beli yang lain?<wait>
 <------------------------------------------------------->
 [0025]
-Thank you very much.<wait><page>
-Huh? Looks like you have a lot of equipment already.
-I'll send this over to you later.<wait>
+Terima kasih banyak.<wait><page>
+Sepertinya ranselmu sudah penuh, akan ku kirim ke
+tempatmu nanti.<wait>
 <------------------------------------------------------->
 [0026]
-Thank you very much.<wait><page>
-Huh? Looks like it won't fit. I'll send it to you later.<wait>
+Terima kasih banyak.<wait><page>
+Sepertinya ranselmu sudah penuh, akan ku kirim ke
+tempatmu nanti.<wait>
 <------------------------------------------------------->
 [0027]
-Huh? You're sure?<wait>
+Kamu yakin?<wait>
 <------------------------------------------------------->
 [0028]
-Thank you very much.<wait><page>
-Huh? You look like you've got your hands full already.
-I'll just send this over to you later.<wait>
+Terima kasih banyak.<wait><page>
+Sepertinya ranselmu sudah penuh, akan ku kirim ke
+tempatmu nanti.<wait>
 <------------------------------------------------------->
 [0029]
-Thank you very much.<wait><page>
-Huh? This isn't going to fit. I'll just send it to you later,
-okay?<wait>
+Terima kasih banyak.<wait><page>
+Sepertinya ranselmu sudah penuh, akan ku kirim ke
+tempatmu nanti, ok?<wait>
 <------------------------------------------------------->
 [0030]
-Ah, you don't have enough gold. We can't give away
-medicine for free, I'm afraid. Sorry.<wait>
+Maaf, uangmu tidak cukup. Kami tidak bisa
+memberi obat secara gratis.<wait>
 <------------------------------------------------------->
 [0031]
-Oh, it doesn't look like you can carry any more.
-Could you free up some space?<wait>
+Sepertinya ranselmu sudah penuh. Bisakah kamu
+kosongkan beberapa tempat?<wait>
 <------------------------------------------------------->
 [0032]
-You don't want to buy anything else?<wait>
+Kamu tidak ingin beli sesuatu?<wait>
 <------------------------------------------------------->
 [0033]
-You're not buying anything? If you're tired, you mustn't
-overwork yourself, okay?<wait>
+Kamu tidak membeli apapun? Baiklah. Istirahatlah
+jika kamu lelah, ok?<wait>
 <------------------------------------------------------->
 [0034]
-Buying anything else?<wait>
+Ingin beli yang lain?<wait>
 <------------------------------------------------------->
 [0035]
-Yes, here you are. Take care.<wait>
+Ini dia. Jaga dirimu.<wait>
 <------------------------------------------------------->
 [0036]
-Oh, it doesn't look like you can hold any more. I'll send this
-to your house later.<wait>
+Sepertinya ranselmu sudah penuh. Aku akan kirim ini
+ke rumahmu nanti.<wait>
 <------------------------------------------------------->
 [0037]
-Oh, it looks like you don't have room for all of these.
-I'll send the rest to you later.<wait>
+Sepertinya ranselmu sudah penuh. Aku akan kirim ini
+ke rumahmu nanti.<wait>
 <------------------------------------------------------->
 [0038]
-Plain old water.
+Air putih.
 <------------------------------------------------------->
 [0039]
-Only sold at the Inn during the day.<wait>
+Dijual di Penginapan saat siang hari.<wait>
 <------------------------------------------------------->
 [0040]
-A tall glass of fresh cow Milk.
+Segelas besar susu segar.
 <------------------------------------------------------->
 [0041]
-Looks like you're short on gold. Try to bring more
-next time.<wait>
+Sepertinya uangmu terlalu sedikit. Lain kali
+bawalah lebih banyak uang.<wait>
 <------------------------------------------------------->
 [0042]
-What, you sure? I'll take your order any time.<wait>
+Kamu yakin? Baiklah.<wait>
 <------------------------------------------------------->
 [0043]
-Thanks! Wait just a sec... Here you are!<wait>
+Baiklah! Tunggu sebentar... Ini dia!<wait>
 <------------------------------------------------------->
 [0044]
-Hmph. Your gold does not add up. You can't pull the wool
-over my eyes!<wait>
+Hmph. Uangmu tidak cukup!<wait>
 <------------------------------------------------------->
 [0045]
-Your hands are quite full of equipment already, yes?
-Being greedy will not get you anywhere.
+Tanganmu sepertinya sedang memegang sesuatu.
+Menjadi serakah itu tidak baik.
 <wait>
 <------------------------------------------------------->
 [0046]
-You are carrying much as it is, yes? Being greedy will not
-get you anywhere, you know.<wait>
+Sepertinya bawaanmu terlalu banyak. Menjadi
+seorang serakah itu tidak baik.<wait>
 <------------------------------------------------------->
 [0047]
-Is there nothing else that catches your eye? I'll give you
-a special deal!<wait>
+Apa tidak ada yang menarik minatmu? Baiklah, Aku
+akan memberimu penawaran terbaik!<wait>
 <------------------------------------------------------->
 [0048]
-...Are you one of those window-shopper people?<wait>
+...Apa kamu hanya suka melihat-lihat?<wait>
 <------------------------------------------------------->
 [0049]
-Are you going to purchase anything else?<wait>
+Apa kamu ingin beli sesuatu?<wait>
 <------------------------------------------------------->
 [0050]
-My thanks! Gratitude! Xie xie! Come again!<wait>
+Terima kasih! Xie xie! Datang lagi, ya!<wait>
 <------------------------------------------------------->
 [0051]
-My thanks, come again-- Ah! Your Bag is full, yes?<wait><page>
-I will send it to your home later. How is that for service?<wait>
+Terima kasih, datang-- Ah! Ranselmu penuh, ya?<wait><page>
+Aku akan mengirimnya ke rumahmu. Bagaimana menurutmu?<wait>
 <------------------------------------------------------->
 [0052]
-My thanks, come again-- Ah! Your Bag is full, yes?<wait><page>
-I will send it to your home later. How is that for service?<wait>
+Terima kasih, datang-- Ah! Ranselmu penuh, ya?<wait><page>
+Aku akan mengirimnya ke rumahmu. Bagaimana menurutmu?<wait>
 <------------------------------------------------------->
 [0053]
-My thanks, come again-- Ah!
-It won't all fit in your Bag, yes?<wait><page>
-I will send it to your home later. How is that for good
-service?<wait>
+Terima kasih, datang-- Ah!
+Sepertinya tidak muat di ranselmu, ya?<wait><page>
+Aku akan mengirimnya ke rumahmu. Bagaimana menurutmu?<wait>
 <------------------------------------------------------->
 [0054]
-My thanks, come again-- Ah!
-It won't all fit in your Bag, yes?<wait><page>
-I will send it to your home later. How is that for good
-service?<wait>
+Terima kasih, datang-- Ah!
+Sepertinya tidak muat di ranselmu, ya?<wait><page>
+Aku akan mengirimnya ke rumahmu. Bagaimana menurutmu?<wait>
 <------------------------------------------------------->
 [0055]
-My, my. You don't have enough gold. You're a cheeky one,
-aren't you?<wait>
+Sayang sekali, uangmu tidak cukup.<wait>
 <------------------------------------------------------->
 [0056]
-I'm glad you're buying something, but if you can't carry it,
-there's nothing I can do.<wait>
+Aku senang kamu berbelanja di tempatku, tapi aku tidak bisa
+melakukan apapun jika kamu tidak bisa membawanya.<wait>
 <------------------------------------------------------->
 [0057]
-Thanks. Be sure to drop by again, you hear!<wait>
+Makasih. Mampir lagi, ya!<wait>
 <------------------------------------------------------->
 [0058]
-If you want to buy anything, just come tell me.<wait>
+Beritahu Aku jika kamu ingin beli sesuatu.<wait>
 <------------------------------------------------------->
 [0059]
-Thanks again.<wait>
+Terima kasih lagi.<wait>
 <------------------------------------------------------->
 [0060]
-Anything else tickle your fancy?<wait>
+Apa ada yang menarik minatmu?<wait>
 <------------------------------------------------------->
 [0061]
-Thanks. Oh? Looks like you have your hands full as it is.<wait><page>
-That's fine. I'll have my husband bring the rest to
-you later.<wait>
+Makasih. Oh? Sepertinya ranselmu sudah penuh.<wait><page>
+Tidak apa, suamiku akan mengantarkannya ke tempatmu.<wait>
 <------------------------------------------------------->
 [0062]
-Thanks. Oh? Looks like you have your hands full as it is.<wait><page>
-That's fine. I'll have my husband bring the rest to
-you later.<wait>
+Makasih. Oh? Sepertinya ranselmu sudah penuh.<wait><page>
+Tidak apa, suamiku akan mengantarkannya ke tempatmu.<wait>
 <------------------------------------------------------->
 [0063]
-A device that plays records.
+Pemutar piringan hitam.
 <------------------------------------------------------->
 [0064]
-Thank you for your patronage. I'll have it delivered to
-your Cabinet later.<wait>
+Terima kasih, Aku akan mengantarkannya ke tempatmu
+nanti.<wait>
 <------------------------------------------------------->
 [0065]
-Will you be buying anything else?<wait>
+Apa Kamu ingin beli sesuatu?<wait>
 <------------------------------------------------------->
 [0066]
-Hrm. I'm afraid your funds are a bit lacking at the
-moment.<wait>
+Hrm. Sepertinya uangmu tidak cukup.<wait>
 <------------------------------------------------------->
 [0067]
-Thank you very much. The Record Player is heavy,
-so I will have it sent to your house.<wait>
+Terima kasih banyak. Pemutar ini sangat berat,
+jadi Aku akan mengantarkannya ke rumahmu.<wait>
 <------------------------------------------------------->
 [0068]
-Thank you very much. I hope I can count on your
-continued support.<wait>
+Terima kasih banyak. Aku harap kamu mampir lagi
+ke toko ku.<wait>
 <------------------------------------------------------->
 [0069]
-Thank you very much. Ah, a moment. It seems as though
-it won't fit. I will have it sent to your house.<wait>
+Terima kasih banyak. Ah, sebentar. Sepertinya ini
+tidak muat. Aku akan mengantarnya ke rumahmu.<wait>
 <------------------------------------------------------->
 [0070]
-Thank you very much.<wait>
+Terima kasih banyak.<wait>
 <------------------------------------------------------->
 [0071]
-Unfortunately, it seems you're a bit overburdened at the
-moment and have no room for this.<wait>
+Sepertinya Kamu tidak punya cukup ruang untuk
+benda ini.<wait>
 <------------------------------------------------------->
 [0072]
-An Italian noodle dish.
+Hidangan sejenis mi dari Italia.
 <------------------------------------------------------->
 [0073]
-A frozen dessert made of finely crushed ice.
+Makanan penutup dari serutan es.
 <------------------------------------------------------->
 [0074]
-Hold up. You don't got enough gold!<wait>
+Tunggu sebentar, uangmu tidak cukup!<wait>
 <------------------------------------------------------->
 [0075]
-All righty, then. Oh, if you want another bite to eat,
-just give me a holler.<wait>
+Baiklah, jika kamu ingin makan, panggil saja
+Aku.<wait>
 <------------------------------------------------------->
 [0076]
-Okay, just a sec... And here ya go. Sorry for the wait.
-Go on an' eat up!<wait>
+Tunggu sebentar... Ini dia pesananmu!<wait>
 <------------------------------------------------------->
 [0077]
-I'll start the expansion work on my own. Pay me no mind.<wait>
+Aku akan memulai pekerjaanku, kuambil bayarannya.<wait>
 <------------------------------------------------------->
 [0078]
-Oh, and anything you've got displayed will just get in my
-way, so I'll set it aside for you.<wait>
+Apapun yang Kamu tunjukkan padaku hanya menghalangi
+jalanku.<wait>
 <------------------------------------------------------->
 [0079]
 
@@ -375,7 +367,7 @@ way, so I'll set it aside for you.<wait>
 
 <------------------------------------------------------->
 [0109]
-What, you sure?<wait>
+Kamu yakin?<wait>
 <------------------------------------------------------->
 [0110]
 
@@ -396,7 +388,7 @@ What, you sure?<wait>
 
 <------------------------------------------------------->
 [0116]
-Thanks.<wait>
+Makasih.<wait>
 <------------------------------------------------------->
 [0117]
 
@@ -444,49 +436,49 @@ Thanks.<wait>
 
 <------------------------------------------------------->
 [0132]
-You don't have enough gold.<wait>
+Uangmu tidak cukup.<wait>
 <------------------------------------------------------->
 [0133]
-Will you be buying something else?<wait>
+Kamu ingin beli yang lainnya?<wait>
 <------------------------------------------------------->
 [0134]
-Oh, you sure?<wait>
+Kamu yakin?<wait>
 <------------------------------------------------------->
 [0135]
-If you want to buy anything, just come talk to me again,
-all right?<wait>
+Jika Kamu ingin beli sesuatu, bilang saja
+padaku, ok?<wait>
 <------------------------------------------------------->
 [0136]
-All right, I'll put the Fodder in your Silo. Come again.<wait>
+Baiklah, Aku akan menaruhnya di Silo kebunmu.<wait>
 <------------------------------------------------------->
 [0137]
-Your Silo is already full of Fodder.<wait>
+Silo mu sudah penuh.<wait>
 <------------------------------------------------------->
 [0138]
-Come again. Oh. Looks like you're already full up on
-equipment. I'll send it to your house later.<wait>
+Datang lagi, ya. Sepertinya ranselmu sudah penuh,
+akan ku antarkan ini ke rumahmu nanti.<wait>
 <------------------------------------------------------->
 [0139]
-Come again. Oh. Looks like the equipment won't all fit.<wait><page>
-I'll send it on to your house later, all right?<wait>
+Datang lagi, ya. Sepertinya ranselmu sudah penuh,<wait><page>
+Aku akan mengantar ini kerumahmu, ok?<wait>
 <------------------------------------------------------->
 [0140]
-Hrm? Looks like the equipment won't fit.<wait>
+Hrm? Sepertinya ini tidak akan muat.<wait>
 <------------------------------------------------------->
 [0141]
-Well then, go on and name it.<wait>
+Baiklah, beri dia nama.<wait>
 <------------------------------------------------------->
 [0142]
-Then I'll put it in your Barn. Come again.<wait>
+Aku akan menaruhnya di kandangmu, datang lagi, ya.<wait>
 <------------------------------------------------------->
 [0143]
-Your Barn is full.<wait>
+Kandang mu sudah penuh.<wait>
 <------------------------------------------------------->
 [0144]
-You don't have a cow that you can sell.<wait>
+Kamu tidak punya sapi yang bisa dijual.<wait>
 <------------------------------------------------------->
 [0145]
-You don't have a sheep that you can sell.<wait>
+Kamu tidak punya domba yang bisa dijual.<wait>
 <------------------------------------------------------->
 [0146]
 
@@ -504,14 +496,14 @@ You don't have a sheep that you can sell.<wait>
 
 <------------------------------------------------------->
 [0151]
-G all right for you?
+G sudah cocok bagimu?
 <------------------------------------------------------->
 [0152]
-Oh yeah?<wait><page>
-Well then...
+Benarkah?<wait><page>
+Baiklah...
 <------------------------------------------------------->
 [0153]
-I'll take it from the Barn on your farm.<wait>
+Aku akan menjemputnya ke kandangmu.<wait>
 <------------------------------------------------------->
 [0154]
 
@@ -523,284 +515,298 @@ I'll take it from the Barn on your farm.<wait>
 
 <------------------------------------------------------->
 [0157]
-Up to 30 items can fit in this Basket, which you can then ship to your Shipping Bin. This can also be equipped on your horse.<wait>
+Keranjang bisa memuat 30 item, yang kemudian bisa dipindahkan ke kotak pengiriman. Kamu juga bisa memasangnya di kudamu.<wait>
 <------------------------------------------------------->
 [0158]
-Basic Bag
+Ransel Biasa
 <------------------------------------------------------->
 [0159]
-Capacity:
-16 Items
-8 Tools
+Kapasitas:
+16 Item
+8 Peralatan
 <------------------------------------------------------->
 [0160]
 Big Bag
 <------------------------------------------------------->
 [0161]
 Capacity:
-24 Items
-12 Tools
+24 Item
+12 Peralatan
 <------------------------------------------------------->
 [0162]
 Knife
 <------------------------------------------------------->
 [0163]
-Allows you to make food requiring a Knife.
+Digunakan untuk masakan yang memerlukan
+Knife.
 <------------------------------------------------------->
 [0164]
 Frying Pan
 <------------------------------------------------------->
 [0165]
-Allows you to make food requiring
-a Frying Pan.
+Digunakan untuk masakan yang memerlukan
+Frying Pan.
 <------------------------------------------------------->
 [0166]
 Pot
 <------------------------------------------------------->
 [0167]
-Allows you to make food requiring a Pot.
+Digunakan untuk masakan yang memerlukan
+Pot.
 <------------------------------------------------------->
 [0168]
 Mixer
 <------------------------------------------------------->
 [0169]
-Allows you to make food requiring a Mixer.
+Digunakan untuk masakan yang memerlukan
+Mixer.
 <------------------------------------------------------->
 [0170]
 Whisk
 <------------------------------------------------------->
 [0171]
-Allows you to make food requiring a Whisk.
+Digunakan untuk masakan yang memerlukan
+Whisk.
 <------------------------------------------------------->
 [0172]
 Rolling Pin
 <------------------------------------------------------->
 [0173]
-Allows you to make food requiring
-a Rolling Pin.
+Digunakan untuk masakan yang memerlukan
+Rolling Pin.
 <------------------------------------------------------->
 [0174]
 Oven
 <------------------------------------------------------->
 [0175]
-Allows you to make food requiring an Oven.
+Digunakan untuk masakan yang memerlukan
+Oven.
 <------------------------------------------------------->
 [0176]
 Seasoning Set
 <------------------------------------------------------->
 [0177]
-Allows you to make food requiring
-a Seasoning Set.
+Digunakan untuk masakan yang memerlukan
+Seasoning Set.
 <------------------------------------------------------->
 [0178]
 Power Berry
 <------------------------------------------------------->
 [0179]
-Eating it will increase your maximum
-Stamina by 15.
+Menaikkan stamina maksimal sebanyak 15.
 <------------------------------------------------------->
 [0180]
 Copper Hoe
 <------------------------------------------------------->
 [0181]
-Tills a larger area than the Hoe from the
-mayor.
+Dapat mencangkul area yang lebih luas
+dari cangkul pemberian walikota.
 <------------------------------------------------------->
 [0182]
 Silver Hoe
 <------------------------------------------------------->
 [0183]
-Tills a larger area than the Copper Hoe.
+Dapat mencangkul area yang lebih luas
+dari Copper Hoe.
 <------------------------------------------------------->
 [0184]
 Golden Hoe
 <------------------------------------------------------->
 [0185]
-Tills a larger area than the Silver Hoe.
+Dapat mencangkul area yang lebih luas
+dari Silver Hoe.
 <------------------------------------------------------->
 [0186]
 Mithril Hoe
 <------------------------------------------------------->
 [0187]
-Tills a larger area than the Golden Hoe.
+Dapat mencangkul area yang lebih luas
+dari Golden Hoe.
 <------------------------------------------------------->
 [0188]
 Mythic Hoe
 <------------------------------------------------------->
 [0189]
-Tills a larger area than the
-Cursed/Blessed Hoe.
+Dapat mencangkul area yang lebih luas
+dari Cursed/Blessed Hoe.
 <------------------------------------------------------->
 [0190]
 Copper Sickle
 <------------------------------------------------------->
 [0191]
-Cuts a larger area than the Sickle from the
-mayor.
+Dapat memotong area yang lebih luas
+dari sabit pemberian walikota.
 <------------------------------------------------------->
 [0192]
 Silver Sickle
 <------------------------------------------------------->
 [0193]
-Cuts a larger area than the Copper Sickle.
+Dapat memotong area yang lebih luas
+dari Copper Sickle.
 <------------------------------------------------------->
 [0194]
 Golden Sickle
 <------------------------------------------------------->
 [0195]
-Cuts a larger area than the Silver Sickle.
+Dapat memotong area yang lebih luas
+dari Silver Sickle.
 <------------------------------------------------------->
 [0196]
 Mithril Sickle
 <------------------------------------------------------->
 [0197]
-Cuts a larger area than the Golden Sickle.
+Dapat memotong area yang lebih luas
+dari Golden Sickle.
 <------------------------------------------------------->
 [0198]
 Mythic Sickle
 <------------------------------------------------------->
 [0199]
-Cuts a larger area than the Cursed/Blessed
-Sickle.
+Dapat memotong area yang lebih luas
+dari Cursed/Blessed Sickle.
 <------------------------------------------------------->
 [0200]
 Copper Axe
 <------------------------------------------------------->
 [0201]
-Can break stumps that the Axe from the
-mayor couldn't.
+Bisa memotong tunggul kayu yang tidak
+bisa dipotong kapak pemberian walikota.
 <------------------------------------------------------->
 [0202]
 Silver Axe
 <------------------------------------------------------->
 [0203]
-Breaks stumps faster than the Copper Axe.
+Memotong tunggul lebih cepat dari
+Copper Axe.
 <------------------------------------------------------->
 [0204]
 Golden Axe
 <------------------------------------------------------->
 [0205]
-Breaks stumps faster than the Silver Axe.
+Memotong tunggul lebih cepat dari
+Silver Axe.
 <------------------------------------------------------->
 [0206]
 Mithril Axe
 <------------------------------------------------------->
 [0207]
-Breaks stumps faster than the Golden Axe.
+Memotong tunggul lebih cepat dari
+Golden Axe.
 <------------------------------------------------------->
 [0208]
 Mythic Axe
 <------------------------------------------------------->
 [0209]
-Exhausts half the Stamina of the
-Cursed/Blessed Axe, and breaks all stumps in
-the area in one swing.
+Menghabiskan setengah stamina dari
+Cursed/Blessed Axe, dan menghancurkan
+semua tunggul dalam sekali ayunan.
 <------------------------------------------------------->
 [0210]
 Copper Hammer
 <------------------------------------------------------->
 [0211]
-Can break bigger stones than the Hammer
-from the mayor.
+Bisa menghancurkan batu yang lebih
+besar dari palu pemberian walikota.
 <------------------------------------------------------->
 [0212]
 Silver Hammer
 <------------------------------------------------------->
 [0213]
-Can break boulders that the Copper Hammer
-couldn't.
+Bisa memecahkan batu besar yang Copper
+Hammer tidak bisa pecahkan.
 <------------------------------------------------------->
 [0214]
 Golden Hammer
 <------------------------------------------------------->
 [0215]
-Can break boulders faster than the Silver
-Hammer.
+Dapat memecahkan batu besar lebih cepat
+dari Silver Hammer.
 <------------------------------------------------------->
 [0216]
 Mithril Hammer
 <------------------------------------------------------->
 [0217]
-Can break boulders faster than the Golden
-Hammer.
+Dapat memecahkan batu besar lebih cepat
+dari Golden Hammer.
 <------------------------------------------------------->
 [0218]
 Mythic Hammer
 <------------------------------------------------------->
 [0219]
-Destroys everything in the area with one
-swing.
+Dapat menghancurkan semua batu yang ada
+di area dalam sekali ayunan.
 <------------------------------------------------------->
 [0220]
 Copper Watering Can
 <------------------------------------------------------->
 [0221]
-Waters a larger area than the Watering Can
-from the mayor.
+Dapat menyiram area yang lebih besar
+dari penyiram pemberian walikota.
 <------------------------------------------------------->
 [0222]
 Silver Watering Can
 <------------------------------------------------------->
 [0223]
-Waters a larger area than the Copper
-Watering Can.
+Dapat menyiram area yang lebih besar
+dari Copper Watering Can.
 <------------------------------------------------------->
 [0224]
 Golden Watering Can
 <------------------------------------------------------->
 [0225]
-Waters a larger area than the Silver
-Watering Can.
+Dapat menyiram area yang lebih besar
+dari Silver Watering Can.
 <------------------------------------------------------->
 [0226]
 Mithril Watering Can
 <------------------------------------------------------->
 [0227]
-Waters a larger area than the Golden
-Watering Can.
+Dapat menyiram area yang lebih besar
+dari Golden Watering Can.
 <------------------------------------------------------->
 [0228]
 Mythic Watering Can
 <------------------------------------------------------->
 [0229]
-Waters a larger area than the
-Cursed/Blessed Watering Can.
+Dapat menyiram area yang lebih besar
+dari Cursed/Blessed Watering Can.
 <------------------------------------------------------->
 [0230]
 Copper Fishing Rod
 <------------------------------------------------------->
 [0231]
-Easier to catch medium-sized fish than with
-the Fishing Rod from Zack.
+Membuat penangkapan ikan berukuran sedang
+lebih mudah daripada pancing pemberian
+Zack.
 <------------------------------------------------------->
 [0232]
 Silver Fishing Rod
 <------------------------------------------------------->
 [0233]
-Easier to catch medium-sized fish than with
-the Copper Fishing Rod.
+Membuat penangkapan ikan berukuran sedang
+lebih mudah daripada Copper Fishing Rod.
 <------------------------------------------------------->
 [0234]
 Golden Fishing Rod
 <------------------------------------------------------->
 [0235]
-Easier to catch large fish than with the Silver
-Fishing Rod.
+Membuat penangkapan ikan berukuran besar
+lebih mudah daripada Silver Fishing Rod.
 <------------------------------------------------------->
 [0236]
 Mithril Fishing Rod
 <------------------------------------------------------->
 [0237]
-Easier to catch large fish than with the
-Golden Fishing Rod.
+Membuat penangkapan ikan berukuran besar
+lebih mudah daripada Golden Fishing Rod.
 <------------------------------------------------------->
 [0238]
 Mythic Fishing Rod
 <------------------------------------------------------->
 [0239]
-Catches Guardian-class fish and rare items
-at twice the rate of the Cursed/Blessed
-Fishing Rod.
+Digunakan untuk menangkap Ikan Guardian
+dan item langka lebih mudah daripada
+Cursed/Blessed Fishing Rod.
 <------------------------------------------------------->
 [0240]
 
@@ -986,29 +992,29 @@ Fishing Rod.
 Mayonnaise Maker
 <------------------------------------------------------->
 [0301]
-The quality of the Egg used will
-determine the size of the Mayonnaise.
+Kualitas telur menentukan besar
+kecilnya ukuran Mayonnaise.
 <------------------------------------------------------->
 [0302]
 Cheese Maker
 <------------------------------------------------------->
 [0303]
-The quality of the Milk used will
-determine the size of the Cheese.
+Kualitas susu menentukan besar
+kecilnya ukuran Keju.
 <------------------------------------------------------->
 [0304]
 Yarn Maker (Coop)
 <------------------------------------------------------->
 [0305]
-The quality of the Wool/Fur/Fleece used
-will determine the size of the Yarn.
+Kualitas Wool/Fur/Fleece menentukan besar
+kecilnya ukuran Yarn.
 <------------------------------------------------------->
 [0306]
 Yarn Maker (Barn)
 <------------------------------------------------------->
 [0307]
-The quality of the Wool/Fur/Fleece used
-will determine the size of the Yarn.
+Kualitas Wool/Fur/Fleece menentukan besar
+kecilnya ukuran Yarn.
 <------------------------------------------------------->
 [0308]
 
@@ -1020,133 +1026,135 @@ will determine the size of the Yarn.
 Butter Maker
 <------------------------------------------------------->
 [0311]
-Add Milk to make Butter.
+Masukan susu untuk membuat mentega.
 <------------------------------------------------------->
 [0312]
 Slightly Bigger House
 <------------------------------------------------------->
 [0313]
-A house with a bit more room than the
-current one. Comes with a Kitchen.
+Rumah yang memiliki ruangan sedikit lebih
+banyak dari yang sekarang. Dilengkapi
+dapur.
 <------------------------------------------------------->
 [0314]
 Big House
 <------------------------------------------------------->
 [0315]
-A house much bigger than the current
-one. Can fit a Big Bed in it.
+Rumah yang lebih besar daripada ukuran
+saat ini. Kamu bisa menaruh kasur ukuran
+besar dengan rumah ini.
 <------------------------------------------------------->
 [0316]
 Bathroom
 <------------------------------------------------------->
 [0317]
-Going inside will help recover Stamina
-and relieve Fatigue. Takes 30 minutes.
+Dapat menghilangkan lelah dan menambah
+stamina yang membutuhkan waktu 30 menit.
 <------------------------------------------------------->
 [0318]
 Coop
 <------------------------------------------------------->
 [0319]
-Expand to fit 8 animals.
+Dapat memuat 8 hewan ternak.
 <------------------------------------------------------->
 [0320]
 Barn
 <------------------------------------------------------->
 [0321]
-Expand to fit 16 animals.
+Dapat memuat 16 hewan ternak.
 <------------------------------------------------------->
 [0322]
 Water Mill
 <------------------------------------------------------->
 [0323]
-For storing Chicken/Rabbit Feed.
-Can hold up to 9,999 units.
+Untuk menaruh Chicken/Rabbit Feed.
+Bisa menampung 9,999 unit.
 <------------------------------------------------------->
 [0324]
 Silo
 <------------------------------------------------------->
 [0325]
-For storing Fodder.
-Can hold up to 9,999 units.
+Untuk menaruh Fodder.
+Bisa menampung 9,999 unit.
 <------------------------------------------------------->
 [0326]
 Field Level 2
 <------------------------------------------------------->
 [0327]
-Increases the chances of harvesting
-higher quality crops.
+Meningkatkan kesempatan mengahsilkan
+tanaman berkualitas tinggi.
 <------------------------------------------------------->
 [0328]
 Field Level 3
 <------------------------------------------------------->
 [0329]
-Increases the chances of harvesting
-higher quality crops more than a Level 2
-field.
+Meningkatkan kesempatan mengahsilkan
+tanaman berkualitas tinggi lebih
+banyak dari Level 2 field.
 <------------------------------------------------------->
 [0330]
 Field Level 4
 <------------------------------------------------------->
 [0331]
-Increases the chances of harvesting
-higher quality crops more than a Level 3
-field.
+Meningkatkan kesempatan mengahsilkan
+tanaman berkualitas tinggi lebih
+banyak dari Level 3 field.
 <------------------------------------------------------->
 [0332]
 Field Level 5
 <------------------------------------------------------->
 [0333]
-Increases the chances of harvesting
-higher quality crops more than a Level 4
-field.
+Meningkatkan kesempatan mengahsilkan
+tanaman berkualitas tinggi lebih
+banyak dari Level 4 field.
 <------------------------------------------------------->
 [0334]
 Apple Tree
 <------------------------------------------------------->
 [0335]
-Produces Apples in summer and autumn.
-Occasionally produces Honey.
+Menghasilkan buah Apple saat summer dan
+autumn, dan juga madu terkadang.
 <------------------------------------------------------->
 [0336]
 Grape Tree
 <------------------------------------------------------->
 [0337]
-Produces Grapes in spring and summer.
-Occasionally produces Honey.
+Menghasilkan buah Grape saat spring dan
+summer, dan juga madu terkadang.
 <------------------------------------------------------->
 [0338]
 Orange Tree
 <------------------------------------------------------->
 [0339]
-Produces Oranges in autumn and winter.
-Occasionally produces Honey.
+Menghasilkan buah Orange saat autumn dan
+winter, dan juga madu terkadang.
 <------------------------------------------------------->
 [0340]
 Town Villa
 <------------------------------------------------------->
 [0341]
-Can be built in the south part of town.
-It's nice to treat yourself sometimes.
+Bisa dibangun di bagian selatan kota.
+Terkadang menghibur diri itu perlu.
 <------------------------------------------------------->
 [0342]
 Square Windows
 <------------------------------------------------------->
 [0343]
-Changes Window shape to square.
-Comes with attractive shutters.
+Mengganti bentuk jendela ke bentuk kotak.
+Dilengkapi daun jendela menarik.
 <------------------------------------------------------->
 [0344]
 Square Windows
 <------------------------------------------------------->
 [0345]
-Changes Window shape to square
-without shutters.
+Mengganti bentuk jendela ke bentuk kotak
+tanpa daun jendela.
 <------------------------------------------------------->
 [0346]
 Round Windows
 <------------------------------------------------------->
 [0347]
-Changes Window shape to round.
+Mengganti bentuk jendela menjadi bundar.
 <------------------------------------------------------->
 [0348]
 
@@ -1170,25 +1178,25 @@ Changes Window shape to round.
 Red Mailbox
 <------------------------------------------------------->
 [0355]
-Turns your Mailbox red.
+Merubah warna kotak surat menjadi merah.
 <------------------------------------------------------->
 [0356]
 Blue Mailbox
 <------------------------------------------------------->
 [0357]
-Turns your Mailbox blue.
+Merubah warna kotak surat menjadi biru.
 <------------------------------------------------------->
 [0358]
 Weird Mailbox
 <------------------------------------------------------->
 [0359]
-Turns your Mailbox into a unique shape.
+Merubah bentuk kotak surat jadi unik.
 <------------------------------------------------------->
 [0360]
 Clock
 <------------------------------------------------------->
 [0361]
-Allows you to check the time.
+Digunakan untuk melihat jam.
 <------------------------------------------------------->
 [0362]
 
@@ -1200,88 +1208,92 @@ Allows you to check the time.
 Fridge
 <------------------------------------------------------->
 [0365]
-Can store crops and food.
+Digunakan untuk menyimpan makanan.
 <------------------------------------------------------->
 [0366]
 Big Fridge
 <------------------------------------------------------->
 [0367]
-Can store more than the basic Fridge.
+Bisa menyimpan makanan lebih banyak dari
+kulkas biasa.
 <------------------------------------------------------->
 [0368]
 Deluxe Fridge
 <------------------------------------------------------->
 [0369]
-Can store even more than the Big Fridge.
+Bisa menyimpan makanan lebih banyak dari
+kulkas besar.
 <------------------------------------------------------->
 [0370]
 Big Cabinet
 <------------------------------------------------------->
 [0371]
-Can store more than the basic Cabinet.
+Bisa menyimpan makanan lebih banyak dari
+lemari biasa.
 <------------------------------------------------------->
 [0372]
 Deluxe Cabinet
 <------------------------------------------------------->
 [0373]
-Can store even more than the Big
-Cabinet.
+Bisa menyimpan makanan lebih banyak dari
+lemari besar.
 <------------------------------------------------------->
 [0374]
 Rug
 <------------------------------------------------------->
 [0375]
-Lay it on the floor to add a bit of style to
-your home.
+Taruh ini di lantai rumahmu untuk memberi
+warna di rumahmu.
 <------------------------------------------------------->
 [0376]
 Big Bed
 <------------------------------------------------------->
 [0377]
-Necessary to have a bigger family.
+Penting jika Kamu ingin berkeluarga.
 <------------------------------------------------------->
 [0378]
-Normal Wallpaper
+normal Wallpaper
 <------------------------------------------------------->
 [0379]
-Wallpaper that's as basic as it gets.
+Wallpaper biasa.
 <------------------------------------------------------->
 [0380]
 Zigzag Wallpaper
 <------------------------------------------------------->
 [0381]
-Wallpaper with a playful design.
+Wallpaper dengan desain ceria.
 <------------------------------------------------------->
 [0382]
 Blue Wallpaper
 <------------------------------------------------------->
 [0383]
-Wallpaper with a touch of class.
+Wallpaper dengan sentuhan kaca.
 <------------------------------------------------------->
 [0384]
-Normal Floor
+normal Floor
 <------------------------------------------------------->
 [0385]
-Flooring without much going on.
+Lantai biasa.
 <------------------------------------------------------->
 [0386]
 Refined Floor
 <------------------------------------------------------->
 [0387]
-Flooring with a bit of style.
+Lantai dengan sedikit gaya.
 <------------------------------------------------------->
 [0388]
 Tiled Floor
 <------------------------------------------------------->
 [0389]
-Flooring with a chessboard-like pattern.
+Lantai dengan motif papan catur.
 <------------------------------------------------------->
 [0390]
 LCD TV
 <------------------------------------------------------->
 [0391]
-A TV with a large screen. Now you can
-say goodbye to that ancient CRT screen.
+TV dengan layar yang lebih besar,
+ucapkan selamat tinggal pada TV tabung
+yang sudah jadul.
 <------------------------------------------------------->
 [0392]
 
@@ -1293,173 +1305,172 @@ say goodbye to that ancient CRT screen.
 Water
 <------------------------------------------------------->
 [0395]
-Plain old water.
+Air biasa.
 <------------------------------------------------------->
 [0396]
 Daily Special
 <------------------------------------------------------->
 [0397]
-Sold at the Inn, but only during the day.
+Dijual di Penginapan saat hari tertentu.
 <------------------------------------------------------->
 [0398]
 Milk
 <------------------------------------------------------->
 [0399]
-A tall glass of fresh cow Milk.
+Segelas besar susu segar.
 <------------------------------------------------------->
 [0400]
 Spaghetti
 <------------------------------------------------------->
 [0401]
-An Italian noodle dish.
+Hidangan sejenis mi dari Italia.
 <------------------------------------------------------->
 [0402]
 Shaved Ice
 <------------------------------------------------------->
 [0403]
-A frozen dessert made of finely crushed ice.
+Makanan penutup dari serutan es.
 <------------------------------------------------------->
 [0404]
 Chicken
 <------------------------------------------------------->
 [0405]
-Lays an Egg every day.
+Menghasilkan telur setiap hari.
 <------------------------------------------------------->
 [0406]
 Brown Chicken
 <------------------------------------------------------->
 [0407]
-A chicken with dark plumage. Lays an Egg
-every day.
+Ayam dengan bulu lebih gelap.
+Menghasilkan telur setiap hari.
 <------------------------------------------------------->
 [0408]
 Angora Rabbit
 <------------------------------------------------------->
 [0409]
-A rabbit with a long coat. When you shear
-it, you'll get Fur.
+Kelinci dengan bulu lebat. Bulunya
+bisa dipotong.
 <------------------------------------------------------->
 [0410]
 Rabbit Breeding Kit
 <------------------------------------------------------->
 [0411]
-Makes adult Angora rabbits pregnant.
+Bisa membuat Kelinci Angora hamil.
 <------------------------------------------------------->
 [0412]
 Calf
 <------------------------------------------------------->
 [0413]
-Once it matures, it'll start producing Milk.
+Bisa menghasilkan susu saat sudah besar.
 <------------------------------------------------------->
 [0414]
 Coffee Calf
 <------------------------------------------------------->
 [0415]
-Once it matures, it'll start producing
-Coffee Milk.
+Bisa menghasilkan kopi susu saat sudah
+besar.
 <------------------------------------------------------->
 [0416]
 Strawberry Calf
 <------------------------------------------------------->
 [0417]
-Once it matures, it'll start producing
-Strawberry Milk.
+Bisa menghasilkan susu stroberi saat
+sudah besar.
 <------------------------------------------------------->
 [0418]
 Fruit Calf
 <------------------------------------------------------->
 [0419]
-Once it matures, it'll start producing
-Fruit Milk.
+Bisa menghasilkan susu rasa buah saat
+sudah besar.
 <------------------------------------------------------->
 [0420]
 Sheep
 <------------------------------------------------------->
 [0421]
-Shear it to get Wool.
+Potong bulunya untuk mendapatkan Wool.
 <------------------------------------------------------->
 [0422]
 Alpaca
 <------------------------------------------------------->
 [0423]
-Shear it to get Fleece.
+Potong bulunya untuk mendapatkan Fleece.
 <------------------------------------------------------->
 [0424]
 Record Player
 <------------------------------------------------------->
 [0425]
-A device that plays records. Once you buy
-it, you can put it in your house.
+Alat yang bisa memainkan piringan hitam.
 <------------------------------------------------------->
 [0426]
 All BGM
 <------------------------------------------------------->
 [0427]
-Enables you to listen to all of the
-background music.
+Membuatmu bisa mendengarkan semua musik
+latar.
 <------------------------------------------------------->
 [0428]
 Mineral Dog
 <------------------------------------------------------->
 [0429]
-A unique-looking dog.
+Seekor anjing yang unik.
 <------------------------------------------------------->
 [0430]
 Black Shiba
 <------------------------------------------------------->
 [0431]
-A Shiba Inu with a black coat.
+Shiba Inu berbulu hitam.
 <------------------------------------------------------->
 [0432]
 Papillon
 <------------------------------------------------------->
 [0433]
-A dog with distinctive ears and long fur.
+Anjing dengan telinga khas dan bulu
+yang lebat.
 <------------------------------------------------------->
 [0434]
 American Shorthair
 <------------------------------------------------------->
 [0435]
-A cat notable for the M-pattern on its
-forehead.
+Kucing dengan huruf M di dahinya.
 <------------------------------------------------------->
 [0436]
 Bengal
 <------------------------------------------------------->
 [0437]
-A cat with a distinctive spotted coat.
+Kucing dengan bulu berbintik.
 <------------------------------------------------------->
 [0438]
 Calico
 <------------------------------------------------------->
 [0439]
-A cat with white, brown, and black fur.
+Kucing dengan bulu 3 warna.
 <------------------------------------------------------->
 [0440]
 Penguin
 <------------------------------------------------------->
 [0441]
-An aquatic, flightless bird with blue
-coloring.
+Burung yang tidak bisa terbang
+berwarna biru.
 <------------------------------------------------------->
 [0442]
 Navy Penguin
 <------------------------------------------------------->
 [0443]
-An aquatic, flightless bird with navy
-coloring.
+Burung air yang tidak bisa terbang
+dengan bulu berwarna biru tua.
 <------------------------------------------------------->
 [0444]
 Capybara
 <------------------------------------------------------->
 [0445]
-A large rodent with short brown fur.
+Hewan pengerat berbulu pendek.
 <------------------------------------------------------->
 [0446]
 White Capybara
 <------------------------------------------------------->
 [0447]
-A large rodent with short white fur.
+Capybara berbulu putih.
 <------------------------------------------------------->
 [0448]
 
@@ -1489,40 +1500,40 @@ A large rodent with short white fur.
 Item Pocket
 <------------------------------------------------------->
 [0457]
-Seeds
+Bibit
 <------------------------------------------------------->
 [0458]
-Products
+Produk
 <------------------------------------------------------->
 [0459]
-Buy an animal
+Beli Hewan
 <------------------------------------------------------->
 [0460]
-Sell an animal
+Jual Hewan
 <------------------------------------------------------->
 [0461]
-Wrap
+Bungkus
 <------------------------------------------------------->
 [0462]
-Unwrap
+Buka Bungkus
 <------------------------------------------------------->
 [0463]
-Enter a name via the keyboard.
+Masukkan nama.
 <------------------------------------------------------->
 [0464]
 
 <------------------------------------------------------->
 [0465]
-Renovations
+Renovasi
 <------------------------------------------------------->
 [0466]
-Upgrade Tools
+Upgrade Alat
 <------------------------------------------------------->
 [0467]
 Commissions
 <------------------------------------------------------->
 [0468]
-Food
+Makanan
 <------------------------------------------------------->
 [0469]
 
@@ -1579,31 +1590,31 @@ Food
 
 <------------------------------------------------------->
 [0487]
-Buy
+Beli
 <------------------------------------------------------->
 [0488]
-Quit
+Keluar
 <------------------------------------------------------->
 [0489]
-Yes
+Ya
 <------------------------------------------------------->
 [0490]
-No
+Tidak
 <------------------------------------------------------->
 [0491]
-Simple Mode
+Model Simpel
 <------------------------------------------------------->
 [0492]
-Normal Mode
+Mode Normal
 <------------------------------------------------------->
 [0493]
-Confirm
+Pilih
 <------------------------------------------------------->
 [0494]
-Confirm Selection
+Lanjutkan
 <------------------------------------------------------->
 [0495]
-Sell
+Jual
 <------------------------------------------------------->
 [0496]
 
@@ -1642,50 +1653,51 @@ Sell
 
 <------------------------------------------------------->
 [0508]
-Owned
+Dimiliki
 <------------------------------------------------------->
 [0509]
-Able to Raise
+Bisa Dirawat
 <------------------------------------------------------->
 [0510]
-You can't sell any animals.
+Tidak bisa menjual hewan.
 <------------------------------------------------------->
 [0511]
 
 <------------------------------------------------------->
 [0512]
-Buy this one?
+Beli?
 <------------------------------------------------------->
 [0513]
-Sell this one?
+Jual?
 <------------------------------------------------------->
 [0514]
 Gold
 <------------------------------------------------------->
 [0515]
-What name would you like?
+Beri dia nama yang bagus.
 <------------------------------------------------------->
 [0516]
-Are you sure you want to sell it?
+Kamu yakin ingin menjualnya?
 <------------------------------------------------------->
 [0517]
-A lot of farms want healthy animals. I'll find a good home
-for it, so don't worry.<wait>
+Banyak perternakan ingin hewan yang sehat.
+Aku akan carikan rumah yang bagus untuknya.<wait>
 <------------------------------------------------------->
 [0518]
-Oh? You're not selling after all?<wait>
+Kamu tidak jadi menjualnya?<wait>
 <------------------------------------------------------->
 [0519]
-Oh dear. One of your animals is about to give birth, so you
-won't have any room in your Coop. 
+Sepertinya ruang di kandangmu tidak cukup, karena
+salah satu ternakmu ingin melahirkan. 
 <------------------------------------------------------->
 [0520]
-Oh dear. Your Coop is already full up with animals
-and an incubating Egg.
+Sepertinya ruang di kandangmu tidak cukup, karena
+sudah penuh dan ada telur yang akan menetas.
 <------------------------------------------------------->
 [0521]
-Oh dear. You've got animals ready to give birth and an
-Egg incubating. There's no room in your Coop.
+Sepertinya ruang di kandangmu tidak cukup, karena
+ada ternak yang akan melahirkan dan telur yang
+akan menetas.
 <------------------------------------------------------->
 [0522]
 
@@ -1703,60 +1715,62 @@ Egg incubating. There's no room in your Coop.
 
 <------------------------------------------------------->
 [0527]
-Character Selection
+Pilih Karakter
 <------------------------------------------------------->
 [0528]
-Play the game with this character?
+Gunakan Karakter?
 <------------------------------------------------------->
 [0529]
-Character Information
+Informasi Karakter
 <------------------------------------------------------->
 [0530]
-Choose a name.
+Tentukan Nama.
 <------------------------------------------------------->
 [0531]
-What name do you want?
+Apa nama yang kamu inginkan?
 <------------------------------------------------------->
 [0532]
-Choose a birthday.
+Pilih hari ulang tahun.
 <------------------------------------------------------->
 [0533]
-Main character created!
+Karakter utama dibuat!
 <------------------------------------------------------->
 [0534]
-Skin Type
+Warna kulit
 <------------------------------------------------------->
 [0535]
-Boy
+Laki-Laki
 <------------------------------------------------------->
 [0536]
-Girl
+Perempuan
 <------------------------------------------------------->
 [0537]
-Name
+Nama
 <------------------------------------------------------->
 [0538]
-Birthday
+Hari Ultah
 <------------------------------------------------------->
 [0539]
-Difficulty
+Kesulitan
 <------------------------------------------------------->
 [0540]
-Simple Mode
+Mode Simpel
 <------------------------------------------------------->
 [0541]
-Normal Mode
+Mode Normal
 <------------------------------------------------------->
 [0542]
-- Start with a lot of gold.
-- Items sell for a little more gold.
-- Easier to raise affection with people.
-- Start with 18 Turnips in the field.
+- Mulai dengan uang yang banyak.
+- Harga jual barang sedikit tinggi.
+- Mudah berteman dengan warga.
+- Mulai dengan 18 Turnip di kebun.
+- Translated by Gilang Ramadhan
 <------------------------------------------------------->
 [0543]
-- None of the features from Simple
-   Mode that make the game easier.
-- Offers a satisfying challenge.
+- Fitur yang ada di mode simpel
+   tidak berlaku.
+- Memberikan tantangan tersendiri.
+- Translated by Nya1998@Beruanglaut.com
 <------------------------------------------------------->
 [0544]
 Spring
@@ -1801,66 +1815,66 @@ Winter
 
 <------------------------------------------------------->
 [0558]
-Buy this?
+Beli ini?
 <------------------------------------------------------->
 [0559]
-Wrap it?
+Bungkus?
 <------------------------------------------------------->
 [0560]
-Unwrap it?
+Buka Bungkus?
 <------------------------------------------------------->
 [0561]
-Continue and wrap it?
+Lanjutkan membungkus?
 <------------------------------------------------------->
 [0562]
-You don't have anything I can wrap, though.<wait>
+Tidak ada barang yang bisa Aku bungkus.<wait>
 <------------------------------------------------------->
 [0563]
-Which do you want unwrapped?
+Mana yang ingin Kamu buka bungkusnya?
 <------------------------------------------------------->
 [0564]
-You don't have anything to unwrap.
+Kamu tidak punya bungkusan yang harus dibuka.
 <------------------------------------------------------->
 [0565]
-Huh? Looks like you're carrying a lot of stuff. You might
-want to throw away some items you don't need in the
-Plaza's trash bin first!<wait>
+Sepertinya barang bawaanmu terlalu banyak. Kamu harus
+mengosongkan beberapa ruang terlebih dahulu!<wait>
 <------------------------------------------------------->
 [0566]
-There are products lined up for sale.
+Ada produk yang siap dijual.
 <------------------------------------------------------->
 [0567]
 
 <------------------------------------------------------->
 [0568]
-Thank you very much.<wait>
+Terima kasih banyak.<wait>
 <------------------------------------------------------->
 [0569]
-Your Bag is full. I'll send the rest to the Fridge
-in your house.<wait>
+Ranselmu sepertinya penuh. Aku akan mengantarkan semua
+belanjaanmu ke kulkas di rumahmu.<wait>
 <------------------------------------------------------->
 [0570]
-Your Bag is full. I'll send the rest to the Cabinet
-in your house.<wait>
+Ranselmu sepertinya penuh. Aku akan mengantarkan semua
+belanjaanmu ke lemari di rumahmu.<wait>
 <------------------------------------------------------->
 [0571]
-Your Tool Pocket is full. I'll send the rest
-to the Tool Box in your house.<wait>
+Kantung peralatanmu sepertinya penuh. Aku akan
+mengantarkan semua belanjaanmu ke kotak alat di rumahmu.<wait>
 <------------------------------------------------------->
 [0572]
-Your Bag is full, and it seems like your Fridge is too.
-Free up some space first, okay?<wait>
+Ransel dan kulkasmu sepertinya penuh. Kosongkan dahulu
+beberapa ruang, ok?<wait>
 <------------------------------------------------------->
 [0573]
-Your Bag is full, and it seems like your Cabinet is too.
-Free up some space first, okay?<wait>
+Ransel dan lemarimu sepertinya penuh. Kosongkan dahulu
+beberapa ruang, ok?<wait>
 <------------------------------------------------------->
 [0574]
-Your Tool Pocket is full, and it seems like your Tool Box is
-too. Free up some space first, okay?<wait>
+Kantung peralatan dan kotak alatmu sepertinya penuh.
+Kosongkan dahulu beberapa ruang, ok?<wait>
 <------------------------------------------------------->
 [0575]
-Your Bag is full. Free up some space first, okay?<wait>
+Ranselmu sepertinya penuh. Kosongkan dahulu beberapa
+ruang, ok?<wait>
 <------------------------------------------------------->
 [0576]
 
@@ -1908,31 +1922,33 @@ Your Bag is full. Free up some space first, okay?<wait>
 
 <------------------------------------------------------->
 [0591]
-Hrm. Your Bag's full up. Guess I'll send the rest to your
-Fridge for you.<wait>
+Hem. Ranselmu sepertinya penuh. Aku akan mengantarkan
+semua belanjaanmu ke kulkas di rumahmu.<wait>
 <------------------------------------------------------->
 [0592]
-Hrm. Your Bag's full up. Guess I'll send the rest to your
-Cabinet for you.<wait>
+Hem. Ranselmu sepertinya penuh. Aku akan mengantarkan
+semua belanjaanmu ke lemari di rumahmu.<wait>
 <------------------------------------------------------->
 [0593]
-Hrm. Your Tool Pocket is full. Guess I'll send the rest to
-your Tool Box for you.<wait>
+Hem. Kantung alatmu sepertinya penuh. Aku akan
+mengantarkan semua belanjaanmu ke kotak alat di rumahmu.<wait>
 <------------------------------------------------------->
 [0594]
-Oh? Seems like your Bag and Fridge are full. Organize
-your stuff, you hear? Then come talk to me.<wait>
+Oh? Sepertinya ransel dan kulkasmu sudah penuh. Rapikan
+dahulu isinya, Kamu dengar? Lalu bicaralah denganku
+lagi.<wait>
 <------------------------------------------------------->
 [0595]
-Seems like your Bag and Cabinet are full. Organize your
-stuff, you hear? Then come talk to me.<wait>
+Oh? Sepertinya ransel dan lemarimu sudah penuh. Rapikan
+dahulu isinya, Kamu dengar? Lalu bicaralah denganku
+lagi.<wait>
 <------------------------------------------------------->
 [0596]
-Seems like your Tool Pocket and your Tool Box are full.
-Sort your stuff, then speak to me.<wait>
+Oh? Sepertinya kantung alat dan kotak alatmu sudah penuh.
+Rapikan dahulu isinya, lalu bicaralah denganku lagi.<wait>
 <------------------------------------------------------->
 [0597]
-Come again, you hear?<wait>
+Datanglah lagi, Kamu dengar?<wait>
 <------------------------------------------------------->
 [0598]
 
@@ -1950,8 +1966,8 @@ Come again, you hear?<wait>
 
 <------------------------------------------------------->
 [0603]
-Hey, your Bag's full! I'll send the rest to the Cabinet at
-your house, all right?<wait>
+Hei, Ranselmu sepertinya sudah penuh. Belanjaanmu akan
+Aku kirim ke lemari di rumahmu, ok?<wait>
 <------------------------------------------------------->
 [0604]
 
@@ -1960,8 +1976,8 @@ your house, all right?<wait>
 
 <------------------------------------------------------->
 [0606]
-Hey, your Bag's full, and so's your Cabinet. Organize your
-stuff!<wait>
+Hei, ransel dan lemarimu sudah penuh. Rapikan dulu
+barang-barangmu!<wait>
 <------------------------------------------------------->
 [0607]
 
@@ -1982,28 +1998,32 @@ stuff!<wait>
 
 <------------------------------------------------------->
 [0613]
-Oh my. It seems your Bag is full. I'll send the rest to your
-Fridge for you, okay?<wait>
+Oh tidak. Sepertinya ranselmu penuh. Aku akan
+mengantarkan semua belanjaanmu ke kulkas di rumahmu, ok?<wait>
 <------------------------------------------------------->
 [0614]
-Oh my. It seems your Bag is full. I'll send the rest to your
-Cabinet for you, okay?<wait>
+Oh tidak. Sepertinya ranselmu penuh. Aku akan
+mengantarkan semua belanjaanmu ke lemari di rumahmu, ok?<wait>
 <------------------------------------------------------->
 [0615]
-Oh my. It seems your Tool Pocket is full. I'll send the rest
-to your Tool Box for you, okay?<wait>
+Oh tidak. Sepertinya kantung peralatanmu penuh. Aku akan
+mengantarkan semua belanjaanmu ke kotak alat dirumahmu,
+ok?<wait>
 <------------------------------------------------------->
 [0616]
-Oh my. Your Bag is full and your Fridge as well. Could you
-free up some space first?<wait>
+Oh tidak. Sepertinya ransel dan kulkasmu sudah penuh.
+Bisakah Kamu mengosongkan beberapa ruangan terlebih
+dahulu?<wait>
 <------------------------------------------------------->
 [0617]
-Oh my. Your Bag is full and your Cabinet, as well.
-Could you free up some space first?<wait>
+Oh tidak. Sepertinya ransel dan lemarimu sudah penuh.
+Bisakah Kamu mengosongkan beberapa ruangan terlebih
+dahulu?<wait>
 <------------------------------------------------------->
 [0618]
-Oh my. Your Tool Pocket is full and your Tool Box, as well.
-Could you free up some space?<wait>
+Oh tidak. Sepertinya kantung perlatan dan kotak alatmu
+sudah penuh. Bisakah Kamu mengosongkan beberapa ruangan
+terlebih dahulu?<wait>
 <------------------------------------------------------->
 [0619]
 
@@ -2021,28 +2041,30 @@ Could you free up some space?<wait>
 
 <------------------------------------------------------->
 [0624]
-Hmm. Looks like your Bag is full. Don't worry, I'll have
-the rest sent to your Fridge.<wait>
+Hmm. Sepertinya ranselmu penuh. Tenang saja, Aku akan
+mengirim belanjaanmu ke kulkas yang ada di rumahmu.<wait>
 <------------------------------------------------------->
 [0625]
-Hmm. Looks like your Bag is full. Don't worry, I'll have
-the rest sent to your Cabinet.<wait>
+Hmm. Sepertinya ranselmu penuh. Tenang saja, Aku akan
+mengirim belanjaanmu ke lemari yang ada di rumahmu.<wait>
 <------------------------------------------------------->
 [0626]
-Hmm. Looks like your Tool Pocket is full. Don't worry,
-I'll send the rest to your Tool Box.<wait>
+Hmm. Sepertinya kantung peralatanmu penuh. Tenang saja,
+Aku akan mengirim belanjaanmu ke kotak alat yang ada di
+rumahmu.<wait>
 <------------------------------------------------------->
 [0627]
-Oh dear. Your Bag AND your Fridge are full. You need to
-free up some space first.<wait>
+Oh, maaf. Ransel DAN kulkasmu sudah penuh. Kamu harus
+mengosongkan beberapa ruangan terlebih dahulu.<wait>
 <------------------------------------------------------->
 [0628]
-Oh dear. Your Bag AND your Cabinet are full. You need
-to free up some space first.<wait>
+Oh, maaf. Ransel DAN lemarimu sudah penuh. Kamu harus
+mengosongkan beberapa ruangan terlebih dahulu.<wait>
 <------------------------------------------------------->
 [0629]
-Oh dear. Your Tool Pocket AND your Tool Box are full.
-You need to free up some space first.<wait>
+Oh, maaf. Kantung peralatan dan kotak alatmu sudah penuh.
+Kamu harus mengosongkan beberapa ruangan terlebih
+dahulu.<wait>
 <------------------------------------------------------->
 [0630]
 
@@ -2057,7 +2079,7 @@ You need to free up some space first.<wait>
 
 <------------------------------------------------------->
 [0634]
-Thank you! Wait just a moment. There you are!<wait>
+Terima kasih! Tunggu sebentar. Ini dia!<wait>
 <------------------------------------------------------->
 [0635]
 
@@ -2090,7 +2112,7 @@ Thank you! Wait just a moment. There you are!<wait>
 
 <------------------------------------------------------->
 [0645]
-Okay, gimme a sec. Here you are. Dig in!<wait>
+Baiklah, tunggu sebentar. Ini dia, nikmatilah!<wait>
 <------------------------------------------------------->
 [0646]
 
@@ -2126,28 +2148,31 @@ Okay, gimme a sec. Here you are. Dig in!<wait>
 
 <------------------------------------------------------->
 [0657]
-Your Bag is full, yes? I will send the rest to your Fridge.
-How is that for service?<wait>
+Ranselmu penuh, ya? Aku akan mengirimkan semua belanjaan
+mu ke kulkas yang ada di rumahmu. Bagaimana menurutmu
+pelayananku?<wait>
 <------------------------------------------------------->
 [0658]
-Your Bag is full, yes? I will send the rest to your Cabinet.
-How is that for service?<wait>
+Ranselmu penuh, ya? Aku akan mengirimkan semua belanjaan
+mu ke lemari yang ada di rumahmu. Bagaimana menurutmu
+pelayananku?<wait>
 <------------------------------------------------------->
 [0659]
-Your Tool Pocket is full, yes? I will send the rest to your
-Tool Box. How is that for service?<wait>
+Kantung peralatanmu penuh, ya? Aku akan mengirimkan semua
+belanjaanmu ke kotak alat yang ada di rumahmu. Bagaimana
+menurutmu pelayananku?<wait>
 <------------------------------------------------------->
 [0660]
-Oh dear! It seems your Bag and your Fridge are full.
-You must organize your things first, yes?<wait>
+Oh, maaf! Sepertinya ransel dan kulkasmu sudah penuh.
+Kamu harus merapikannya dahulu, ya.<wait>
 <------------------------------------------------------->
 [0661]
-Oh dear! It seems your Bag and your Cabinet are full.
-You must organize your things first, yes?<wait>
+Oh, maaf! Sepertinya ransel dan lemarimu sudah penuh.
+Kamu harus merapikannya dahulu, ya.<wait>
 <------------------------------------------------------->
 [0662]
-Oh dear! It seems your Tool Pocket and your Tool Box
-are full. Organize your things first, yes?<wait>
+Oh, maaf! Sepertinya kantung peralatan dan kotak alatmu
+sudah penuh. Kamu harus merapikannya dahulu, ya.<wait>
 <------------------------------------------------------->
 [0663]
 
@@ -2165,119 +2190,127 @@ are full. Organize your things first, yes?<wait>
 
 <------------------------------------------------------->
 [0668]
-Oh dear. It looks like your Bag is full.<wait><page>
-I'll tell Rick to bring the rest to your Fridge later.<wait>
+Oh sayang sekali. Ranselmu sepertinya penuh.<wait><page>
+Aku akan menyuruh Rick mengantarkan belanjaanmu ke dalam
+kulkas dirumahmu.<wait>
 <------------------------------------------------------->
 [0669]
-Oh dear. It looks like your Bag is full.<wait><page>
-I'll tell Rick to bring the rest to your Cabinet later.<wait>
+Oh sayang sekali. Ranselmu sepertinya penuh.<wait><page>
+Aku akan menyuruh Rick mengantarkan belanjaanmu ke dalam
+lemari dirumahmu.<wait>
 <------------------------------------------------------->
 [0670]
-Oh dear. It looks like your Tool Pocket is full.<wait><page>
-I'll tell Rick to bring the rest to your Tool Box later.<wait>
+Oh sayang sekali. Kantung peralatanmu sepertinya penuh.<wait><page>
+Aku akan menyuruh Rick mengantarkan belanjaanmu ke dalam
+kotak alat dirumahmu.<wait>
 <------------------------------------------------------->
 [0671]
-Oh dear. Your Coop is already full of animals.
+Oh sayang sekali. Kandangmu sepertinya sudah penuh.
 <------------------------------------------------------->
 [0672]
-Oh my... Your Bag is full and so is your Cabinet.
-Would you mind freeing up some space first?<wait>
+Oh sayang sekali... Sepertinya ransel dan lemarimu sudah
+penuh. Bisakah Kamu mengosongkan beberapa ruang terlebih
+dahulu?<wait>
 <------------------------------------------------------->
 [0673]
-Oh my... Your Tool Pocket and your Tool Box is full. Would
-you free up some space first?<wait>
+Oh sayang sekali... Sepertinya kantung peralatan dan
+kotak alatmu sudah penuh. Bisakah Kamu mengosongkan
+beberapa ruang terlebih dahulu?<wait>
 <------------------------------------------------------->
 [0674]
-Well then, please give it a name.<wait>
+Kalau begitu, berikan dia nama.<wait>
 <------------------------------------------------------->
 [0675]
 Oh dear. It looks like your Bag is full.<wait><page>
 I'll tell Rick to bring the rest to your Water Mill later.<wait>
 <------------------------------------------------------->
 [0676]
-Oh dear. It looks like your Bag and your Water Mill
-are full.<wait><page>
-Would you mind freeing up some space first?<wait>
+Oh sayang sekali... Sepertinya ransel dan kincir airmu
+penuh. Bisakah Kamu mengosongkan beberapa ruangan<wait><page>
+terlebih dahulu?<wait>
 <------------------------------------------------------->
 [0677]
-A lot of farms want healthy animals. I'll find a good home
-for it, so don't worry.<wait>
+Semua kebun tentu ingin hewan yang sehat. Aku akan
+mencarikan rumah terbaik untuknya, jangan khawatir.<wait>
 <------------------------------------------------------->
 [0678]
-Oh dear. One of your animals is about to give birth, so you
-won't have any room in your Coop. 
+Oh sayang sekali. Salah satu ternakmu akan melahirkan,
+jadi tidak akan ada ruang di kandangmu. 
 <------------------------------------------------------->
 [0679]
-Oh dear. Your Coop is already full up with animals and an
-incubating Egg.
+Oh sayang sekali. Kandangmu sudah penuh dengan ternak dan
+telur yang sedang ditetaskan.
 <------------------------------------------------------->
 [0680]
-Oh dear. You've got animals ready to give birth and an
-Egg incubating. There's no room in your Coop.
+Oh sayang sekali. Kandangmu sudah penuh karena ada hewan
+yang akan melahirkan dan telur yang ditetaskan, jadi
+tidak ada ruang di kandangmu.
 <------------------------------------------------------->
 [0681]
-Your Bag's full. I'll send the rest to your Fridge.<wait>
+Ranselmu sepertinya penuh. Aku akan mengantarkan
+belanjaanmu ke kulkas di rumahmu.<wait>
 <------------------------------------------------------->
 [0682]
-Your Bag's full. I'll send the rest to your Cabinet.<wait>
+Ranselmu sepertinya penuh. Aku akan mengantarkan
+belanjaanmu ke lemari di rumahmu.<wait>
 <------------------------------------------------------->
 [0683]
-Your Tool Pocket is already chock-full. I'll send the rest
-to your Tool Box.<wait>
+Kantung peralatanmu sepertinya penuh. Aku akan
+mengantarkan belanjaanmu ke kotak alat di rumahmu.<wait>
 <------------------------------------------------------->
 [0684]
-Oh, lookie there. Your Barn's already full of animals.
+Oh, lihat. Kandangmu sudah penuh dengan ternak.
 <------------------------------------------------------->
 [0685]
-Oh, it looks like both your Bag and Cabinet are full.<wait><page>
-Sort your stuff first, then come talk to me again.<wait>
+Oh, sepertinya ransel dan lemarimu sudah penuh.<wait><page>
+Rapikan dulu barangmu, lalu bicaralah denganku lagi.<wait>
 <------------------------------------------------------->
 [0686]
-Oh, it looks like both your Tool Pocket and your Tool Box
-are full.<wait><page>
-Sort your stuff first, then come talk to me again.<wait>
+Oh, sepertinya kantung peralatan dan kotak alatmu penuh.<wait><page>
+Rapikan dulu barangmu, lalu bicaralah denganku lagi.<wait>
 <------------------------------------------------------->
 [0687]
-Then give it a name, would you?<wait>
+Kalau begitu, beri dia nama, ok?<wait>
 <------------------------------------------------------->
 [0688]
-Your Bag's full, so I'll send the rest to your Silo.<wait>
+Ranselmu sepertinya penuh. Aku akan mengirimkan
+belanjaanu ke silo di rumahmu.<wait>
 <------------------------------------------------------->
 [0689]
-Oh, it looks like both your Bag and Silo are full.<wait><page>
-Sort your stuff first, then come talk to me again.<wait>
+Oh, sepertinya ransel dan silomu sudah penuh.<wait><page>
+Rapikan dulu barangmu, lalu bicaralah denganku lagi.<wait>
 <------------------------------------------------------->
 [0690]
-A lot of farms would be happy to have another healthy
-animal. I'll find a good home. Don't you worry.<wait>
+Semua kebun tentu ingin hewan yang sehat. Aku akan
+mencarikan rumah terbaik untuknya, jangan khawatir.<wait>
 <------------------------------------------------------->
 [0691]
-Oh? One of your animals is pregnant, so you don't have
-enough room in your Barn.
+Oh? sepertinya salah satu ternakmu sedang hamil, jadi
+tidak ada ruang lagi di kandangmu.
 <------------------------------------------------------->
 [0692]
-Ah, it seems your Bag is full. I'll have the rest sent to
-your Fridge.<wait>
+Ah, ranselmu penuh. Aku akan mengirimkan belanjaanmu ke
+kulkas yang ada di rumahmu.<wait>
 <------------------------------------------------------->
 [0693]
-Ah, it seems your Bag is full. I'll have the rest sent to
-your Cabinet.<wait>
+Ah, ranselmu penuh. Aku akan mengirimkan belanjaanmu ke
+lemari yang ada di rumahmu.<wait>
 <------------------------------------------------------->
 [0694]
-Ah, your Tool Pocket is full. I'll have the rest sent to your
-Tool Box.<wait>
+Ah, kantung peralatanmu penuh. Aku akan mengirimkan
+belanjaanmu ke kotak alat yang ada di rumahmu.<wait>
 <------------------------------------------------------->
 [0695]
-Oh? Not only is your Bag full, but your Fridge is as well.
-I must ask that you free up some space first.<wait>
+Oh? Tidak hanya ranselmu yang penuh, kulkasmu juga penuh.
+Kosongkan dahulu beberapa ruang, ok.<wait>
 <------------------------------------------------------->
 [0696]
-Oh? Not only is your Bag full, but your Cabinet is as well.
-I must ask that you free up some space first.<wait>
+Oh? Tidak hanya ranselmu yang penuh, lemarimu juga penuh.
+Kosongkan dahulu beberapa ruang, ok.<wait>
 <------------------------------------------------------->
 [0697]
-Oh? Not only is your Tool Pocket full, but your Tool Box is
-too. I must ask that you free up some space first.<wait>
+Oh? Tidak hanya kantung peralatanmu yang penuh, kotak alatmu
+juga penuh. Kosongkan dahulu beberapa ruang, ok.<wait>
 <------------------------------------------------------->
 [0698]
 
@@ -2295,28 +2328,28 @@ too. I must ask that you free up some space first.<wait>
 
 <------------------------------------------------------->
 [0703]
-Ah, it seems your Bag is full. I'll have the rest sent
-to your Fridge.<wait>
+Ah, sepertinya ranselmu penuh. Aku akan mengirimkan
+belanjaanmu ke kulkas yang ada di rumahmu.<wait>
 <------------------------------------------------------->
 [0704]
-Ah, it seems your Bag is full. I'll have the rest sent
-to your Cabinet.<wait>
+Ah, sepertinya ranselmu penuh. Aku akan mengirimkan
+belanjaanmu ke lemari yang ada di rumahmu.<wait>
 <------------------------------------------------------->
 [0705]
-Ah, your Tool Pocket is full. I'll have the rest sent
-to your Tool Box.<wait>
+Ah, sepertinya kantung peralatanmu penuh. Aku akan
+mengirimkan belanjaanmu ke kotak alat yang ada di rumahmu.<wait>
 <------------------------------------------------------->
 [0706]
-Oh? Not only is your Bag full, but your Fridge is as well.
-I must ask that you free up some space first.<wait>
+Oh? Tidak hanya ranselmu yang penuh, kulkasmu juga penuh.
+Kosongkan dahulu beberapa ruang, ok.<wait>
 <------------------------------------------------------->
 [0707]
-Oh? Not only is your Bag full, but your Cabinet is as well.
-I must ask that you free up some space first.<wait>
+Oh? Tidak hanya ranselmu yang penuh, lemarimu juga penuh.
+Kosongkan dahulu beberapa ruang, ok.<wait>
 <------------------------------------------------------->
 [0708]
-Oh? Not only is your Tool Pocket full, but your Tool Box
-is too. I must ask that you free up some space first.<wait>
+Oh? Tidak hanya kantung peralatanmu yang penuh, kotak alatmu
+juga penuh. Kosongkan dahulu beberapa ruang, ok.<wait>
 <------------------------------------------------------->
 [0709]
 
@@ -2406,7 +2439,7 @@ is too. I must ask that you free up some space first.<wait>
 
 <------------------------------------------------------->
 [0738]
-Ahem! I'm going to start working now. Could you leave?<wait>
+Ahem! Aku akan mulai bekerja. Bisakah Kamu keluar?<wait>
 <------------------------------------------------------->
 [0739]
 
@@ -2427,10 +2460,10 @@ Ahem! I'm going to start working now. Could you leave?<wait>
 
 <------------------------------------------------------->
 [0745]
-Which tool will you upgrade?
+Mana alat yang ingin Kamu upgrade?
 <------------------------------------------------------->
 [0746]
-Request this tool be upgraded?
+Upgrade alat ini?
 <------------------------------------------------------->
 [0747]
 
@@ -2457,9 +2490,9 @@ Request this tool be upgraded?
 
 <------------------------------------------------------->
 [0755]
-Handed over <string0>, <string1>,
-and <string2> for the <string3>
-upgrade.<wait>
+Menyerahkan <string0>, <string1>,
+dan <string2> untuk <string3>
+diupgrade.<wait>
 <------------------------------------------------------->
 [0756]
 Hammer
@@ -2516,7 +2549,7 @@ Watering Can
 Fishing Rod
 <------------------------------------------------------->
 [0774]
-Days to Finish
+Lama Pengerjaan
 <------------------------------------------------------->
 [0775]
 -
@@ -2558,125 +2591,126 @@ Days to Finish
 
 <------------------------------------------------------->
 [0788]
-Request ore processing?
+Proses ore ini?
 <------------------------------------------------------->
 [0789]
-Ahem! I'm going to start working now. Could you leave?<wait><page>
-Come back to get the <string0> once
-the specified time has passed.<wait>
+Ahem! Aku akan mulai bekerja. Bisakah Kamu keluar?<wait><page>
+Datanglah lagi untuk mengambil <string0> milikmu
+jika sudah tiba waktunya.<wait>
 <------------------------------------------------------->
 [0790]
-Very good. This is the Adamantite and payment I need for
-the job.<wait><page>
-Once it's finished, I will put the Mayonnaise Maker in
-your Coop, so don't worry.<wait>
+Baiklah. Ini Adamantite dan bayaran yang Aku butuhkan
+untuk pekerjaan ini.<wait><page>
+Saat sudah selesai, Aku akan mengantar Mayonnaise Maker
+nya ke rumahmu, jangan khawatir.<wait>
 <------------------------------------------------------->
 [0791]
-Very good. This is the Adamantite and payment I need for
-the job.<wait><page>
-Once it's finished, I will put the Cheese Maker in your
-Barn, so don't worry.<wait>
+Baiklah. Ini Adamantite dan bayaran yang Aku butuhkan
+untuk pekerjaan ini.<wait><page>
+Saat sudah selesai, Aku akan mengantar Cheese Makernya
+ke kandangmu, jangan khawatir.<wait>
 <------------------------------------------------------->
 [0792]
-Very good. This is the Adamantite and payment I need for
-the job.<wait><page>
-Once it's finished, I will put the Yarn Maker in your Coop,
-so don't worry.<wait>
+Baiklah. Ini Adamantite dan bayaran yang Aku butuhkan
+untuk pekerjaan ini.<wait><page>
+Saat sudah selesai, Aku akan mengantar Yarn Makernya ke
+kandang ayammu, jangan khawatir.<wait>
 <------------------------------------------------------->
 [0793]
-Very good. This is the Adamantite and payment I need for
-the job.<wait><page>
-Once it's finished, I will put the Yarn Maker in your Barn,
-so don't worry.<wait>
+Baiklah. Ini Adamantite dan bayaran yang Aku butuhkan
+untuk pekerjaan ini.<wait><page>
+Saat sudah selesai, Aku akan mengantar Yarn Makernya ke
+kandang ternakmu, jangan khawatir.<wait>
 <------------------------------------------------------->
 [0794]
-Very good. This is the Adamantite and payment I need for
-the job.<wait><page>
-Once it's finished, I will put the Jam Maker in your house,
-so don't worry.<wait>
+Baiklah. Ini Adamantite dan bayaran yang Aku butuhkan
+untuk pekerjaan ini.<wait><page>
+Saat sudah selesai, Aku akan mengantar Jam Makernya ke
+rumahmu, jangan khawatir.<wait>
 <------------------------------------------------------->
 [0795]
-Very good. This is the Adamantite and payment I need for
-the job.<wait><page>
-Once it's finished, I will put the Butter Maker in your
-Barn, so don't worry.<wait>
+Baiklah. Ini Adamantite dan bayaran yang Aku butuhkan
+untuk pekerjaan ini.<wait><page>
+Saat sudah selesai, Aku akan mengantar Butter Makernya ke
+kandang ternakmu, jangan khawatir.<wait>
 <------------------------------------------------------->
 [0796]
 EXP
 <------------------------------------------------------->
 [0797]
-Undergoing
+Sdg berlangsung
 Work
 <------------------------------------------------------->
 [0798]
-Owned
+Sdh punya
 <------------------------------------------------------->
 [0799]
-Material Cost
+Biaya Material
 <------------------------------------------------------->
 [0800]
-Handed over the <string0> and
-<string1> for the <string2> commission.<wait>
+Menyerahkan <string0> dan
+<string1> sebagai komisi <string2>.<wait>
 <------------------------------------------------------->
 [0801]
-That tool ain't ready to be upgraded.<wait>
+Alat belum siap untuk diupgrade.<wait>
 <------------------------------------------------------->
 [0802]
-You don't have the necessary ore to upgrade that tool.
-You can get some in the Spring Mine.<wait>
+Kamu tidak punya ore yang dibutuhkan. Kamu bisa mendapat
+kannya di tambang dekat pemandian air panas.<wait>
 <------------------------------------------------------->
 [0803]
-It looks like you don't have the
-<string0> <string1> on
-you. Bring the tool you want upgraded.<wait>
+Sepertinya Kamu tidak membawa
+<string0> <string1>.
+Bawa alat yang ingin Kamu upgrade.<wait>
 <------------------------------------------------------->
 [0804]
-Hey, looks like you don't have any ore that I can process.
-If you're lookin' for some, check out the Spring Mine.<wait>
+Hei, sepertinya Kamu tidak punya ore yang harus Aku olah.
+Jika Kamu ingin mencarinya. Kamu bisa mengunjungi tambang
+di dekat pemandian air panas.<wait>
 <------------------------------------------------------->
 [0805]
-Request this addition?
+Lanjutkan?
 <------------------------------------------------------->
 [0806]
-Constructing
+Sdg dibangun
 <------------------------------------------------------->
 [0807]
-Required Materials
+Material yang dibutuhkan
 <------------------------------------------------------->
 [0808]
 ------G
 <------------------------------------------------------->
 [0809]
-Hey, you don't got enough Lumber.<wait>
+Hei. Kayumu tidak cukup.<wait>
 <------------------------------------------------------->
 [0810]
-Hey, you don't got enough Material Stone.<wait>
+Hei. Material Stone mu tidak cukup.<wait>
 <------------------------------------------------------->
 [0811]
-Hmmm... It'll take <string0> until I'm
-finished. That okay?<wait>
+Hmmm... Waktu yang dibuthkan adalah <string0> hari,
+ok?<wait>
 <------------------------------------------------------->
 [0812]
-Then I'll start workin' on it first thing tomorrow.<wait>
+Baiklah, Aku akan mulai bekerja besok.<wait>
 <------------------------------------------------------->
 [0813]
-Hey, you don't got enough gold.<wait>
+Hei. Uangmu tidak cukup.<wait>
 <------------------------------------------------------->
 [0814]
-Hey, looks like you can't hold anythin' else.<wait>
+Hei. Sepertinya bawaanmu sudah terlalu banyak.<wait>
 <------------------------------------------------------->
 [0815]
-Need anythin' else?<wait>
+Butuh yang lain?<wait>
 <------------------------------------------------------->
 [0816]
-Sorry. Can't take on another job till I've finished the one
-I'm doin'. That's just my way.<wait>
+Maaf. Aku tidak bisa mengerjakan dua permintaan sekaligus.
+Itulah prinsipku.<wait>
 <------------------------------------------------------->
 [0817]
-That's exactly like what you've got.<wait>
+Persis seperti yang Kamu inginkan.<wait>
 <------------------------------------------------------->
 [0818]
-Hey, looks like you can't plant any more.<wait>
+Hei. Sepertinya Kamu tidak bisa menanam lagi.<wait>
 <------------------------------------------------------->
 [0819]
 
@@ -2706,40 +2740,40 @@ Hey, looks like you can't plant any more.<wait>
 
 <------------------------------------------------------->
 [0828]
-Buy animals
+Beli Ternak
 <------------------------------------------------------->
 [0829]
-Buy kits and goods
+Beli Alat dan Barang
 <------------------------------------------------------->
 [0830]
-Sell animals
+Jual Ternak
 <------------------------------------------------------->
 [0831]
-Buy animals
+Beli Hewan
 <------------------------------------------------------->
 [0832]
-Buy kits and goods
+Beli Alat dan Barang
 <------------------------------------------------------->
 [0833]
-Sell animals
+Jual Hewan
 <------------------------------------------------------->
 [0834]
-Upgrade tools
+Upgrade Alat
 <------------------------------------------------------->
 [0835]
-Buy tools
+Beli Alat
 <------------------------------------------------------->
 [0836]
 Commissions
 <------------------------------------------------------->
 [0837]
-Renovations
+Renovasi
 <------------------------------------------------------->
 [0838]
-Buy
+Beli
 <------------------------------------------------------->
 [0839]
-Nothing
+kosong
 <------------------------------------------------------->
 [0840]
 
@@ -2769,16 +2803,16 @@ Nothing
 
 <------------------------------------------------------->
 [0849]
-Van's Store
+Toko Van
 <------------------------------------------------------->
 [0850]
-Pet Shop
+Toko Hewan
 <------------------------------------------------------->
 [0851]
-Your Current Pets
+Hewanmu Saat Ini
 <------------------------------------------------------->
 [0852]
-Choose this one?
+Pilih Yang ini?
 <------------------------------------------------------->
 [0853]
 
@@ -2859,18 +2893,18 @@ Choose this one?
 
 <------------------------------------------------------->
 [0879]
-Go home and check your Record Player.
-The music's all there!<wait>
+Pulanglah dan periksa pemutar musikmu. Semuanya ada
+di sana!<wait>
 <------------------------------------------------------->
 [0880]
-Your current house is too small to keep more than
-one pet.<wait><page>
-You may have room for more once you expand your house.<wait>
+Rumahmu saat ini terlalu kecil untuk merawat hewan yang
+lebih dari satu.<wait><page>
+Kamu harus memperbesar rumahmu terlebih dahulu.<wait>
 <------------------------------------------------------->
 [0881]
-Your current house is too small to keep more than
-three pets.<wait><page>
-You may have room for more once you expand your house.<wait>
+Rumahmu saat ini terlalu kecil untuk merawat hewan yang
+lebih dari tiga.<wait><page>
+Kamu harus memperbesar rumahmu terlebih dahulu<wait>
 <------------------------------------------------------->
 [0882]
 
@@ -2888,11 +2922,11 @@ You may have room for more once you expand your house.<wait>
 
 <------------------------------------------------------->
 [0887]
-Hmmm... Could I ask you to come again once you've become
-a little more used to being a pet owner?<wait>
+Hmmm... Bisakah Kamu datang lagi saat sudah terbiasa
+memelihara hewan?<wait>
 <------------------------------------------------------->
 [0888]
-You cannot have any more pets.
+Kamu tidak bisa memelihara hewan lagi.
 <------------------------------------------------------->
 [0889]
 
@@ -2904,14 +2938,14 @@ You cannot have any more pets.
 Application
 <------------------------------------------------------->
 [0892]
-Choose a pet
+Pilih Hewan
 <------------------------------------------------------->
 [0893]
-You want this one?
+Kamu ingin yang ini?
 <------------------------------------------------------->
 [0894]
-You're sure you want to quit?
+Kamu yakin ingin keluar?
 <------------------------------------------------------->
 [0895]
-Hey, I can't do that with what you've got.<wait>
+Hei. Aku tidak bisa mengerjakan permintaanmu.<wait>
 <------------------------------------------------------->

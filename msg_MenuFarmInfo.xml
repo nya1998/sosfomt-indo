@@ -4,13 +4,13 @@ TOTAL_STRING:0039
 <myfarmname> Farm
 <------------------------------------------------------->
 [0001]
-Year %d
+Tahun %d
 <------------------------------------------------------->
 [0002]
 <playername>
 <------------------------------------------------------->
 [0003]
-Family
+Keluarga
 <------------------------------------------------------->
 [0004]
 %d
@@ -28,7 +28,7 @@ Family
 －－－
 <------------------------------------------------------->
 [0009]
-Field Level %d
+Level Kebun: %d
 <------------------------------------------------------->
 [0010]
 EMenuFarmInfo_UI_011
@@ -61,46 +61,46 @@ EMenuFarmInfo_UI_019
 EMenuFarmInfo_UI_020
 <------------------------------------------------------->
 [0020]
-Novice Farmer
+Petani Pemula
 <------------------------------------------------------->
 [0021]
-Trainee Farmer
+Petani Trainee
 <------------------------------------------------------->
 [0022]
-Fledgling Farmer
+Petani Muda
 <------------------------------------------------------->
 [0023]
-Amateur Farmer C Rank
+Petani Amatir Peringkat C
 <------------------------------------------------------->
 [0024]
-Amateur Farmer B Rank
+Petani Amatir Peringkat B
 <------------------------------------------------------->
 [0025]
-Amateur Farmer A Rank
+Petani Amatir Peringkat A
 <------------------------------------------------------->
 [0026]
-Amateur Farmer S Rank
+Petani Amatir Peringkat S
 <------------------------------------------------------->
 [0027]
-Veteran Farmer C Rank
+Petani Veteran Peringkat C
 <------------------------------------------------------->
 [0028]
-Veteran Farmer B Rank
+Petani Veteran Peringkat B
 <------------------------------------------------------->
 [0029]
-Veteran Farmer A Rank
+Petani Veteran Peringkat A
 <------------------------------------------------------->
 [0030]
-Veteran Farmer S Rank
+Petani Veteran Peringkat S
 <------------------------------------------------------->
 [0031]
-Expert Farmer
+Petani Ahli
 <------------------------------------------------------->
 [0032]
-Master Farmer
+Petani Master
 <------------------------------------------------------->
 [0033]
-Legendary Farmer
+Petani Legend
 <------------------------------------------------------->
 [0034]
 Demi-Divinity Farmer

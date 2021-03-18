@@ -2,116 +2,113 @@ TOTAL_STRING:0073
 *******************************
 [0000]
 [Giant Boulder]
-At least a LV 5 Hammer charge is needed to break this.<wait>
+Buth Hammer Lv. 5 Untuk menghancurkannya.<wait>
 <------------------------------------------------------->
 [0001]
 [Big Rock]
-At least a LV 2 Hammer charge is needed to break this.<wait>
+Buth Hammer Lv. 2 Untuk menghancurkannya.<wait>
 <------------------------------------------------------->
 [0002]
 [Boulder]
-At least a LV 3 Hammer charge is needed to break this.<wait>
+Buth Hammer Lv. 3 Untuk menghancurkannya.<wait>
 <------------------------------------------------------->
 [0003]
 [Stump]
-At least a LV 2 Axe charge is needed to chop this up.<wait>
+Buth Axe Lv. 2 Untuk memotongnya.<wait>
 <------------------------------------------------------->
 [0004]
 [Stubborn Stump]
-At least a LV 4 Axe charge is needed to chop this up.<wait>
+Buth Axe Lv. 4 Untuk memotongnya.<wait>
 <------------------------------------------------------->
 [0005]
-Uh-oh. My Basket is full...<wait>
+Keranjanganya sudah penuh...<wait>
 <------------------------------------------------------->
 [0006]
-Fished up <string0>!<wait>
+Menangkap <string0>!<wait>
 <------------------------------------------------------->
 [0007]
-Fished up <string0>!
-It's <string1>cm long.<wait>
+Menangkap <string0>!
+Panjanganya <string1>cm.<wait>
 <------------------------------------------------------->
 [0008]
-Fished up <string0>!
-It's <string1>m long.<wait>
+Menangkap <string0>!
+Panjanganya <string1>m.<wait>
 <------------------------------------------------------->
 [0009]
-Fished up <string0>!
-It's <string1>m <string2>cm long.<wait>
+Menangkap <string0>!
+Panjanganya <string1>m <string2>cm.<wait>
 <------------------------------------------------------->
 [0010]
-Oh wow! A Guardian-class fish!!!<wait>
+Ikan kelas guardian!!!<wait>
 <------------------------------------------------------->
 [0011]
-Wow! This is the biggest <string0>
-I've caught yet!<wait>
+Ini adalah <string0> terbesar
+yang pernah aku tangkap!<wait>
 <------------------------------------------------------->
 [0012]
-Aww... It got away.<wait>
+Aww... Terlepas.<wait>
 <------------------------------------------------------->
 [0013]
-There's a recipe written on the letter!<wait>
+Ada sebuah resep tertulis di sini!<wait>
 <------------------------------------------------------->
 [0014]
-Pan paka paaan! You've just caught your 10,000th fish!<wait><page>
-Congratulations!!! ...What? Yes, that's it.<wait><page>
-No, there isn't any special prize. That's really all you get.
-Be grateful I did my special cheer for you. Bye!<wait>
+Pan paka paaan! Kamu sudah menangkap 10.000 ikan!<wait><page>
+Selamat!!! ...Apa? Ya, itu dia.<wait><page>
+Tidak ada hadiah khusus. Mungkin itu saja. Selamat
+atas pencapaiannya. Sampai jumpa!<wait>
 <------------------------------------------------------->
 [0015]
-Pan paka paaan! You've just caught your 100,000th fish!<wait><page>
-Congratulations!!! ...What? Yes, that's it.<wait><page>
-No, there isn't any special prize. That's really all you get.
-Be grateful I did my special cheer for you. Bye!<wait>
+Pan paka paaan! Kamu sudah menangkap 100.000 ikan!<wait><page>
+Selamat!!! ...Apa? Ya, itu dia.<wait><page>
+Tidak ada hadiah khusus. Mungkin itu saja. Selamat
+atas pencapaiannya. Sampai jumpa!<wait>
 <------------------------------------------------------->
 [0016]
-Pan paka paaan! You've just caught your 1,000,000th fish!<wait><page>
-Congratulations!!! ...What? Yes, that's it.<wait><page>
-No, there isn't any special prize. That's really all you get.
-Be grateful I did my special cheer for you. Bye!<wait>
+Pan paka paaan! Kamu sudah menangkap 1.000.000 ikan!<wait><page>
+Selamat!!! ...Apa? Ya, itu dia.<wait><page>
+Tidak ada hadiah khusus. Mungkin itu saja. Selamat
+atas pencapaiannya. Sampai jumpa!<wait>
 <------------------------------------------------------->
 [0017]
-Pan paka paaan! You've just caught your 10,000,000th
-fish!<wait><page>
-Congratulations!!! ...What? Yes, that's it.<wait><page>
-No, there isn't any special prize. That's really all you get.
-Be grateful I did my special cheer for you. Bye!<wait>
+Pan paka paaan! Kamu sudah menangkap 10.000.000 ikan!<wait><page>
+Selamat!!! ...Apa? Ya, itu dia.<wait><page>
+Tidak ada hadiah khusus. Mungkin itu saja. Selamat
+atas pencapaiannya. Sampai jumpa!<wait>
 <------------------------------------------------------->
 [0018]
-Pan paka paaan! You've just caught your 100,000,000th
-fish!<wait><page>
-Congratulations!!! ...What? Yes, that's it.<wait><page>
-No, there isn't any special prize. That's really all you get.
-Be grateful I did my special cheer for you. Bye!<wait>
+Pan paka paaan! Kamu sudah menangkap 100.000.000 ikan!<wait><page>
+Selamat!!! ...Apa? Ya, itu dia.<wait><page>
+Tidak ada hadiah khusus. Mungkin itu saja. Selamat
+atas pencapaiannya. Sampai jumpa!<wait>
 <------------------------------------------------------->
 [0019]
-Pan paka paaan! You've just caught your 1,000,000,000th
-fish!<wait><page>
-Congratulations!!! ...What? Yes, that's it.<wait><page>
-No, there isn't any special prize. That's really all you get.
-Be grateful I did my special cheer for you. Bye!<wait>
+Pan paka paaan! Kamu sudah menangkap 1.000.000.000 ikan!<wait><page>
+Selamat!!! ...Apa? Ya, itu dia.<wait><page>
+Tidak ada hadiah khusus. Mungkin itu saja. Selamat
+atas pencapaiannya. Sampai jumpa!<wait>
 <------------------------------------------------------->
 [0020]
-Pan paka paaan! As of right now, you've caught at least
-one of every kind of fish there is!<wait><page>
-Congratulations!!! ...What? Yes, that's it.<wait><page>
-No, there isn't any special prize. That's really all you get.
-Be grateful I did my special cheer for you. Bye!<wait>
+Pan paka paaan! Kamu sudah menangkap semua
+jenis ikan yang ada!<wait><page>
+Selamat!!! ...Apa? Ya, itu dia.<wait><page>
+Tidak ada hadiah khusus. Mungkin itu saja. Selamat
+atas pencapaiannya. Sampai jumpa!<wait>
 <------------------------------------------------------->
 [0021]
-If you're here, that means you aren't on
-Spring Mine BF1 or Lake Mine BF1!<wait>
+Jika kamu disini, itu artinya kamu tidak
+di Spring Mine BF1 atau Lake Mine BF1!<wait>
 <------------------------------------------------------->
 [0022]
-Go down?
+Turun Kebawah?
 <------------------------------------------------------->
 [0023]
-Yes
+Ya
 <------------------------------------------------------->
 [0024]
-No
+Tidak
 <------------------------------------------------------->
 [0025]
-Oops... It's morning now.<wait>
+Oops... Sudah pagi ternyata.<wait>
 <------------------------------------------------------->
 [0026]
 Spring Mine BF<string0><wait>
@@ -120,29 +117,29 @@ Spring Mine BF<string0><wait>
 Lake Mine BF<string0><wait>
 <------------------------------------------------------->
 [0028]
-Return to the surface?
+Kembali ke permukaan?
 <------------------------------------------------------->
 [0029]
-I think it's time for the birth!<wait>
+Sepertinya sudah waktunya!<wait>
 <------------------------------------------------------->
 [0030]
-A chick has hatched! I'd better give it a name.<wait>
+Sudah menetas! Aku harus memberinya nama.<wait>
 <------------------------------------------------------->
 [0031]
-A calf was born! I'd better give it a name.<wait>
+Seekor anak sapi! Aku harus memberinya nama.<wait>
 <------------------------------------------------------->
 [0032]
-A lamb was born! I'd better give it a name.<wait>
+Seekor anak domba! Aku harus memberinya nama.<wait>
 <------------------------------------------------------->
 [0033]
 A kit was born! I'd better give it a name.<wait>
 <------------------------------------------------------->
 [0034]
-A cria was born! I'd better give it a name.<wait>
+Seekor anak kria! Aku harus memberinya nama.<wait>
 <------------------------------------------------------->
 [0035]
-My family just got a little bit bigger. I have to keep
-working hard to take good care of everyone.<wait>
+Anggota di kebunku semakin ramai. Aku harus
+bekerja lebih giat lagi.<wait>
 <------------------------------------------------------->
 [0036]
 [UNUSED SKIP]
@@ -160,103 +157,103 @@ working hard to take good care of everyone.<wait>
 [UNUSED SKIP]
 <------------------------------------------------------->
 [0041]
-Oops...! I overslept.<wait>
+Aku ketiduran.<wait>
 <------------------------------------------------------->
 [0042]
-Yay! The hex on the Cursed Hammer has been dispelled!<wait>
+Yay! Kutukan pada Cursed Hammer sudah dihilangkan!<wait>
 <------------------------------------------------------->
 [0043]
-Yay! The hex on the Cursed Sickle has been dispelled!<wait>
+Yay! Kutukan pada Cursed Sickle sudah dihilangkan!<wait>
 <------------------------------------------------------->
 [0044]
-Yo! I'm here t'pick up the stuff in your Shipping Bin.<wait>
+Yo! Aku kemari untuk memeriksa kotak pengiriman.<wait>
 <------------------------------------------------------->
 [0045]
-Whoa! Shippin' a lot today, eh? Good, good! Keep it up!<wait>
+Whoa! Kamu Bekerja keras, ya? Pertahankan ini!<wait>
 <------------------------------------------------------->
 [0046]
-What, don't got nothin' for me today?<wait>
+Apa? Tidak ada apapun di sini?<wait>
 <------------------------------------------------------->
 [0047]
-How 'bout ya try raisin' some chickens? Treat 'em right
-an' they'll give ya fresh Eggs every day!<wait>
+Bagaimana kalau kamu coba rawat seekor ayam?
+Mereka akan menghasilkan telur jika dirawat dengan baik!<wait>
 <------------------------------------------------------->
 [0048]
-How 'bout ya try raisin' some cows? Treat 'em right an'
-when they're grown, they'll give ya fresh Milk!<wait>
+Bagaimana kalau kamu coba rawat seekor sapi?
+Mereka akan menghasilkan susu jika dirawat dengan baik!<wait>
 <------------------------------------------------------->
 [0049]
-How 'bout ya try raisin' some sheep? Treat 'em right an'
-when they're grown, they'll give ya good Wool!<wait>
+Bagaimana kalau kamu coba rawat seekor domba?
+Mereka akan menghasilkan wool jika sudah besar!<wait>
 <------------------------------------------------------->
 [0050]
-Didja know ya can sell ores an' jewels? How 'bout ya try
-diggin' for some in the mines sometime?<wait>
+Kamu juga bisa menjual hasil tambang, kamu tau?
+Lain kali cobalah menambang.<wait>
 <------------------------------------------------------->
 [0051]
-Y'know ya can reach the Lake Mine in winter, right?
-I hear there's some rare stuff down there. Give it
-a look, yeah?<wait>
+Tambang di tengah danau hanya bisa di akses
+saat musim dingin, bukan? Aku dengar ada logam langka
+di sana, perlihatkan padaku jika kamu menemukannya.<wait>
 <------------------------------------------------------->
 [0052]
-Ya know ya can find stuff just lyin' on the ground in the
-woods, right? How 'bout ya try foragin' sometime?<wait>
+Kamu pernah melihat buah atau tanaman di hutan? Itu bisa
+diambil. Aku sarankan kamu mengumpulkannya lain kali.<wait>
 <------------------------------------------------------->
 [0053]
-Ever think of raisin' some crops? The General Store has
-all kinds of seeds for sale.<wait>
+Kamu ingin menanam tanaman? General Store juga
+menjual bibit tanaman, kamu tau.<wait>
 <------------------------------------------------------->
 [0054]
-Ever think of goin' fishin' sometime? Fish can be shipped
-for good money, y'know.<wait>
+Kamu ingin pergi memancing? Ikan punya harga
+yang lumayan, kamu tau.<wait>
 <------------------------------------------------------->
 [0055]
-Yay! The hex on the Cursed Hoe has been dispelled!<wait>
+Yay! Kutukan pada Cursed Hoe sudah dihilangkan!<wait>
 <------------------------------------------------------->
 [0056]
-Yay! The hex on the Cursed Watering Can has been
-dispelled!<wait>
+Yay! Kutukan pada Cursed Watering Can sudah
+dihilangkan!<wait>
 <------------------------------------------------------->
 [0057]
-Yay! The hex on the Cursed Axe has been dispelled!<wait>
+Yay! Kutukan pada Cursed Axe sudah dihilangkan!<wait>
 <------------------------------------------------------->
 [0058]
-Yay! The hex on the Cursed Fishing Rod has been
-dispelled!<wait>
+Yay! Kutukan pada Cursed Fishing Rod
+sudah dihilangkan!<wait>
 <------------------------------------------------------->
 [0059]
-Currently have <string0>.
-Submit bug report.
+Kamu punya <string0>.
+Kirim Laporan Bug.
 <------------------------------------------------------->
 [0060]
-It doesn't look like I can use the Travel Stone here...<wait>
+Sepertinya Travel Stone tidak bisa ke tempat ini...<wait>
 <------------------------------------------------------->
 [0061]
-It doesn't look like I can go outside right now...<wait>
+Aku tidak bisa keluar sekarang...<wait>
 <------------------------------------------------------->
 [0062]
-Woo-hoo! My Sickle went up a level!
-Now I can upgrade it at the Forge!
+Woo-hoo! Level Sickle ku betambah!
+Aku bisa mengupgradenya sekarang!
 <------------------------------------------------------->
 [0063]
-Woo-hoo! My Hoe went up a level!
-Now I can upgrade it at the Forge!
+Woo-hoo! Level Hoe ku betambah!
+Aku bisa mengupgradenya sekarang!
 <------------------------------------------------------->
 [0064]
-Woo-hoo! My Axe went up a level!
-Now I can upgrade it at the Forge!
+Woo-hoo! Level Axe ku betambah!
+Aku bisa mengupgradenya sekarang!
 <------------------------------------------------------->
 [0065]
-Woo-hoo! My Hammer went up a level!
-Now I can upgrade it at the Forge!
+Woo-hoo! Level Hammer ku betambah!
+Aku bisa mengupgradenya sekarang!
 <------------------------------------------------------->
 [0066]
-Woo-hoo! My Watering Can went up a level!
-Now I can upgrade it at the Forge!
+Woo-hoo! Level Watering Can ku betambah!
+Aku bisa mengupgradenya sekarang!
 <------------------------------------------------------->
 [0067]
-Woo-hoo! My Fishing Rod went up a level!
-Now I can upgrade it at the Forge!
+Woo-hoo! Level Fishing Rod ku betambah!
+Aku bisa mengupgradenya sekarang!
 <------------------------------------------------------->
 [0068]
 

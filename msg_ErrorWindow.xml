@@ -1,35 +1,38 @@
 TOTAL_STRING:0010
 *******************************
 [0000]
-Uh-oh! My Bag is full. There's no space left
-for me to put this in.
+Oh tidak! Ranselku penuh.
 <------------------------------------------------------->
 [0001]
-Uh-oh! The Tool Pocket in my Bag is full.
-There isn't any space for me to put this in.
+Oh tidak! Ruang peralatan di
+ranselku penuh..
 <------------------------------------------------------->
 [0002]
-Whoa, Nelly! I can't go inside while I'm still on my horse.
+Aku tidak bisa masuk jika masih
+di atas kuda.
 <------------------------------------------------------->
 [0003]
-This must be something that my pet brought in.
+Ini pasti peliharaanku yang
+membawanya.
 <------------------------------------------------------->
 [0004]
-I can't ship this.
+Ini tidak bisa dikirim.
 <------------------------------------------------------->
 [0005]
-Found %ls!
+Aku menemukan %ls!
 <------------------------------------------------------->
 [0006]
-Uh-oh! My Bag is full. Since there's no space
-for fish, I can't go fishing.
+Oh tidak! Ranselku penuh. Jadi Aku tidak bisa memancing
 <------------------------------------------------------->
 [0007]
-Uh-oh! It looks like I can't dismount here.
+Sepertinya aku tidak bisa turun
+di sini.
 <------------------------------------------------------->
 [0008]
-I can't eat now.
+Aku tidak bisa makan ini
+sekarang.
 <------------------------------------------------------->
 [0009]
-I can't place more than this.
+Sepertinya ini sudah terlalu
+banyak.
 <------------------------------------------------------->

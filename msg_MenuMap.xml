@@ -4,55 +4,55 @@ TOTAL_STRING:0126
 <myfarmname> Farm
 <------------------------------------------------------->
 [0001]
-Mountain Villa
+Villa Gunung
 <------------------------------------------------------->
 [0002]
-Beach Villa
+Villa Pantai
 <------------------------------------------------------->
 [0003]
-Town Villa
+Villa Kota
 <------------------------------------------------------->
 [0004]
-Basil's House
+Rumah Basil
 <------------------------------------------------------->
 [0005]
-Library
+Perpustakaan
 <------------------------------------------------------->
 [0006]
-Ellen's House
+Rumah Ellen
 <------------------------------------------------------->
 [0007]
-Mayor's House
+Rumah Walikota
 <------------------------------------------------------->
 [0008]
 General Store
 <------------------------------------------------------->
 [0009]
-Clinic
+Klinik
 <------------------------------------------------------->
 [0010]
-Church
+Gereja
 <------------------------------------------------------->
 [0011]
-Adge Winery
+Kilang Anggur Adge
 <------------------------------------------------------->
 [0012]
-Cellar
+Gedung Bawah Tanah
 <------------------------------------------------------->
 [0013]
-Inn
+Penginapan
 <------------------------------------------------------->
 [0014]
-Nature Sprites' Hut
+Pondok Nature Sprites
 <------------------------------------------------------->
 [0015]
-Zack's House
+Rumah Zack
 <------------------------------------------------------->
 [0016]
-Beach Cafe
+Restoran Tepi Pantai
 <------------------------------------------------------->
 [0017]
-Forge
+Pandai Besi
 <------------------------------------------------------->
 [0018]
 Yodel Ranch
@@ -61,52 +61,52 @@ Yodel Ranch
 PoPoultry
 <------------------------------------------------------->
 [0020]
-Workshop
+Tukang Kayu
 <------------------------------------------------------->
 [0021]
-Spring Mine
+Tambang Air Terjun
 <------------------------------------------------------->
 [0022]
-Lake Mine
+Tambang Danau
 <------------------------------------------------------->
 [0023]
-Hot Spring
+Pemandian Air Panas
 <------------------------------------------------------->
 [0024]
-Northside
+Sisi Utara
 <------------------------------------------------------->
 [0025]
-Church Rear
+Belakang Gereja
 <------------------------------------------------------->
 [0026]
 Rose Plaza
 <------------------------------------------------------->
 [0027]
-Mineral Beach
+Pantai Mineral
 <------------------------------------------------------->
 [0028]
-Southside
+Bagian Selatan
 <------------------------------------------------------->
 [0029]
-Forest
+Hutan
 <------------------------------------------------------->
 [0030]
-Mother's Hill Summit
+Puncak Mother's Hill
 <------------------------------------------------------->
 [0031]
 Mother's Hill
 <------------------------------------------------------->
 [0032]
-Jennifer's Tent
+Tenda Jennifer
 <------------------------------------------------------->
 [0033]
-Secret Forest 
+Hutan Rahasia 
 <------------------------------------------------------->
 [0034]
-Spring
+Pemandian Air Panas
 <------------------------------------------------------->
 [0035]
-Empty Plot
+Lahan Kosong
 <------------------------------------------------------->
 [0036]
 
@@ -121,182 +121,180 @@ Empty Plot
 
 <------------------------------------------------------->
 [0040]
-This is my farm.
+Ini kebunku.
 <------------------------------------------------------->
 [0041]
-It was a present on our 50th wedding anniversary.
+Hadiah ulang tahun pernikahan yang ke 50.
 <------------------------------------------------------->
 [0042]
-The Harvest Goddess gave this to me as a present.
-Living here feels like staying in a beachside resort!
+Harvest Goddess memberikan ini padaku.
+Tinggal di sini membuatku seperti di resort!
 <------------------------------------------------------->
 [0043]
-I bought this for 100,000,000G. I decided to splurge
-on a present to myself.
+Aku membelinya seharga 100.000.000
+sebagai hadiah untuk diriku sendiri.
 <------------------------------------------------------->
 [0044]
-Marie lives here with her mother, Anna, and her
-father, Basil. Basil is a botanist.
+Marie tinggal di sini bersama ibunya, Anna.
+Dan juga dengan ayahnya, Basil. Dia seorang ahli
+botani.
 <------------------------------------------------------->
 [0045]
-They have sooooo many books! I can learn a lot of
-useful information here, so I'd better check back
-often.
+Mereka punya banyaaak buku. Mungkin lain
+kali aku harus mampir di sana.
 
-Hours: 10:00 AM - 4:00 PM
-Closed Mondays & Holidays
+Jadwal Buka: 10:00 AM - 4:00 PM
+Senin dan Hari Libur Tutup
 <------------------------------------------------------->
 [0046]
-Elly lives here with her little brother, Yu, and her
-grandmother, Ellen.
+Elly tinggal di sini bersama adiknya, Yu. Bersama
+neneknya, Ellen.
 <------------------------------------------------------->
 [0047]
-Mayor Thomas lives here with his son,
+Mayor Thomas tinggal di sini bersama anaknya,
 Officer Harris.
 <------------------------------------------------------->
 [0048]
-They sell lots of useful stuff here, like seeds and
-cooking ingredients. Their inventory changes
-seasonally too.
+Mereka menjual berbagai jenis barang di
+sini, produknya juga berganti setiap musim.
 
-Hours: 9:00 AM - 5:00 PM
-Closed Tues, Sun & Holidays
+Jadwal Buka: 9:00 AM - 5:00 PM
+Selasa, Minggu dan Hari Libur Tutup
 <------------------------------------------------------->
 [0049]
-Doctor's clinic. I can buy medicine here or get an
-exam if I'm not feeling well.
+Klinik Dokter. Aku bisa membeli obat dan memeriksa
+kesehatanku di sini.
 
-Hours: 9:00 AM - 4:00 PM
-Closed Wednesdays & Holidays
+Jadwal Buka: 9:00 AM - 4:00 PM
+Rabu dan Hari Libur Tutup
 <------------------------------------------------------->
 [0050]
-Father Carter presides here. If I ever feel guilty
-about something, I can go to the Confessional and
-confide in him.
+Pendeta Carter tinggal di sini. Aku bisa menebus
+kesalahkanku di sini.
 
-Hours: 10:00 AM - 7:00 PM
-Closed on Holidays
+Jadwal Buka: 10:00 AM - 7:00 PM
+Hari Libur Tutup
 <------------------------------------------------------->
 [0051]
-Duke and Manna live here. They sell lots of
-grape-related things.
+Duke dan Manna tinggal di sini. Mereka
+menjual banyak produk berbahan anggur.
 
-Hours: 10:00 AM - 12:00 PM
-Closed Saturdays & Holidays
+Jadwal Buka: 10:00 AM - 12:00 PM
+Sabtu dan Hari Libur Tutup
 <------------------------------------------------------->
 [0052]
-A whooole lot of wine is stored down here.
+Semuua Wine di simpan di sini.
 <------------------------------------------------------->
 [0053]
-An inn run by Ran and her dad, Dudley, that also
-sells food and drinks. Gray, Cliff, and Jennifer stay
-there.
+Penginapan yang dikelola oleh ayah ran,
+Dudley. Mereka juga menjual makanan dan minuman.
+Gray, Cliff, dan Jennifer tinggal di sini.
 
-Hours: 8:00 AM - 9:00 PM
-Closed on Holidays
+Jadwal Buka: 8:00 AM - 9:00 PM
+Hari Libur Tutup
 <------------------------------------------------------->
 [0054]
-Follow the road past the Church and you'll come
-across this little hut. I wonder who lives here?
+Ikuti jalan di samping gereja, maka
+kamu akan menemukan sebuah pondok. Kira-kira
+siapa yang tinggal di sana?
 <------------------------------------------------------->
 [0055]
-Zack, the shipper, lives here. Huang, a merchant,
-rents space from him and sells his goods here as
-well.
+Zack si kurir tinggal di sini. Huang menyewa
+beberapa petak di sini. Dia juga menjual beberapa
+barang di sini.
 
-Hours: 11:00 AM - 4:00 PM
-Closed on Holidays
+Jadwal Buka: 11:00 AM - 4:00 PM
+Hari Libur Tutup
 <------------------------------------------------------->
 [0056]
-A little cafe open only during the summer.
+Restoran yang hanya buka saat musim panas.
 
-Hours: 11:00 AM - 1:00 PM
-               5:00 PM - 7:00 PM
-Closed on Sundays & Holidays
+Jadwal Buka: 11:00 AM - 1:00 PM
+              5:00 PM - 7:00 PM
+Minggu dan Hari Libur Tutup
 <------------------------------------------------------->
 [0057]
-Saibara, Gray's grandfather, lives here. If I give him
-ore, he can make all sorts of things. Gray comes here
-to train.
+Saibara, kakeknya Gray tinggal di sini. Dia akan
+memberimu benda luar biasa jika kamu memberinya
+beberapa jenis hasil tambang. Gray berlatih di sini.
 
-Hours: 10:00 AM - 4:00 PM
+Jadwal Buka: 10:00 AM - 4:00 PM
 Closed Thursdays & Holidays
 <------------------------------------------------------->
 [0058]
-Mugi and his granddaughter, Mei, live here.
-They have cows, sheep, and alpacas for sale.
+Mugi dan cucunya, Mei, tinggal di sini.
+Mereka menjual Sapi, Domba, dan Alpacas.
 
-Hours: 10:00 AM - 3:00 PM
+Jadwal Buka: 10:00 AM - 3:00 PM
 Closed Mondays & Holidays
 <------------------------------------------------------->
 [0059]
-Rick, Popuri, and their mother, Lillia, live and work
-here. In their shop they sell chickens and Angora
-rabbits.
+Rick, Popuri dan ibunya, Lillia tinggal dan
+bekerja di sini. Mereka menjual Ayam dan
+Kelinci Angora.
 
-Hours: 11:00 AM - 4:00 PM
+Jadwal Buka: 11:00 AM - 4:00 PM
 Closed Sundays & Holidays
 <------------------------------------------------------->
 [0060]
-Gotts lives here. He can be hired to do renovations
-and make furniture. Brandon stays with him and
-helps on occasion.
+Gotts tinggal di sini. Dia bisa diminta untuk
+merenovasi rumah dan yang lainnya. Brandon tinggal
+bersamanya dan sesekali membantunya.
 
-Hours: 11:00 AM - 4:00 PM
-Closed Saturdays
+Jadwal Buka: 11:00 AM - 4:00 PM
+Sabtu Tutup
 <------------------------------------------------------->
 [0061]
-I can dig for all sorts of interesting things in here. 
+Aku bisa menambang di sini. 
 <------------------------------------------------------->
 [0062]
-I can dig for all sorts of interesting things in here. 
+Aku bisa menambang di sini. 
 <------------------------------------------------------->
 [0063]
-This hot spring is super relaxing. A good soak in here
-will restore my Stamina and help me unwind.
+Pemandian air panas ini sangat luar biasa. Aku bisa
+memulihkan stamina dan melepaskan lelah di sini.
 <------------------------------------------------------->
 [0064]
-The General Store, the Clinic, and the Church are in
-this part of town.
+General Store, Klinik, dan gereja ada di
+bagian sini.
 <------------------------------------------------------->
 [0065]
-...I wonder if I'll ever be able to go back there.
+...Apa aku bisa pergi ke sana.
 <------------------------------------------------------->
 [0066]
-Most of the town's festivals are held here.
+Hampir semua festival diadakan di sini.
 <------------------------------------------------------->
 [0067]
-Kai opens his Beach Cafe here in the summer.
-Zack's house is here too.
+Kai membuka restorannya di sini setiap musim
+panas. Rumah Zack juga ada di sini.
 <------------------------------------------------------->
 [0068]
-Yodel Ranch, PoPoultry, and Saibara's Forge are in
-this part of town.
+Yodel Ranch, PoPoultry, dan pandai besi
+saibara ada di sini.
 <------------------------------------------------------->
 [0069]
-The Workshop is over here.
+Tukang Kayu tinggal di sini.
 <------------------------------------------------------->
 [0070]
-The view from here is really beautiful.
+Pemandangan di sini sangat indah.
 <------------------------------------------------------->
 [0071]
-Supposedly, a goddess lives in this spring...
+Katanya ada seorang dewi tinggal di sini...
 <------------------------------------------------------->
 [0072]
-Jennifer pitched her tent here so that she could
-revel in nature and the mystical energies of the
-mountain.
+Jennifer memasang tendanya di sini, sehingga
+dia bisa merasakan energi dari gunung.
 <------------------------------------------------------->
 [0073]
-A little forest between the north and south sides of
-town. It's peaceful, quiet, and there's something
-magical in the air...
+Sebuah hutan kecil yang ada di antara sisi utara dan
+sisi selatan kota. Tempatnya damai dan ada sesuatu 
+yang ajaib di sana...
 <------------------------------------------------------->
 [0074]
-A beautiful spring.
+Air terjun yang indah.
 <------------------------------------------------------->
 [0075]
-An empty plot.
+Sebuah lahan kosong.
 <------------------------------------------------------->
 [0076]
 
@@ -311,63 +309,68 @@ An empty plot.
 
 <------------------------------------------------------->
 [0080]
-Marie's parents, Basil and Anna, live here.
+Orang tua Marie, Basil dan Anna tinggal di sini.
 <------------------------------------------------------->
 [0081]
 
 <------------------------------------------------------->
 [0082]
-Elly's little brother, Yu, lives here with Ellen, their
-grandmother.
+Adiknya Elly, Yu tinggal di sini bersama
+neneknya, Ellen.
 <------------------------------------------------------->
 [0083]
 
 <------------------------------------------------------->
 [0084]
-Karen's parents, Jeff and Sasha, run this store.
-They sell stuff like seeds, cooking ingredients, and
-seasonal goods.
+Orang tua Karen, Jeff dan Sasha menjalankan toko ini.
+Mereka menjual barang seperti bibit, bahan masakan,
+dan barang musiman.
 
-Hours: 9:00 AM - 5:00 PM
-Closed Tuesdays, Sundays & Holidays
+Jadwal Buka: 9:00 AM - 5:00 PM
+Selasa, Minggu dan Hari Libur Tutup
 <------------------------------------------------------->
 [0085]
 
 <------------------------------------------------------->
 [0086]
-An inn run by Ran and her dad, Dudley, that also
-sells food and drinks. Gray and Jennifer stay there.
+Penginapan yang dijalankan oleh ayahnya Ran, Dudley.
+Mereka juga menjual makanan dan minuman.
+Gray dan Jennifer tinggal di sini.
 
-Hours: 8:00 AM - 9:00 PM
-Closed on Holidays
+Jadwal Buka: 8:00 AM - 9:00 PM
+Hari Libur Tutup
 <------------------------------------------------------->
 [0087]
-An inn run by Ran and her dad, Dudley, that also
-sells food and drinks. Cliff and Jennifer stay there.
+Penginapan yang dijalankan oleh ayahnya Ran, Dudley.
+Mereka juga menjual makanan dan minuman.
+Cliff dan Jennifer tinggal di sini.
 
-Hours: 8:00 AM - 9:00 PM
-Closed on Holidays
+Jadwal Buka: 8:00 AM - 9:00 PM
+Hari Libur Tutup
 <------------------------------------------------------->
 [0088]
-An inn run by Ran and her dad, Dudley, that also
-sells food and drinks. Jennifer stays there.
+Penginapan yang dijalankan oleh ayahnya Ran, Dudley.
+Mereka juga menjual makanan dan minuman.
+Jennifer tinggal di sini.
 
-Hours: 8:00 AM - 9:00 PM
-Closed on Holidays
+Jadwal Buka: 8:00 AM - 9:00 PM
+Hari Libur Tutup
 <------------------------------------------------------->
 [0089]
-An inn run by Ran and her dad, Dudley, that also
-sells food and drinks. Cliff and Gray stay there.
+Penginapan yang dijalankan oleh ayahnya Ran, Dudley.
+Mereka juga menjual makanan dan minuman.
+Cliff dan Gray tinggal di sini.
 
-Hours: 8:00 AM - 9:00 PM
-Closed on Holidays
+Jadwal Buka: 8:00 AM - 9:00 PM
+Hari Libur Tutup
 <------------------------------------------------------->
 [0090]
-An inn run by Ran and her dad, Dudley, that also
-sells food and drinks. Gray stays there.
+Penginapan yang dijalankan oleh ayahnya Ran, Dudley.
+Mereka juga menjual makanan dan minuman.
+Gray tinggal di sini.
 
-Hours: 8:00 AM - 9:00 PM
-Closed on Holidays
+Jadwal Buka: 8:00 AM - 9:00 PM
+Hari Libur Tutup
 <------------------------------------------------------->
 [0091]
 
@@ -376,49 +379,50 @@ Closed on Holidays
 
 <------------------------------------------------------->
 [0093]
-Follow the road past the Church and you'll come
-across this little hut where the seven Nature
-Sprites live.
+Ikuti jalan setapak di samping gereja, maka
+kamu akan menemukan gubuk kecil dimana tujuh Nature
+Spirites tinggal.
 
-Hours: 9:00 AM - 6:00 PM
+Jadwal Buka: 9:00 AM - 6:00 PM
 <------------------------------------------------------->
 [0094]
 
 <------------------------------------------------------->
 [0095]
-Huang sells goods here, but he'll also buy things
-I can't ship, like cooked dishes. I just have to name
-a price.
+Huang menjual beberapa jenis barang di sini.
+Aku juga bisa menjual barang yang tidak bisa dijual
+padanya. Seperti masakan.
 
-Hours: 11:00 AM - 4:00 PM
-Closed on Holidays
+Jadwal Buka: 11:00 AM - 4:00 PM
+Hari Libur tutup
 <------------------------------------------------------->
 [0096]
 
 <------------------------------------------------------->
 [0097]
-A little cafe originally only open during the summer
-that now serves up food all year round!
+Sebuah restoran yang awalnya hanya dibuka saat
+musim panas yang sekarang menyajikan makanan
+sepanjang tahun.
 
-Hours: 11:00 AM - 1:00 PM
+Jadwal Buka: 11:00 AM - 1:00 PM
                5:00 PM - 7:00 PM
-Closed on Holidays
+Hari Libur tutup
 <------------------------------------------------------->
 [0098]
 
 <------------------------------------------------------->
 [0099]
-Rick and his mother, Lillia, live and work here.
-In their shop they sell chickens and Angora rabbits.
+Rick dan ibunya, Lillia tinggal dan bekerja di sini.
+Mereka menjual Ayam dan Kelinci Angora.
 
-Hours: 11:00 AM - 4:00 PM
-Closed Sundays & Holidays
+Jadwal Buka: 11:00 AM - 4:00 PM
+Minggu dan Hari Libur Tutup
 <------------------------------------------------------->
 [0100]
-Popuri and her mother, Lillia, live and work here.
-In their shop they sell chickens and Angora rabbits.
+Popuri dan ibunya, Lillia tinggal dan bekerja di sini.
+Mereka menjual Ayam dan Kelinci Angora.
 
-Hours: 11:00 AM - 4:00 PM
+Jadwal Buka: 11:00 AM - 4:00 PM
 Closed Sundays & Holidays
 <------------------------------------------------------->
 [0101]
@@ -428,59 +432,59 @@ Closed Sundays & Holidays
 
 <------------------------------------------------------->
 [0103]
-Gotts lives here. He can be hired to do renovations
-and make furniture. Brandon helps on occasion.
+Gotts tinggal di sini. Dia bisa diminta untuk
+merenovasi rumah dan yang lainnya. Brandon tinggal
+bersamanya dan sesekali membantunya.
 
-Hours: 11:00 AM - 4:00 PM
-Closed Saturdays
+Jadwal Buka: 11:00 AM - 4:00 PM
+Sabtu tutup
 <------------------------------------------------------->
 [0104]
 
 <------------------------------------------------------->
 [0105]
-Father Carter's private garden.
+Kebun pribadi Pendeta Carter.
 <------------------------------------------------------->
 [0106]
 
 <------------------------------------------------------->
 [0107]
-Kai's Beach Cafe is here. Zack's house is here too.
+Restoran Musim panas Kai dan rumah Zack ada di sini.
 <------------------------------------------------------->
 [0108]
 
 <------------------------------------------------------->
 [0109]
-Jennifer pitched her tent here so that she could
-revel in nature and the mystical energies of the
-mountain. Considering how bad the weather is today,
-though, I hope she's okay...
+Jennifer memasang tendanya di sini, sehingga
+dia bisa merasakan energi dari gunung. Mengingat
+cuaca hari ini, Aku harap dia baik-baik saja...
 <------------------------------------------------------->
 [0110]
 
 <------------------------------------------------------->
 [0111]
-A little forest between the north and south sides of
-town. It's peaceful and quiet. I found a strange
-flower here once...
+Sebuah hutan kecil yang ada di antara sisi utara dan
+sisi selatan kota. Tempatnya damai. Aku menemukan
+bunga yang aneh di sini...
 <------------------------------------------------------->
 [0112]
 
 <------------------------------------------------------->
 [0113]
-A beautiful spring. If I put an offering into it,
-the Harvest Goddess will appear.
+Air terjun yang indah, Harvest Goddess akan muncul
+jika aku melemparkan sesuatu di sini.
 <------------------------------------------------------->
 [0114]
 
 <------------------------------------------------------->
 [0115]
-Use the Travel Stone?
+Gunakan Travel Stone?
 <------------------------------------------------------->
 [0116]
-I can't use the Travel Stone right now...<wait>
+Aku tidak bisa gunakan Travel Stone sekarang...<wait>
 <------------------------------------------------------->
 [0117]
-I can't go outside today...<wait>
+Aku tidak bisa keluar hari ini...<wait>
 <------------------------------------------------------->
 [0118]
 

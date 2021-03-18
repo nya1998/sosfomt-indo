@@ -1,7 +1,7 @@
 TOTAL_STRING:0322
 *******************************
 [0000]
-Farm Assets
+Aset Kebun
 <------------------------------------------------------->
 [0001]
 %d
@@ -82,43 +82,43 @@ Wnt.
 %s
 <------------------------------------------------------->
 [0027]
-Yr.%d
+Th.%d
 <------------------------------------------------------->
 [0028]
-Revenue
+Pendapatan
 <------------------------------------------------------->
 [0029]
-Expenses
+Pengeluaran
 <------------------------------------------------------->
 [0030]
-Tool Level Summary
+Level Peralatan
 <------------------------------------------------------->
 [0031]
-Upgrading
+Sdg Diupgrade
 <------------------------------------------------------->
 [0032]
-Upgradeable
+Dpt Diupgrade
 <------------------------------------------------------->
 [0033]
 %
 <------------------------------------------------------->
 [0034]
-You're good with that chicken?
+Ikut sertakan ayam ini?
 <------------------------------------------------------->
 [0035]
-You're fine with that cow?
+Ikut sertakan sapi ini?
 <------------------------------------------------------->
 [0036]
-You're fine with that animal?
+Ikut sertakan hewan ini?
 <------------------------------------------------------->
 [0037]
-Okay. Then I'll take it with me.<wait>
+Baiklah, aku akan membawanya.<wait>
 <------------------------------------------------------->
 [0038]
-All right. Then I'll take it with me.<wait>
+Baiklah, aku akan membawanya.<wait>
 <------------------------------------------------------->
 [0039]
-All right. Then I'll take it with me.<wait>
+Baiklah, aku akan membawanya.<wait>
 <------------------------------------------------------->
 [0040]
 
@@ -130,48 +130,44 @@ All right. Then I'll take it with me.<wait>
 
 <------------------------------------------------------->
 [0043]
-Chicks can't participate. Could you choose a fully grown
-chicken?\x05
+Anak ayam tidak bisa ikut lomba, bisakah kamu pilih
+ayam yang sudah dewasa?\x05
 <------------------------------------------------------->
 [0044]
-Only adult cows can participate. Choose another one.\x05
+Hanya sapi dewasa yang bisa ikut.\x05
 <------------------------------------------------------->
 [0045]
-Only adult animals can participate. Choose another
-one.\x05
+Hanya hewan dewasa yang bisa ikut.\x05
 <------------------------------------------------------->
 [0046]
-Pregnant cows can't participate. Choose another
-cow.\x05
+Sapi hamil tidak bisa ikut.\x05
 <------------------------------------------------------->
 [0047]
-Pregnant animals can't participate. Choose another
-animal.\x05
+Hewan yang hamil tidak bisa ikut.\x05
 <------------------------------------------------------->
 [0048]
-Animals that have recently been sheared can't
-participate. Choose another animal.\x05
+Hewan yang baru dicukur tidak bisa ikut.\x05
 <------------------------------------------------------->
 [0049]
-You're not participating?
+Jadi, kamu tidak ikut?
 <------------------------------------------------------->
 [0050]
-All right. So you're not participating this time.\x05
+Baiklah kalau begitu.\x05
 <------------------------------------------------------->
 [0051]
-Then could you choose a cow to participate?\x05
+Bisakah kamu memilih sapi yang akan ikut?\x05
 <------------------------------------------------------->
 [0052]
-You're not entering?
+Jadi, kamu tidak ikut?
 <------------------------------------------------------->
 [0053]
-Okay. So you're not entering this time.\x05
+Baiklah kalau begitu.\x05
 <------------------------------------------------------->
 [0054]
-Then pick a chicken to enter.\x05
+Pilihlah ayam yang akan ikut.\x05
 <------------------------------------------------------->
 [0055]
-Then could you choose an animal to participate?<wait>
+Bisakah kamu memilih hewan yang akan ikut?<wait>
 <------------------------------------------------------->
 [0056]
 
@@ -303,10 +299,10 @@ Then could you choose an animal to participate?<wait>
 
 <------------------------------------------------------->
 [0099]
-Write in Journal
+Tulis Jurnal
 <------------------------------------------------------->
 [0100]
-Read Journal
+Baca Jurnal
 <------------------------------------------------------->
 [0101]
 
@@ -348,34 +344,34 @@ Bareo
 Doggo
 <------------------------------------------------------->
 [0114]
-Shipped
+Dikirim
 <------------------------------------------------------->
 [0115]
-Fished
+Ditangkap
 <------------------------------------------------------->
 [0116]
-Animals
+Hewan
 <------------------------------------------------------->
 [0117]
-Townspeople
+Warga Kota
 <------------------------------------------------------->
 [0118]
-Cooking
+Memasak
 <------------------------------------------------------->
 [0119]
-House Additions
+Perabotan Rumah
 <------------------------------------------------------->
 [0120]
-Tools
+Peralatan
 <------------------------------------------------------->
 [0121]
-Letters
+Surat
 <------------------------------------------------------->
 [0122]
-Events
+Acara
 <------------------------------------------------------->
 [0123]
-Main Character
+Karakter Utama
 <------------------------------------------------------->
 [0124]
 Total
@@ -399,7 +395,7 @@ Farm Points
 
 <------------------------------------------------------->
 [0131]
-Caught Fish
+Ikan Tangkapan
 <------------------------------------------------------->
 [0132]
 %5.1f m
@@ -429,19 +425,19 @@ Caught Fish
 %d s
 <------------------------------------------------------->
 [0141]
-Gold Spent/Gold Obtained
+Pendapatan/Pengeluaran
 <------------------------------------------------------->
 [0142]
-Max G Obtained (1 Day)
+Pendapatan Maks.(1 Hari)
 <------------------------------------------------------->
 [0143]
-Max G Spent (1 Day)
+Pengeluaran Maks. (1 Hari)
 <------------------------------------------------------->
 [0144]
-Max G Obtained (1 Month)
+Pendapatan Maks. (1 Bulan)
 <------------------------------------------------------->
 [0145]
-Max G Spent (1 Month)
+Pengeluaran Maks. (1 Bulan)
 <------------------------------------------------------->
 [0146]
 
@@ -459,22 +455,22 @@ Max G Spent (1 Month)
 
 <------------------------------------------------------->
 [0151]
-Mine Floor Reached
+Lt. tambang dicapai
 <------------------------------------------------------->
 [0152]
 
 <------------------------------------------------------->
 [0153]
-BF%d
+Lt. %d
 <------------------------------------------------------->
 [0154]
-Moles Whacked
+Tikus Dipukul
 <------------------------------------------------------->
 [0155]
-Mini-game High Scores
+Skor Mini-Game Tertinggi
 <------------------------------------------------------->
 [0156]
-BF--
+Lt. --
 <------------------------------------------------------->
 [0157]
 
@@ -954,20 +950,20 @@ BF--
 
 <------------------------------------------------------->
 [0316]
-Start from 1F
+Mulai dari Lt. 1
 <------------------------------------------------------->
 [0317]
-Start from BF50
+Mulai dari Lt. 50
 <------------------------------------------------------->
 [0318]
-Start from BF100
+Mulai dari Lt. 100
 <------------------------------------------------------->
 [0319]
-Start from BF150
+Mulai dari Lt. 150
 <------------------------------------------------------->
 [0320]
-Start from BF200
+Mulai dari Lt. 200
 <------------------------------------------------------->
 [0321]
-Start from BF225
+Mulai dari Lt. 225
 <------------------------------------------------------->

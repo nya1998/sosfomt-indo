@@ -10,7 +10,7 @@ TOTAL_STRING:0044
 
 <------------------------------------------------------->
 [0003]
-Steps
+Langkah
 <------------------------------------------------------->
 [0004]
 "
@@ -19,7 +19,7 @@ Steps
 "
 <------------------------------------------------------->
 [0006]
-Remaining
+Sisa
 <------------------------------------------------------->
 [0007]
 Fill Level
@@ -46,42 +46,43 @@ Fill Level
 
 <------------------------------------------------------->
 [0015]
-was wrapped as a present.
+dibungkus sebagai hadiah.
 <------------------------------------------------------->
 [0016]
-Are you sure you want to throw that away?
+Yakin ingin membuangnya?
 <------------------------------------------------------->
 [0017]
-You can't throw that away.<wait>
+Kamu tidak bisa membuangnya.<wait>
 <------------------------------------------------------->
 [0018]
-It's cursed, so you can't unequip it!<wait>
+Tidak bisa dipakai karena terkutuk it!<wait>
 <------------------------------------------------------->
 [0019]
-If you put it in the Fridge, the wrapping paper will come off. Is that okay?<wait>
+Bungkusnya akan hilang jika ditaruh
+dalam kulkas. Lanjutkan?<wait>
 <------------------------------------------------------->
 [0020]
-Held
+Pegangan
 <------------------------------------------------------->
 [0021]
-Fridge
+Kulkas
 <------------------------------------------------------->
 [0022]
-If you put it in the Cabinet, the wrapping paper will
-come off. Is that okay?<wait>
+Bungkusnya akan hilang jika ditaruh
+dalam lemari. Lanjutkan?<wait>
 <------------------------------------------------------->
 [0023]
-Cabinet
+Lemari
 <------------------------------------------------------->
 [0024]
-Equipment
+Peralatan
 <------------------------------------------------------->
 [0025]
-Tool Box
+Kotak Alat
 <------------------------------------------------------->
 [0026]
-Th-That thing's cursed! What in tarnation are you
-thinking, bringing that here?!<wait>
+B-Benda ini dikutuk! Apa yang kamu
+pikirkan?!<wait>
 <------------------------------------------------------->
 [0027]
 
@@ -90,7 +91,7 @@ thinking, bringing that here?!<wait>
 
 <------------------------------------------------------->
 [0029]
-I can't upgrade that.<wait>
+Ini tidak bisa diupgrade.<wait>
 <------------------------------------------------------->
 [0030]
 
@@ -102,36 +103,35 @@ I can't upgrade that.<wait>
 
 <------------------------------------------------------->
 [0033]
-...You don't have enough money. I'm afraid I can't accept
-the job for that amount.<wait>
+...Uangmu tidak cukup.<wait>
 <------------------------------------------------------->
 [0034]
-That tool isn't ready to be upgraded.<wait>
+Alat ini belum bisa diupgrade.<wait>
 <------------------------------------------------------->
 [0035]
-That tool will cost
+Biayanya
 <------------------------------------------------------->
 [0036]
-G and take
+G dan butuh
 <------------------------------------------------------->
 [0037]
-day(s) to finish. Is that all right?<wait> 
+hari. Lanjutkan?<wait> 
 <------------------------------------------------------->
 [0038]
-Sorry! I can't wrap that.<wait>
+Maaf. Ini tidak bisa dibungkus.<wait>
 <------------------------------------------------------->
 [0039]
 
 <------------------------------------------------------->
 [0040]
-Is this good?
+Apa ini sudah benar?
 <------------------------------------------------------->
 [0041]
-Then wait just a moment... Okay, I'm done.<wait>
+Tunggu sebenar... Selesai.<wait>
 <------------------------------------------------------->
 [0042]
-Then what can I help you with?<wait>
+Ada yang bisa aku bantu?<wait>
 <------------------------------------------------------->
 [0043]
-Presents need wrapping paper, you know! See you.<wait>
+Hadiah butuh sebuah pembungkus.<wait>
 <------------------------------------------------------->

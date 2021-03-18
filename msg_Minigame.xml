@@ -1,25 +1,25 @@
 TOTAL_STRING:0233
 *******************************
 [0000]
-Want to know the rules?
+Kamu ingin tau aturannya?
 <------------------------------------------------------->
 [0001]
-Yes
+Ya
 <------------------------------------------------------->
 [0002]
-No
+no
 <------------------------------------------------------->
 [0003]
-Got it?
+Kamu mengerti?
 <------------------------------------------------------->
 [0004]
-I get it.
+Aku mengerti.
 <------------------------------------------------------->
 [0005]
-No, tell me again.
+no, ulangi.
 <------------------------------------------------------->
 [0006]
-Then let's gooooo!<wait>
+Kalau begitu, mulaiii!<wait>
 <------------------------------------------------------->
 [0007]
 
@@ -31,28 +31,28 @@ Then let's gooooo!<wait>
 %d
 <------------------------------------------------------->
 [0010]
-Objective
+Objektif
 <------------------------------------------------------->
 [0011]
-%d Points
+%d Poin
 <------------------------------------------------------->
 [0012]
-Results
+Hasil
 <------------------------------------------------------->
 [0013]
-Number Watered
+Jumlah Disiram
 <------------------------------------------------------->
 [0014]
 Order Bonus
 <------------------------------------------------------->
 [0015]
-Times Failed
+Jumlah Gagal
 <------------------------------------------------------->
 [0016]
-Number Harvested
+Jumlah Dipanen
 <------------------------------------------------------->
 [0017]
-Number Fed
+Jumlah Pakan
 <------------------------------------------------------->
 [0018]
 Total
@@ -94,7 +94,7 @@ Total
 
 <------------------------------------------------------->
 [0031]
-Then lemme tell you how to play the Animal Care Game!<wait>
+Mari Aku jelaskan cara bermain merawat hewan!<wait>
 <------------------------------------------------------->
 [0032]
 
@@ -109,7 +109,7 @@ Then lemme tell you how to play the Animal Care Game!<wait>
 
 <------------------------------------------------------->
 [0036]
-Then lemme tell you how to play the Harvest Game!<wait>
+Mari Aku jelaskan cara bermain memanen tanaman!<wait>
 <------------------------------------------------------->
 [0037]
 
@@ -139,30 +139,31 @@ Then lemme tell you how to play the Harvest Game!<wait>
 
 <------------------------------------------------------->
 [0046]
-The semifinals are starting.
+Semi-final nya sudah dimulai.
 <------------------------------------------------------->
 [0047]
-It's time for the third match. This will decide which
-chicken will claim the crown, so do your best!<wait>
+Sudah waktunya unutk pertandingan ke tiga, ini akan
+memutuskan siapa yang akan jadi juaranya, jadi
+lakukan yang terbaik!<wait>
 <------------------------------------------------------->
 [0048]
-Match one! Ready... Steady...<wait>
+Pertandingan Pertama! Siap... Sedia...<wait>
 <------------------------------------------------------->
 [0049]
-Semifinal match! Ready... Steady...<wait>
+Pertandingan Semi-Final! Siap... Sedia...<wait>
 <------------------------------------------------------->
 [0050]
-Final match! Ready... Steady...<wait>
+Pertandingan Final! Siap... Sedia<wait>
 <------------------------------------------------------->
 [0051]
-Start!<wait>
+Mulai!<wait>
 <------------------------------------------------------->
 [0052]
-That's enough!<wait>
+Ini no cukup!<wait>
 <------------------------------------------------------->
 [0053]
-Then I'll tell you how the Cluck-Cluck Clash
-matches work.<wait>
+Aku akan memberitau mu cara penilaian pertandingan
+Cluck-Cluck Clash.<wait>
 <------------------------------------------------------->
 [0054]
 
@@ -237,31 +238,31 @@ Doodle
 Louise
 <------------------------------------------------------->
 [0078]
-Want to hear the rules?<wait>
+Kamu ingin tau aturannya?<wait>
 <------------------------------------------------------->
 [0079]
-Nope, I'm good.
+no usah.
 <------------------------------------------------------->
 [0080]
-Wait, tell me again.
+Tunggu, ulangi.
 <------------------------------------------------------->
 [0081]
-<string0> wins!<wait>
+<string0> menang!<wait>
 <------------------------------------------------------->
 [0082]
-You got it?<wait>
+Kamu mengerti?<wait>
 <------------------------------------------------------->
 [0083]
-All clear!
+Ya!
 <------------------------------------------------------->
 [0084]
-First Match
+Pertandingan Pertama
 <------------------------------------------------------->
 [0085]
-Semifinal Match
+Pertandingan Semi-Final
 <------------------------------------------------------->
 [0086]
-Final Match
+Pertandingan Final
 <------------------------------------------------------->
 [0087]
 Terry
@@ -354,13 +355,13 @@ Summer
 Lass
 <------------------------------------------------------->
 [0117]
-Fetch Fest High Scores
+Dapatkan Skor Tertinggi
 <------------------------------------------------------->
 [0118]
 %d
 <------------------------------------------------------->
 [0119]
-Do you want to know the rules?
+Kamu ingin tau aturannya?
 <------------------------------------------------------->
 [0120]
 
@@ -378,37 +379,37 @@ Do you want to know the rules?
 
 <------------------------------------------------------->
 [0125]
-See the explanation again?
+Lihat lagi penjelasannya?
 <------------------------------------------------------->
 [0126]
-Please perform the second throw.<wait>
+Lakukan lemparan kedua.<wait>
 <------------------------------------------------------->
 [0127]
-The contest is over.<wait>
+Acaranya selesai.<wait>
 <------------------------------------------------------->
 [0128]
-Play again?<wait>
+Main lagi?<wait>
 <------------------------------------------------------->
 [0129]
-It doesn't seem to want to play with the Disc any more.<wait>
+Sepertinya dia tidak ingin bermain lagi.<wait>
 <------------------------------------------------------->
 [0130]
-Found <string0>!<wait>
+Menemukan <string0>!<wait>
 <------------------------------------------------------->
 [0131]
-Didn't find anything.<wait>
+Tidak menemukan apapun.<wait>
 <------------------------------------------------------->
 [0132]
-Don't view
+Jangan lihat
 <------------------------------------------------------->
 [0133]
-View
+Lihat
 <------------------------------------------------------->
 [0134]
-Distance
+Jarak
 <------------------------------------------------------->
 [0135]
-Record
+Rekor
 <------------------------------------------------------->
 [0136]
 Apollo
@@ -531,38 +532,39 @@ Eclipse
 Frankie
 <------------------------------------------------------->
 [0176]
-You're not going to buy any?
+Kamu tidak ingin beli apapun?
 <------------------------------------------------------->
 [0177]
-Come again.<wait>
+Datang lagi, ya.<wait>
 <------------------------------------------------------->
 [0178]
-Please, take your time.<wait>
+Luangkan waktumu.<wait>
 <------------------------------------------------------->
 [0179]
-Is this all right?
+Apa ini sudah benar?
 <------------------------------------------------------->
 [0180]
-Yes, very good. May Lady Luck favor you today.<wait>
+Bagus sekali, semoga dewi keberuntungan
+berpihak padamu.<wait>
 <------------------------------------------------------->
 [0181]
-Yes, very good. Do your best out there.<wait>
+Bagus sekali, lakukan yang terbaik.<wait>
 <------------------------------------------------------->
 [0182]
-Changed your mind?<wait>
+Kamu berubah pikiran?<wait>
 <------------------------------------------------------->
 [0183]
-Do you need instructions?
+Kamu butuh instruksi?
 <------------------------------------------------------->
 [0184]
 <page>
-Now, then, let's explain the race!<wait>
-Press the A button when you want to speed your horse up!<wait>
-Keep in mind, however, that speeding up your horse will also consume its stamina!<wait>
+Baiklah, akan kujelaskan!<wait>
+Tekan Tombol A untuk mempercepat kudamu!<wait>
+Ingat, mempercepatnya akan menguras staminanya juga!<wait>
 <------------------------------------------------------->
 [0185]
 <page>
-When your horse's speech bubble is in the green, that means it has plenty of stamina!<wait>
+Jika kudamu punya gelembung hijau, berarti dia punya banyak stamina!<wait>
 <------------------------------------------------------->
 [0186]
 
@@ -572,55 +574,55 @@ When your horse's speech bubble is in the green, that means it has plenty of sta
 <------------------------------------------------------->
 [0188]
 <page>
-When you're not pressing A, your horse's stamina will recover over time.<wait>
-Keep an eye on your horse's speech bubble while timing those button presses to your advantage!<wait>
+Jika kamu tidak menekan tombol A, staminanya akan pulih.<wait>
+Awasi gelembung bicara kudamu saat menekan Tombol A!<wait>
 <------------------------------------------------------->
 [0189]
-Hear the explanation again.
+Jelaskan lagi.
 <------------------------------------------------------->
 [0190]
-Okay, then let's begin.<wait>
+Baiklah, ayo kita mulai.<wait>
 <------------------------------------------------------->
 [0191]
 #1 <string1>
 #2 <string2><wait><page>
 #3 <string3>
 #4 <string4><wait><page>
-The race will begin momentarily.<wait><page>
-Ready...<wait>
+Balapan akan di mulai.<wait><page>
+Siap...<wait>
 <------------------------------------------------------->
 [0192]
-The results of this race:
-1st Place <string1>
-2nd Place <string2><wait><page>
-3rd Place <string3>
-4th Place <string4><wait><page>
-All results are final.<wait>
+Hasil dari balapan:
+Nomor 1 <string1>
+Nomor 2 <string2><wait><page>
+Nomor 3 <string3>
+Nomor 4 <string4><wait><page>
+Hasil bersifat final.<wait>
 <------------------------------------------------------->
 [0193]
-The payout for Race #<string1> is
-as follows.<wait>
+Bayaran #<string1> is
+sebagai berikut.<wait>
 <------------------------------------------------------->
 [0194]
-If you want to exchange medals for prizes, please come
-speak to me at the booth.<wait><page>
-Medals can only be exchanged for prizes at the Derby,
-so please don't forget.<wait>
+Jika kamu ingin menukarkan medali, bicaralah
+padaku.<wait><page>
+Medali hanya bisa ditukarkan saat lomba,
+jangan lupa.<wait>
 <------------------------------------------------------->
 [0195]
-Horse Tickets
+Tiket kuda
 <------------------------------------------------------->
 [0196]
 
 <------------------------------------------------------->
 [0197]
-Medals Won
+Total medali
 <------------------------------------------------------->
 [0198]
 
 <------------------------------------------------------->
 [0199]
-...Select the horse you'd like to buy tickets for.
+...Pilih kuda yang ingin kamu belikan tiket.
 <------------------------------------------------------->
 [0200]
 
@@ -644,71 +646,71 @@ Medals Won
 
 <------------------------------------------------------->
 [0207]
-Race #%d
+Balapan ke %d
 <------------------------------------------------------->
 [0208]
 %dx
 <------------------------------------------------------->
 [0209]
-%d Medals
+%d Medali
 <------------------------------------------------------->
 [0210]
-Prizes
+Hadiah
 <------------------------------------------------------->
 [0211]
-Current Medals
+Medali saat ini
 <------------------------------------------------------->
 [0212]
 
 <------------------------------------------------------->
 [0213]
-You don't want to exchange anything?
+Kamu tidak ingin menukarkan apapun?
 <------------------------------------------------------->
 [0214]
-Come again.<wait>
+Datang lagi, ya.<wait>
 <------------------------------------------------------->
 [0215]
-Please, take your time.
+Luangkan waktumu.
 <wait>
 <------------------------------------------------------->
 [0216]
-Is <string1> all right?<wait>
+Apa <string1> sudah benar?<wait>
 <------------------------------------------------------->
 [0217]
-Changed your mind?<wait>
+Berubah pikiran?<wait>
 <------------------------------------------------------->
 [0218]
-You don't have enough medals.<wait>
+Medali mu tidak cukup.<wait>
 <------------------------------------------------------->
 [0219]
-Exchange for this prize?
+Tukarkan dengan ini?
 <------------------------------------------------------->
 [0220]
-Exchange
+Tukarkan
 <------------------------------------------------------->
 [0221]
-Quit
+Keluar
 <------------------------------------------------------->
 [0222]
-Great!
+Bagus!
 <------------------------------------------------------->
 [0223]
-Bad!
+Buruk!
 <------------------------------------------------------->
 [0224]
-Success!
+Sukses!
 <------------------------------------------------------->
 [0225]
-Failure...
+Gagal...
 <------------------------------------------------------->
 [0226]
-START
+MULAI
 <------------------------------------------------------->
 [0227]
-PAUSE
+BERHENTI
 <------------------------------------------------------->
 [0228]
-FINISH
+SELESAI
 <------------------------------------------------------->
 [0229]
 -
